@@ -49,7 +49,7 @@
 
 <div align="center">
     <a href="">
-        <img src="https://github.com/juletopi/Front-End_Coding_Journey/assets/76459155/a97a427b-c85b-44da-96a6-472a967decfc" alt="FrontEndRoadmap-pic" width="830px" title="Meu Front-End Roadmap">
+        <img src="https://github.com/juletopi/Front-End_Coding_Journey/assets/76459155/fde3dac4-a6ac-4219-a2e2-8fa8d9214fce" alt="FrontEndRoadmap-pic" width="830px" title="Meu Front-End Roadmap">
     </a>
 </div>
 
