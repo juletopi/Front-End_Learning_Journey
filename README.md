@@ -47,6 +47,13 @@
   
 ## 🗺️ Roadmap de Front-End:
 
+<div align="center">
+    <a href="">
+        <img src="https://github.com/juletopi/Front-End_Coding_Journey/assets/76459155/a97a427b-c85b-44da-96a6-472a967decfc" alt="FrontEndRoadmap-pic" width="830px" title="Meu Front-End Roadmap">
+    </a>
+</div>
+
+
 ### 1. HTML e CSS Fundamentais
 - **Estrutura semântica do HTML5:** Utilizar as tags do HTML5 de maneira semântica, atribuindo significado correto aos elementos da página para melhorar acessibilidade e SEO.
 - **Estilização avançada com CSS3:** Utilizar recursos avançados do CSS3 para estilizar páginas web, como gradientes, sombras, transições e animações.
