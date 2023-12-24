@@ -66,6 +66,10 @@ E quando a trilha fica mais intensa, vamos explorar coisas avançadas, como test
 
 No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos para encarar qualquer desafio nesse mundo selvagem da programação Front-End 🚀✨
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
 </div>
 
 <!-- ROAD MAP -->
