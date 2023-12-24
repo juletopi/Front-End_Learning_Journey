@@ -28,7 +28,8 @@
   • Este é um repositório com o conteúdo dedicado ao meu aprendizado pessoal sobre Front-End. \
   Aprendendo **HTML**, **CSS** e **JavaScript**, dominando frameworks como **React**, **Angular** e **Vue.js**, \
   e aprimorando habilidades em **design responsivo**, **versionamento de código**, **perfomançe** e **otimização**.
- 
+
+  <br>
 </div>
 
 <!-- WHAT IS FRONT-END -->
