@@ -41,8 +41,7 @@
   
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/d7bdc013-292e-4f81-82b6-c2755a7d736f" alt="WhatIsFrontEnd-pic" width="230px">
 
-O "Front-End" é a parte bonitinha e interativa que as pessoas veem e clicam quando visitam um site. \
-Sabe aqueles botõezinhos, as animações legais, e os textos alinhadinhos? Tudo isso é Front-End!
+O "Front-End" é a parte bonitinha e interativa que as pessoas veem e clicam quando visitam um site. Sabe aqueles botõezinhos, as animações legais, e os textos alinhadinhos? Tudo isso é Front-End!
 
 Então, se você curte mexer com *HTML* para criar a estrutura, *CSS* para dar estilo e *JavaScript* para fazer as coisas acontecerem, parabéns, você está mergulhando no mundo fascinante do Front-End. É como ser o arquiteto e o decorador da web, criando experiências que fazem as pessoas ficarem de queixo caído.
 
@@ -54,7 +53,7 @@ Agora abaixo vou apresentar o meu **roadmap de Front-End!** 🗺️
 
 <br>
 
-<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/a5a28085-4f2c-475d-b991-3e9e19a0b28c" alt="RoadmapDeco-pic" width="120px">
+<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/a5a28085-4f2c-475d-b991-3e9e19a0b28c" alt="RoadmapDeco-pic" width="150px">
 
 A ideia é meio como uma jornada, onde você começa aprendendo os básicos da web com HTML, CSS e JavaScript – são como habilidades de sobrevivência nesse território digital.
 
