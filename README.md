@@ -37,7 +37,34 @@
 
 ## Mas o que diaxo é "Front-End"? 🤔
 
-...
+<div align="left">
+  
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/d7bdc013-292e-4f81-82b6-c2755a7d736f" alt="WhatIsFrontEnd-pic" width="230px">
+
+O "Front-End" é a parte bonitinha e interativa que as pessoas veem e clicam quando visitam um site. \
+Sabe aqueles botõezinhos, as animações legais, e os textos alinhadinhos? Tudo isso é Front-End!
+
+Então, se você curte mexer com *HTML* para criar a estrutura, *CSS* para dar estilo e *JavaScript* para fazer as coisas acontecerem, parabéns, você está mergulhando no mundo fascinante do Front-End. É como ser o arquiteto e o decorador da web, criando experiências que fazem as pessoas ficarem de queixo caído.
+
+É onde a mágica acontece, meu caro! ✨
+
+<br>
+
+Agora abaixo vou apresentar o meu **roadmap de Front-End!** 🗺️
+
+<br>
+
+<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/a5a28085-4f2c-475d-b991-3e9e19a0b28c" alt="RoadmapDeco-pic" width="120px">
+
+A ideia é meio como uma jornada, onde você começa aprendendo os básicos da web com HTML, CSS e JavaScript – são como habilidades de sobrevivência nesse território digital.
+
+Depois, você avança para os frameworks, tipo React, Angular ou Vue.js. Eles são como poderes mágicos que dão um toque especial às suas criações.
+
+Ao longo do caminho, vamos fazer uma parada ou outra para aprender sobre versionamento de código, tipo deixar um mapa para que outros aventureiros (e até você mesmo) possam seguir o seu rastro.
+
+E quando a trilha fica mais intensa, vamos explorar coisas avançadas, como testes, Progressive Web Apps (PWAs), otimização de desempenho – são como poções mágicas para tornar suas criações ainda mais poderosas!
+
+No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos para encarar qualquer desafio nesse mundo selvagem da programação Front-End 🚀✨
 
 </div>
 
