@@ -31,10 +31,6 @@
 </div>
 <br>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FA3E3E&height=4&section=header&%20render">
-</div>
-
 <!-- SUMMARY -->
 
 <h2 align="center">Sumário 🧾</h2>
@@ -50,7 +46,16 @@
     <a href="#-author">Author</a>
   </p>
 </div>
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FA3E3E&height=4&section=header&%20render">
+</div>
 <br>
+
+<div align="center">
+ 
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=O%20Front-End%20é%20a%20ponte%20entre%20a%20visão%20e%20a%20execução,%20onde%20a%20criatividade%20do%20design%20encontra%20o%20poder%20da%20implementação.%20Navegar%20nessa%20fronteira%20é%20o%20que%20transforma%20um%20desenvolvedor%20em%20um%20verdadeiro%20artista%20digital.&author=Autor%20Desconhecido)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 <!-- WHAT IS FRONT-END -->
 
