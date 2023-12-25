@@ -80,7 +80,13 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <div align="center">
     <a href="">
-        <img src="https://github.com/juletopi/Front-End_Coding_Journey/assets/76459155/fde3dac4-a6ac-4219-a2e2-8fa8d9214fce" alt="FrontEndRoadmap-pic" width="830px" title="Meu Front-End Roadmap">
+        <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/8384e052-4aff-4fdf-b894-9783120e98f4" alt="FrontEndRoadmap-pic" width="830px" title="Meu Front-End Roadmap">
+    </a>
+</div>
+
+<div align="center">
+    <a href="">
+        <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/f65ca220-066f-4cff-9041-1f915fc89e43" alt="FrontEndRoadmap2-pic" width="830px" title="Meu Front-End Roadmap (Parte 2)">
     </a>
 </div>
 
