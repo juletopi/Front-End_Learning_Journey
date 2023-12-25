@@ -34,12 +34,21 @@
 
 <h2 align="center">Sumário 🧾</h2>
 
-<div align="center">
-  <p align="center">
-    <a href="#mas-o-que-diaxo-é-front-end-">O que é "Front-End"?</a> &#xa0; | &#xa0;
-    <a href="#%EF%B8%8F-roadmap-de-front-end">Roadmap de Front-End</a> &#xa0; | &#xa0;
-    <a href="#-autor">Autor</a>
-  </p>
+| Periféricos | Tópicos (Roadmap) | Tópicos de Estudo |
+|-------------|-------------------|-------------------|
+| [O que é "Front-End"?](#mas-o-que-diaxo-é-front-end-) | [1. HTML, CSS, IDEs e Responsividade](#1-html-css-ides-e-responsividade) | --- |
+| [Roadmap de Front-End (Título)](#%EF%B8%8F-roadmap-de-front-end) | [2. JavaScript, Event Handling e AJAX](#2-javascript-event-handling-e-ajax) | --- |
+| [Roadmap de Front-End (Extras)](#extras) | [3. Frameworks CSS](#3-frameworks-css) | --- |
+| [Autor](#-autor) | [4. Pré-processadores CSS](#4-pré-processadores-css) | --- |
+|  | [5. Frameworks JavaScript](#5-frameworks-javascript) | --- |
+|  | [6. Versionamento de Código](#6-versionamento-de-código) | --- |
+|  | [7. Hospedagem de Web-páginas](#7-hospedagem-de-web-páginas) | --- |
+|  | [8. Task Runners e Module Bundlers](#8-task-runners-e-module-bundlers) | --- |
+|  | [9. Unit Testing (Testes Front-End)](#9-unit-testing-testes-front-end) | --- |
+|  | [I. UI & UX Design](#i-ui--ux-design) | --- |
+|  | [II. Segurança Front-End](#ii-segurança-front-end) | --- |
+|  | [III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)](#iii-ferramentas-auxiliares-uso-de-ias-photoshop-figma-etc) | --- |
+
 </div>
 
 <div align="center">
@@ -218,21 +227,21 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ## Extras
 
-### 1. UI & UX Design
+### I. UI & UX Design
 
 - **Descrição:**
   - Compreender os princípios de design de interface e experiência do usuário para criar experiências web intuitivas e agradáveis.
 - **Quando Aprender:**
   - Ao explorar o design de interfaces.
 
-### 2. Segurança Front-End
+### II. Segurança Front-End
 
 - **Descrição:**
   - Implementar práticas de segurança em aplicações web e compreender conceitos como Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
 - **Quando Aprender:**
   - Introduzir quando começar a lidar com interações mais avançadas.
 
-### 3. Ferramentas Auxiliares (Uso do IAs, Photoshop, Figma, etc.)
+### III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)
 
 - **Descrição:**
   - Familiarizar-se com ferramentas de design e prototipagem para auxiliar no processo de criação de interfaces e código.
