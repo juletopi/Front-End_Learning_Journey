@@ -11,7 +11,6 @@
 <div align="left">
   <img src="https://img.shields.io/github/license/juletopi/Front-End_Learning_Journey" alt="Liscence-badge">
 </div>
-
 <br>
 
 <!-- PRESENTATION -->
@@ -29,8 +28,29 @@
   Aprendendo **HTML**, **CSS** e **JavaScript**, dominando frameworks como **React**, **Angular** e **Vue.js**, \
   e aprimorando habilidades em **design responsivo**, **versionamento de código**, **perfomançe** e **otimização**.
 
-  <br>
 </div>
+<br>
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FA3E3E&height=4&section=header&%20render">
+</div>
+
+<!-- SUMMARY -->
+
+<h2 align="center">Sumário 🧾</h2>
+
+<div align="center">
+  <p align="center">
+    <a href="#-project-progress">Project Progress</a> &#xa0; | &#xa0;
+    <a href="#-about-the-project">About the Project</a> &#xa0; | &#xa0;
+    <a href="#-how-to-use">How to Use</a>
+  </p>
+  <p align="center">
+    <a href="#-prerequisites">Prerequisites</a> &#xa0; | &#xa0;
+    <a href="#-author">Author</a>
+  </p>
+</div>
+<br>
 
 <!-- WHAT IS FRONT-END -->
 
@@ -70,8 +90,6 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-</div>
-
 <!-- ROAD MAP -->
 
 <div align="left">
@@ -86,10 +104,9 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <div align="center">
     <a href="">
-        <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/f65ca220-066f-4cff-9041-1f915fc89e43" alt="FrontEndRoadmap2-pic" width="830px" title="Meu Front-End Roadmap (Parte 2)">
+        <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/882ff195-bc38-4226-a36c-3b59d1fc3b01" alt="FrontEndRoadmap2-pic" width="830px" title="Meu Front-End Roadmap (Parte 2)">
     </a>
 </div>
-
 
 ### 1. HTML e CSS Fundamentais
 - **Estrutura semântica do HTML5:** Utilizar as tags do HTML5 de maneira semântica, atribuindo significado correto aos elementos da página para melhorar acessibilidade e SEO.
@@ -150,5 +167,67 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Boas práticas de comunicação:** Desenvolver habilidades de comunicação eficazes para colaborar com colegas e transmitir informações de forma clara.
 - **Trabalho em equipe:** Colaborar efetivamente em equipe, entendendo a importância da colaboração no desenvolvimento de software.
 
+</div>
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FA3E3E&height=4&section=header&%20render">
+</div>
+
+<!-- AUTHOR -->
+
+## 👤 Autor
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center">  
+        <a href="https://github.com/juletopi">
+          <img src="https://user-images.githubusercontent.com/76459155/220271784-9f930c36-c370-4518-9b56-604627c6e2b5.png" width="120px;" alt="JuletopiAvatar-pic" title="Autor: Juletopi" />
+          <br>
+          <sub><b>Júlio Cézar | Juletopi</b></sub>
+        </a>
+      </div>
+    </td>
+    <td valign="left" width="100%">
+      <div align="left">
+        <ul>
+          <li>
+            <sub><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="15" alt="LinkedIn-icon"> LinkedIn - <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">Júlio Cézar P. Camargo</a></sub>
+          </li>
+          <li>
+            <sub><img align="center" src="https://pngimg.com/uploads/email/email_PNG100738.png" height="15" alt="Facebook-icon"> Email - <a href="mailto:juliocezarpvh@hotmail.com">juliocezarpvh@hotmail.com</a></sub>
+          </li>
+          <li>
+            <sub><img align="center" src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="15" alt="WhatsApp-icon"> Whatsapp - <a href="http://api.whatsapp.com/send?phone=5569993606894">+55 (69) 9 9360-6894</a></sub>
+          </li>
+          <li>
+            <sub><img align="center" src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="15" alt="Instagram-icon"> Instagram - <a href="https://www.instagram.com/juletopi/">@juletopi</a></sub>
+          </li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+<br>
+
+<!-- THANK YOU, GOODBYE -->
+
+----
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sue+Ellen+Francisco&size=40&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=620&height=60&lines=Obrigado+por+visitar%2C+e+até+a+próxima!" alt="TypingGoodbye-SVG" title="Boas venturas e volte sempre que precisar! ;)"/>
+  </a>
+</div>
+
+<div align="center">
+  Feito com 🧡 por <a href="https://github.com/juletopi"> Juletopi</a>.
 </div>
