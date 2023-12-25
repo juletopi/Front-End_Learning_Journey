@@ -147,6 +147,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Integrado ao aprendizado de CSS, à medida que se explora o design responsivo.
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
 ## 2. JavaScript, Event Handling e AJAX
 
 ### a. Manipulação do DOM
@@ -167,12 +171,20 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Introduzir após uma compreensão sólida de JavaScript.
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
 ## 3. Frameworks CSS
 
 - **Descrição:**
   - Aprender frameworks CSS como Bootstrap, Foundation ou Tailwind CSS para agilizar o desenvolvimento de estilos e layouts.
 - **Quando Aprender:**
   - Após dominar os conceitos básicos de HTML e CSS.
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 
 ## 4. Pré-processadores CSS
 
@@ -182,6 +194,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Após familiaridade com CSS básico.
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
 ## 5. Frameworks JavaScript
 
 - **Descrição:**
@@ -189,6 +205,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Aprender frameworks de Package Managing como yarn e npm, para simplificam o processo de obtenção, atualização e remoção de pacotes.
 - **Quando Aprender:**
   - Após uma base sólida em HTML, CSS e JavaScript básico.
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 
 ## 6. Versionamento de Código
 
@@ -198,12 +218,20 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Introduzir ao trabalhar em projetos colaborativos.
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
 ## 7. Hospedagem de Web-páginas
 
 - **Descrição:**
   - Compreender diferentes opções de hospedagem, incluindo serviços como GitHub Pages, Netlify ou Vercel.
 - **Quando Aprender:**
   - Ao começar a publicar projetos online.
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 
 ## 8. Task Runners e Module Bundlers
 
@@ -212,6 +240,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Automatizar tarefas repetitivas, como minificação de arquivos, e modularizar o código para melhorar a eficiência do desenvolvimento.
 - **Quando Aprender:**
   - À medida que se aprofunda no desenvolvimento e busca otimização.
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 
 ## 9. Unit Testing (Testes Front-End)
 
@@ -227,6 +259,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Conforme avança em projetos mais complexos.
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
 ## Extras
 
 ### I. UI & UX Design
@@ -236,12 +272,20 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Ao explorar o design de interfaces.
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
 ### II. Segurança Front-End
 
 - **Descrição:**
   - Implementar práticas de segurança em aplicações web e compreender conceitos como Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
 - **Quando Aprender:**
   - Introduzir quando começar a lidar com interações mais avançadas.
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 
 ### III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)
 
