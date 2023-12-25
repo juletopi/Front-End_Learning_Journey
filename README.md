@@ -108,64 +108,136 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
     </a>
 </div>
 
-### 1. HTML e CSS Fundamentais
-- **Estrutura semântica do HTML5:** Utilizar as tags do HTML5 de maneira semântica, atribuindo significado correto aos elementos da página para melhorar acessibilidade e SEO.
-- **Estilização avançada com CSS3:** Utilizar recursos avançados do CSS3 para estilizar páginas web, como gradientes, sombras, transições e animações.
-- **Responsividade e design mobile-first:** Desenvolver layouts que se ajustem a diferentes tamanhos de tela, priorizando o design para dispositivos móveis.
+<div align="left">
 
-### 2. JavaScript Básico
-- **Manipulação do DOM:** Interagir dinamicamente com a estrutura da página utilizando JavaScript para modificar, adicionar ou remover elementos.
-- **Event handling:** Trabalhar com eventos do usuário, como cliques e teclas pressionadas, para criar interações dinâmicas.
-- **AJAX e requisições assíncronas:** Enviar e receber dados do servidor de forma assíncrona, atualizando partes específicas da página sem recarregar completamente.
+## 1. HTML, CSS, IDEs e Responsividade
 
-### 3. Frameworks JavaScript
-- **Aprender um framework moderno (React, Angular, ou Vue.js):** Dominar um framework Front-End popular para facilitar o desenvolvimento de interfaces complexas e reativas.
-- **Gerenciamento de estado:** Compreender e implementar soluções eficientes para o gerenciamento de estado da aplicação, permitindo uma manipulação coesa e previsível dos dados.
-- **Componentização:** Construir interfaces modulares divididas em componentes reutilizáveis.
+### a. HTML5 e Estrutura Semântica
+- **Descrição:**
+  - Utilizar as tags do HTML5 de maneira semântica, atribuindo significado correto aos elementos da página para melhorar acessibilidade e SEO.
+- **Quando Aprender:**
+  - Desde o início do aprendizado de Front-End.
 
-### 4. Versionamento de Código
-- **Git e GitHub (ou outra plataforma de controle de versão):** Utilizar sistemas de controle de versão para rastrear alterações no código, colaborar com outros desenvolvedores e gerenciar versões de software.
+### b. Estilização com CSS3
+- **Descrição:**
+  - Utilizar os recursos do CSS3 para estilizar páginas web, como gradientes, sombras, transições e animações.
+- **Quando Aprender:**
+  - Integrado ao aprendizado inicial de HTML e CSS.
 
-### 5. Pré-processadores CSS
-- **Sass ou Less para melhorar a manutenibilidade do código CSS:** Utilizar pré-processadores CSS para introduzir variáveis, funções e outros recursos que facilitam a manutenção e organização do código.
+### c. IDEs
+- **Descrição:**
+  - Aprender o que são "IDEs" e como utilizá-las para programar.
+- **Quando Aprender:**
+  - Introduzir conceitos de IDEs ao começar a escrever código.
 
-### 6. Task Runners e Module Bundlers
-- **Gulp, Webpack ou Parcel para otimização de tarefas e modularização:** Automatizar tarefas repetitivas, como minificação de arquivos, e modularizar o código para melhorar a eficiência do desenvolvimento.
+### d. Responsividade e Design Mobile-First
+- **Descrição:**
+  - Desenvolver layouts que se ajustem a diferentes tamanhos de tela, priorizando o design para dispositivos móveis.
+- **Quando Aprender:**
+  - Integrado ao aprendizado de CSS, à medida que se explora o design responsivo.
 
-### 7. Testes Front-End
-- **Unit testing com Jest ou Mocha:** Criar testes automatizados para verificar unidades isoladas de código.
-- **Testes de integração:** Testar a interação entre diferentes partes do sistema para garantir o funcionamento correto.
+## 2. JavaScript, Event Handling e AJAX
 
-### 8. Progressive Web Apps (PWAs)
-- **Offline-first:** Projetar aplicações que funcionam offline e sincronizam dados quando a conexão é restaurada.
-- **Service Workers:** Utilizar service workers para implementar funcionalidades como notificações push e cache offline.
+### a. Manipulação do DOM
+- **Descrição:**
+  - Interagir dinamicamente com a estrutura da página utilizando JavaScript para modificar, adicionar ou remover elementos.
+- **Quando Aprender:**
+  - Integrado ao aprendizado de JavaScript básico.
 
-### 9. Performance e Otimização
-- **Otimização de imagens:** Reduzir o tamanho de imagens para melhorar o desempenho da página.
-- **Lazy loading:** Carregar recursos de forma assíncrona, reduzindo o tempo de carregamento inicial.
-- **Minificação de recursos:** Minificar arquivos CSS, JavaScript e HTML para reduzir o tamanho dos arquivos e melhorar o tempo de carregamento.
+### b. Event Handling
+- **Descrição:**
+  - Trabalhar com eventos do usuário, como cliques e teclas pressionadas, para criar interações dinâmicas.
+- **Quando Aprender:**
+  - Continuação do aprendizado de JavaScript, após a manipulação do DOM.
 
-### 10. Segurança Front-End
-- **Práticas de segurança em aplicações web:** Implementar práticas seguras para proteger contra vulnerabilidades comuns.
-- **Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF):** Compreender e mitigar ataques XSS e CSRF.
+### c. AJAX e Requisições Assíncronas
+- **Descrição:**
+  - Enviar e receber dados do servidor de forma assíncrona, atualizando partes específicas da página sem recarregar completamente.
+- **Quando Aprender:**
+  - Introduzir após uma compreensão sólida de JavaScript.
 
-### 11. Conhecimento de Ferramentas de Desenvolvimento
-- **DevTools:** Utilizar as ferramentas de desenvolvedor do navegador para depurar, perfilar e otimizar o código.
-- **Linters:** Incorporar ferramentas de linting para garantir a consistência e qualidade do código.
+## 3. Frameworks CSS
 
-### 12. SEO
-- **Boas práticas de SEO:** Implementar técnicas de otimização para melhorar a visibilidade nos motores de busca.
+- **Descrição:**
+  - Aprender frameworks CSS como Bootstrap, Foundation ou Tailwind CSS para agilizar o desenvolvimento de estilos e layouts.
+- **Quando Aprender:**
+  - Após dominar os conceitos básicos de HTML e CSS.
 
-### 13. Design Patterns
-- **MVC, MVVM, etc.:** Compreender e aplicar padrões de design como Model-View-Controller (MVC) e Model-View-ViewModel (MVVM) para criar arquiteturas escaláveis e de fácil manutenção.
+## 4. Pré-processadores CSS
 
-### 14. Acessibilidade
-- **WCAG guidelines:** Seguir as diretrizes da Web Content Accessibility Guidelines (WCAG) para tornar aplicações web acessíveis a todos os usuários.
-- **Desenvolvimento inclusivo:** Adotar práticas que garantam uma experiência inclusiva para pessoas com diferentes habilidades e necessidades.
+### a. Sass ou Less
+- **Descrição:**
+  - Utilizar pré-processadores CSS para introduzir variáveis, funções e outros recursos que facilitam a manutenção e organização do código.
+- **Quando Aprender:**
+  - Após familiaridade com CSS básico.
 
-### 15. Soft Skills
-- **Boas práticas de comunicação:** Desenvolver habilidades de comunicação eficazes para colaborar com colegas e transmitir informações de forma clara.
-- **Trabalho em equipe:** Colaborar efetivamente em equipe, entendendo a importância da colaboração no desenvolvimento de software.
+## 5. Frameworks JavaScript
+
+- **Descrição:**
+  - Aprender frameworks JavaScript populares como React, Angular ou Vue.js para construir interfaces reativas e complexas.
+  - Aprender frameworks de Package Managing como yarn e npm, para simplificam o processo de obtenção, atualização e remoção de pacotes.
+- **Quando Aprender:**
+  - Após uma base sólida em HTML, CSS e JavaScript básico.
+
+## 6. Versionamento de Código
+
+### a. Git e GitHub
+- **Descrição:**
+  - Utilizar sistemas de controle de versão para rastrear alterações no código, colaborar com outros desenvolvedores e gerenciar versões de software.
+- **Quando Aprender:**
+  - Introduzir ao trabalhar em projetos colaborativos.
+
+## 7. Hospedagem de Web-páginas
+
+- **Descrição:**
+  - Compreender diferentes opções de hospedagem, incluindo serviços como GitHub Pages, Netlify ou Vercel.
+- **Quando Aprender:**
+  - Ao começar a publicar projetos online.
+
+## 8. Task Runners e Module Bundlers
+
+### a. Gulp, Webpack ou Parcel
+- **Descrição:**
+  - Automatizar tarefas repetitivas, como minificação de arquivos, e modularizar o código para melhorar a eficiência do desenvolvimento.
+- **Quando Aprender:**
+  - À medida que se aprofunda no desenvolvimento e busca otimização.
+
+## 9. Unit Testing (Testes Front-End)
+
+### a. Unit Testing com Jest ou Mocha
+- **Descrição:**
+  - Criar testes automatizados para verificar unidades isoladas de código.
+- **Quando Aprender:**
+  - Após construir uma base sólida em JavaScript e frameworks.
+
+### b. Testes de Integração
+- **Descrição:**
+  - Testar a interação entre diferentes partes do sistema para garantir o funcionamento correto.
+- **Quando Aprender:**
+  - Conforme avança em projetos mais complexos.
+
+## Extras
+
+### 1. UI & UX Design
+
+- **Descrição:**
+  - Compreender os princípios de design de interface e experiência do usuário para criar experiências web intuitivas e agradáveis.
+- **Quando Aprender:**
+  - Ao explorar o design de interfaces.
+
+### 2. Segurança Front-End
+
+- **Descrição:**
+  - Implementar práticas de segurança em aplicações web e compreender conceitos como Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
+- **Quando Aprender:**
+  - Introduzir quando começar a lidar com interações mais avançadas.
+
+### 3. Ferramentas Auxiliares (Uso do IAs, Photoshop, Figma, etc.)
+
+- **Descrição:**
+  - Familiarizar-se com ferramentas de design e prototipagem para auxiliar no processo de criação de interfaces e código.
+- **Quando Aprender:**
+  - Conforme você avança no design e na implementação de interfaces.
 
 </div>
 
