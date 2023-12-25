@@ -115,7 +115,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <div align="center">
     <a href="">
-        <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/882ff195-bc38-4226-a36c-3b59d1fc3b01" alt="FrontEndRoadmap2-pic" width="830px" title="Meu Front-End Roadmap (Parte 2)">
+        <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e15cb7fc-b30d-4a47-b9d2-8ac61f5b7062" alt="FrontEndRoadmap2-pic" width="830px" title="Meu Front-End Roadmap (Parte 2)">
     </a>
 </div>
 
