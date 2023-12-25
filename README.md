@@ -29,7 +29,6 @@
   e aprimorando habilidades em **design responsivo**, **versionamento de código**, **perfomançe** e **otimização**.
 
 </div>
-<br>
 
 <!-- SUMMARY -->
 
@@ -37,18 +36,14 @@
 
 <div align="center">
   <p align="center">
-    <a href="#-project-progress">Project Progress</a> &#xa0; | &#xa0;
-    <a href="#-about-the-project">About the Project</a> &#xa0; | &#xa0;
-    <a href="#-how-to-use">How to Use</a>
-  </p>
-  <p align="center">
-    <a href="#-prerequisites">Prerequisites</a> &#xa0; | &#xa0;
-    <a href="#-author">Author</a>
+    <a href="#mas-o-que-diaxo-é-front-end-">O que é "Front-End"?</a> &#xa0; | &#xa0;
+    <a href="#%EF%B8%8F-roadmap-de-front-end">Roadmap de Front-End</a> &#xa0; | &#xa0;
+    <a href="#-autor">Autor</a>
   </p>
 </div>
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FA3E3E&height=4&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dddddd&height=3&section=header&%20render">
 </div>
 <br>
 
@@ -179,7 +174,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 </div>
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FA3E3E&height=4&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dddddd&height=3&section=header&%20render">
 </div>
 
 <!-- AUTHOR -->
@@ -229,10 +224,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sue+Ellen+Francisco&size=40&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=620&height=60&lines=Obrigado+por+visitar%2C+e+até+a+próxima!" alt="TypingGoodbye-SVG" title="Boas venturas e volte sempre que precisar! ;)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Sue+Ellen+Francisco&size=40&duration=1&pause=99999&color=dddddd&center=true&vCenter=true&repeat=false&width=620&height=60&lines=Obrigado+por+visitar%2C+e+até+a+próxima!" alt="TypingGoodbye-SVG" title="Boas venturas e volte sempre que precisar! ;)"/>
   </a>
 </div>
 
 <div align="center">
-  Feito com 🧡 por <a href="https://github.com/juletopi"> Juletopi</a>.
+  Feito com 🤍 por <a href="https://github.com/juletopi"> Juletopi</a>.
 </div>
