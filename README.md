@@ -45,7 +45,7 @@
 
 <h2 align="center">Sumário 🧾</h2>
 
-| Periféricos | Tópicos (Roadmap) | Tópicos de Estudo |
+| 🔗 Periféricos | 🗺️ Tópicos (Roadmap) | 📚 Tópicos de Estudo |
 |-------------|-------------------|-------------------|
 | [O que é "Front-End"?](#mas-o-que-diaxo-é-front-end-) | [1. HTML, CSS, IDEs e Responsividade](#1-html-css-ides-e-responsividade) | --- |
 | [Roadmap de Front-End (Título)](#%EF%B8%8F-roadmap-de-front-end) | [2. JavaScript, Event Handling e AJAX](#2-javascript-event-handling-e-ajax) | --- |
