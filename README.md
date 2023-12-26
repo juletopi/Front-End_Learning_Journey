@@ -372,9 +372,9 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-### II. Segurança Front-End
-
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/c9fd83e7-b76b-4741-8e30-59dfc2b3c652" alt="TopicDeco-pic" width="150px">
+
+### II. Segurança Front-End
 
 - **Descrição:**
   - Implementar práticas de segurança em aplicações web e compreender conceitos como Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
@@ -389,9 +389,9 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-### III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)
-
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/f5210104-2b40-472c-8fad-d0b32e0eb8aa" alt="TopicDeco-pic" width="150px">
+
+### III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)
 
 - **Descrição:**
   - Familiarizar-se com ferramentas de design e prototipagem para auxiliar no processo de criação de interfaces e código.
