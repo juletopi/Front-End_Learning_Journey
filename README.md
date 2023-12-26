@@ -131,6 +131,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Desde o início do aprendizado de Front-End.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF6D00&height=2&section=header&%20render">
+</div>
+
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/3eda3516-906f-4694-95f3-f62387360c40" alt="TopicDeco-pic" width="150px">
 
 ### b. Estilização com CSS3
@@ -138,6 +142,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Utilizar os recursos do CSS3 para estilizar páginas web, como gradientes, sombras, transições e animações.
 - **Quando Aprender:**
   - Integrado ao aprendizado inicial de HTML e CSS.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=059BE4&height=2&section=header&%20render">
+</div>
 
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/c18ffcd9-a6d5-42f7-be9c-bd1867a4c13c" alt="TopicDeco-pic" width="150px">
 
@@ -147,6 +155,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Introduzir conceitos de IDEs ao começar a escrever código.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00BF63&height=2&section=header&%20render">
+</div>
+
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e03d34f4-cf7b-4aac-a86a-a7d9b3d9e912" alt="TopicDeco-pic" width="150px">
 
 ### d. Responsividade e Design Mobile-First
@@ -154,6 +166,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Desenvolver layouts que se ajustem a diferentes tamanhos de tela, priorizando o design para dispositivos móveis.
 - **Quando Aprender:**
   - Integrado ao aprendizado de CSS, à medida que se explora o design responsivo.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=BCBBBB&height=2&section=header&%20render">
+</div>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
@@ -169,6 +185,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Integrado ao aprendizado de JavaScript básico.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=F6DF1E&height=2&section=header&%20render">
+</div>
+
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/4a99b4ba-a761-447d-80ef-37204c69efc8" alt="TopicDeco-pic" width="150px">
 
 ### b. Event Handling
@@ -177,6 +197,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Continuação do aprendizado de JavaScript, após a manipulação do DOM.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=6CB4EC&height=2&section=header&%20render">
+</div>
+
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/6ae0d99f-86b4-491e-8a11-23d80968d641" alt="TopicDeco-pic" width="150px">
 
 ### c. AJAX e Requisições Assíncronas
@@ -184,6 +208,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Enviar e receber dados do servidor de forma assíncrona, atualizando partes específicas da página sem recarregar completamente.
 - **Quando Aprender:**
   - Introduzir após uma compreensão sólida de JavaScript.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3ED63D&height=2&section=header&%20render">
+</div>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
@@ -197,6 +225,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Aprender frameworks CSS como Bootstrap, Foundation ou Tailwind CSS para agilizar o desenvolvimento de estilos e layouts.
 - **Quando Aprender:**
   - Após dominar os conceitos básicos de HTML e CSS.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=9D64FE&height=2&section=header&%20render">
+</div>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
@@ -212,6 +244,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Após familiaridade com CSS básico.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=DB92B6&height=2&section=header&%20render">
+</div>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
@@ -225,6 +261,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Aprender frameworks de Package Managing como yarn e npm, para simplificam o processo de obtenção, atualização e remoção de pacotes.
 - **Quando Aprender:**
   - Após uma base sólida em HTML, CSS e JavaScript básico.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=53C1DE&height=2&section=header&%20render">
+</div>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
@@ -240,6 +280,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Introduzir ao trabalhar em projetos colaborativos.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=53C1DE&height=2&section=header&%20render">
+</div>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
@@ -252,6 +296,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Compreender diferentes opções de hospedagem, incluindo serviços como GitHub Pages, Netlify ou Vercel.
 - **Quando Aprender:**
   - Ao começar a publicar projetos online.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=959595&height=2&section=header&%20render">
+</div>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
@@ -267,6 +315,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - À medida que se aprofunda no desenvolvimento e busca otimização.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3CA9BC&height=2&section=header&%20render">
+</div>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
@@ -281,6 +333,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Após construir uma base sólida em JavaScript e frameworks.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8D6647&height=2&section=header&%20render">
+</div>
+
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/b24f7794-8fd8-4cce-80de-1e5ce4488ca7" alt="TopicDeco-pic" width="150px">
 
 ### b. Testes de Integração
@@ -288,6 +344,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Testar a interação entre diferentes partes do sistema para garantir o funcionamento correto.
 - **Quando Aprender:**
   - Conforme avança em projetos mais complexos.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=30B2B6&height=2&section=header&%20render">
+</div>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
@@ -304,6 +364,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Ao explorar o design de interfaces.
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=AA40D8&height=2&section=header&%20render">
+</div>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
@@ -316,6 +380,10 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Implementar práticas de segurança em aplicações web e compreender conceitos como Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
 - **Quando Aprender:**
   - Introduzir quando começar a lidar com interações mais avançadas.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=81DF36&height=2&section=header&%20render">
+</div>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
@@ -332,12 +400,12 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 </div>
 
-<div align="left">
-  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=15A17F&height=2&section=header&%20render">
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dddddd&height=3&section=header&%20render">
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
 <!-- AUTHOR -->
