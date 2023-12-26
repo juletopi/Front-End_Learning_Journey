@@ -281,7 +281,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Introduzir ao trabalhar em projetos colaborativos.
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=53C1DE&height=2&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=959595&height=2&section=header&%20render">
 </div>
 
 <div align="left">
@@ -298,7 +298,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - Ao começar a publicar projetos online.
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=959595&height=2&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=53C1DE&height=2&section=header&%20render">
 </div>
 
 <div align="left">
