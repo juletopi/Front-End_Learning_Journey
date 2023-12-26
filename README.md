@@ -123,11 +123,15 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ## 1. HTML, CSS, IDEs e Responsividade
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/afca6fb2-8dde-4b39-b3e1-51e87203fa74" alt="TopicDeco-pic" width="150px">
+
 ### a. HTML5 e Estrutura Semântica
 - **Descrição:**
   - Utilizar as tags do HTML5 de maneira semântica, atribuindo significado correto aos elementos da página para melhorar acessibilidade e SEO.
 - **Quando Aprender:**
   - Desde o início do aprendizado de Front-End.
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/3eda3516-906f-4694-95f3-f62387360c40" alt="TopicDeco-pic" width="150px">
 
 ### b. Estilização com CSS3
 - **Descrição:**
@@ -135,11 +139,15 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 - **Quando Aprender:**
   - Integrado ao aprendizado inicial de HTML e CSS.
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/c18ffcd9-a6d5-42f7-be9c-bd1867a4c13c" alt="TopicDeco-pic" width="150px">
+
 ### c. IDEs
 - **Descrição:**
   - Aprender o que são "IDEs" e como utilizá-las para programar.
 - **Quando Aprender:**
   - Introduzir conceitos de IDEs ao começar a escrever código.
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e03d34f4-cf7b-4aac-a86a-a7d9b3d9e912" alt="TopicDeco-pic" width="150px">
 
 ### d. Responsividade e Design Mobile-First
 - **Descrição:**
@@ -153,17 +161,23 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ## 2. JavaScript, Event Handling e AJAX
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/5215e165-bafe-45a1-9d2c-ecf60836d6e6" alt="TopicDeco-pic" width="150px">
+
 ### a. Manipulação do DOM
 - **Descrição:**
   - Interagir dinamicamente com a estrutura da página utilizando JavaScript para modificar, adicionar ou remover elementos.
 - **Quando Aprender:**
   - Integrado ao aprendizado de JavaScript básico.
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/4a99b4ba-a761-447d-80ef-37204c69efc8" alt="TopicDeco-pic" width="150px">
+
 ### b. Event Handling
 - **Descrição:**
   - Trabalhar com eventos do usuário, como cliques e teclas pressionadas, para criar interações dinâmicas.
 - **Quando Aprender:**
   - Continuação do aprendizado de JavaScript, após a manipulação do DOM.
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/6ae0d99f-86b4-491e-8a11-23d80968d641" alt="TopicDeco-pic" width="150px">
 
 ### c. AJAX e Requisições Assíncronas
 - **Descrição:**
@@ -177,6 +191,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ## 3. Frameworks CSS
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/37fe3705-c24d-428e-9491-d98ddfa79a50" alt="TopicDeco-pic" width="150px">
+
 - **Descrição:**
   - Aprender frameworks CSS como Bootstrap, Foundation ou Tailwind CSS para agilizar o desenvolvimento de estilos e layouts.
 - **Quando Aprender:**
@@ -187,6 +203,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 </div>
 
 ## 4. Pré-processadores CSS
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/2bd4fc2e-befd-4d92-b4fe-6da563167c5c" alt="TopicDeco-pic" width="150px">
 
 ### a. Sass ou Less
 - **Descrição:**
@@ -200,6 +218,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ## 5. Frameworks JavaScript
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/3393403d-426c-4189-9932-af57cbe30b79" alt="TopicDeco-pic" width="150px">
+
 - **Descrição:**
   - Aprender frameworks JavaScript populares como React, Angular ou Vue.js para construir interfaces reativas e complexas.
   - Aprender frameworks de Package Managing como yarn e npm, para simplificam o processo de obtenção, atualização e remoção de pacotes.
@@ -211,6 +231,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 </div>
 
 ## 6. Versionamento de Código
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/6cbcc77b-9ff4-4c59-be08-8e431064e7f7" alt="TopicDeco-pic" width="150px">
 
 ### a. Git e GitHub
 - **Descrição:**
@@ -224,6 +246,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ## 7. Hospedagem de Web-páginas
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/ac1bb7eb-27fc-4e73-af1f-33c57a079171" alt="TopicDeco-pic" width="150px">
+
 - **Descrição:**
   - Compreender diferentes opções de hospedagem, incluindo serviços como GitHub Pages, Netlify ou Vercel.
 - **Quando Aprender:**
@@ -234,6 +258,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 </div>
 
 ## 8. Task Runners e Module Bundlers
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/66676d86-01ec-4077-a2c5-fa6de5dbb965" alt="TopicDeco-pic" width="150px">
 
 ### a. Gulp, Webpack ou Parcel
 - **Descrição:**
@@ -247,11 +273,15 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ## 9. Unit Testing (Testes Front-End)
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/3a63a4d5-4d95-488e-8914-f24452fab7e5" alt="TopicDeco-pic" width="150px">
+
 ### a. Unit Testing com Jest ou Mocha
 - **Descrição:**
   - Criar testes automatizados para verificar unidades isoladas de código.
 - **Quando Aprender:**
   - Após construir uma base sólida em JavaScript e frameworks.
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/b24f7794-8fd8-4cce-80de-1e5ce4488ca7" alt="TopicDeco-pic" width="150px">
 
 ### b. Testes de Integração
 - **Descrição:**
@@ -264,6 +294,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 </div>
 
 ## Extras
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/432bf519-0533-41ed-951b-a6078b989230" alt="TopicDeco-pic" width="150px">
 
 ### I. UI & UX Design
 
@@ -278,6 +310,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ### II. Segurança Front-End
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/c9fd83e7-b76b-4741-8e30-59dfc2b3c652" alt="TopicDeco-pic" width="150px">
+
 - **Descrição:**
   - Implementar práticas de segurança em aplicações web e compreender conceitos como Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
 - **Quando Aprender:**
@@ -288,6 +322,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 </div>
 
 ### III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)
+
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/f5210104-2b40-472c-8fad-d0b32e0eb8aa" alt="TopicDeco-pic" width="150px">
 
 - **Descrição:**
   - Familiarizar-se com ferramentas de design e prototipagem para auxiliar no processo de criação de interfaces e código.
