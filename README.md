@@ -431,25 +431,103 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
+<br>
+
+----
+
+<br>
+
 <!-- 1. HTML, CSS & IDEs -->
 
 ## IDEs (Integrated Development Environment)
 
+### O que é uma "IDE", e para quê serve?
+
 <div align="left">
   
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNsc2d2cHN3NGpuZGNsdHJkZjdiNGtqODB5aXhydmoycmdpcWkwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="CascadingProgrammingSymbols-gif" width="220px" height="180px">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNsc2d2cHN3NGpuZGNsdHJkZjdiNGtqODB5aXhydmoycmdpcWkwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="CascadingProgrammingSymbols-gif" width="220px" height="182px">
 
 As **IDEs**, ou *Ambientes de Desenvolvimento Integrado* (em português), são ferramentas essenciais para os desenvolvedores e programadores. Elas reúnem tudo o que você precisa para codificar, depurar e administrar projetos de maneira eficiente. Essas belezinhas facilitam a vida dos desenvolvedores. <br><br> Já se perguntou como os programadores fazem aquelas letras e símbolos estranhos todos coloridos que descem em forma de cascata? Pois é, aquilo muito provavelmente está sendo "rodado" por uma IDE.
 
 Dentre as IDEs populares, destaca-se o **Visual Studio Code** (VSCode). 
 
-<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/16ab1093-fbaf-4673-a8f9-3a839b5d820f" alt="VSCodeIDE" width="180px">
+<br>
+
+<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/16ab1093-fbaf-4673-a8f9-3a839b5d820f" alt="VSCodeIDE" width="186px">
 
 O VSCode é super queridinho entre a galera do Front-End porque é fácil de usar, tem muitos extras legais (graças aos plugins) e se conecta bem com outras ferramentas que você pode gostar. Vamos começar com o VSCode porque é eficiente, robusto e a galera sempre tá inventando coisas novas pra deixar ele ainda melhor. <br><br>Vai ser nosso parceirão nessa jornada de aprender sobre Front-End! 😎✨
+
+<br>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
+
+## Instalando o VSCode
+
+### Windows
+
+1. **Download:**
+   - Acesse o [site oficial do VSCode](https://code.visualstudio.com/).
+   - Clique em "Download for Windows".
+
+2. **Instalação:**
+   - Execute o instalador baixado.
+   - Siga as instruções do assistente de instalação.
+
+3. **Executar o VSCode:**
+   - Após a instalação, abra o VSCode clicando no ícone no desktop ou no menu Iniciar.
+
+### macOS
+
+1. **Download:**
+   - Acesse o [site oficial do VSCode](https://code.visualstudio.com/).
+   - Clique em "Download for macOS".
+
+2. **Instalação:**
+   - Abra o arquivo baixado (`dmg`).
+   - Arraste o ícone do VSCode para a pasta "Applications".
+
+3. **Executar o VSCode:**
+   - Abra o Launchpad e clique no ícone do VSCode.
+
+### Linux (Ubuntu/Debian)
+
+1. **Download:**
+   - Abra o terminal e execute os seguintes comandos:
+     ```bash
+     sudo apt update
+     sudo apt install code
+     ```
+
+2. **Executar o VSCode:**
+   - Abra o VSCode digitando `code` no terminal ou procurando no menu de aplicativos.
+
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <p><strong><div align="center">Eeee é isso aí, você tem o VSCode instalado!<br><br> Agora você tá pronto para começar a se aventurar no mundo do Front-End! 🚀✨</strong></p>
+      </div>
+      <p><div align="center">
+        <a href="">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="ThumbsUp-gif" width="180px" title="Let's gooo!">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+<br>
+
+----
+
+<br>
 
 <!-- AUTHOR -->
 
@@ -490,6 +568,7 @@ O VSCode é super queridinho entre a galera do Front-End porque é fácil de usa
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
+
 <br>
 
 <!-- THANK YOU, GOODBYE -->
