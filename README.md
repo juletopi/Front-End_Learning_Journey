@@ -339,7 +339,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8D6647&height=2&section=header&%20render">
 </div>
 
-<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/b24f7794-8fd8-4cce-80de-1e5ce4488ca7" alt="TopicDeco-pic" width="150px">
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/ce492244-6d02-4265-b6ae-9a89d2cda278" alt="TopicDeco-pic" width="150px">
 
 ### b. Testes de Integração
 - **Descrição:**
