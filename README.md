@@ -37,7 +37,18 @@
 
 <div align="center">
  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=O%20Front-End%20é%20a%20ponte%20entre%20a%20visão%20e%20a%20execução,%20onde%20a%20criatividade%20do%20design%20encontra%20o%20poder%20da%20implementação.%20Navegar%20nessa%20fronteira%20é%20o%20que%20transforma%20um%20desenvolvedor%20em%20um%20verdadeiro%20artista%20digital.&author=Autor%20Desconhecido)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- REPOSITORY PROGRESS -->
+
+## Progresso do Repositório 📋
+
+<div align="center">
+
+> [!WARNING] <br>
+> Tanto o aprendizado quanto a documentação <br>
+> deste repositório está **EM PROGRESSO**
+>
+> ### **Status:** <img align="center" src="https://geps.dev/progress/13?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e" alt="StatusBar" />
+
 </div>
 <br>
 
