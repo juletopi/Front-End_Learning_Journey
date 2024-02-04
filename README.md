@@ -119,6 +119,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
     </a>
 </div>
 
+<!-- ROAD MAP - TOPICS -->
+
 <div align="left">
 
 ## 1. HTML, CSS, IDEs e Responsividade
@@ -316,7 +318,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   - À medida que se aprofunda no desenvolvimento e busca otimização.
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=3CA9BC&height=2&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=4b61d7&height=2&section=header&%20render">
 </div>
 
 <div align="left">
