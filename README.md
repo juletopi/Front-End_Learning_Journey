@@ -43,7 +43,7 @@
 
 <div align="center">
 
-> [!WARNING] <br>
+> [!NOTE]  
 > Tanto o aprendizado quanto a documentação <br>
 > deste repositório está **EM PROGRESSO**
 >
