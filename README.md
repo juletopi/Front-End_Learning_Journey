@@ -406,6 +406,27 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=15A17F&height=2&section=header&%20render">
 </div>
 
+<!-- ROAD MAP - ENDING MESSAGE -->
+
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <p><strong><div align="center">Com os tópicos do nosso roadmap delineados, estamos prontos para começar a aprender. <br>
+        Ao longo desta jornada, exploraremos cada aspecto do Front-End, <br>
+        construindo uma base sólida de conhecimento. <br><br>
+        Então, mãos à obra e vamos avançar nos estudos! 😁👊</strong></p>
+      </div>
+      <p><div align="center">
+        <a href="">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aXk4YjI0cXk0bGIxZXZpcjZjdHQyZWduOWliM2h3ZWY5Mzh6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lq9gRvrMK0v1tSnwAk/giphy.gif" alt="LetsGo-pic" width="180px" title="Let's gooo!">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
