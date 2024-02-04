@@ -34,20 +34,14 @@
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dddddd&height=3&section=header&%20render">
 </div>
 <br>
-
-<div align="center">
  
 <!-- REPOSITORY PROGRESS -->
 
-## Progresso do Repositório 📋
-
 <div align="center">
-
-> [!NOTE]  
-> Tanto o aprendizado quanto a documentação <br>
-> deste repositório está **EM PROGRESSO**
->
-> ### **Status:** <img align="center" src="https://geps.dev/progress/13?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e" alt="StatusBar" />
+  
+| <h3 align="center">⚠️ AVISO</h3> |
+|:---------------------------------|
+| <p><div align="center">Tanto o aprendizado quanto a documentação <br> deste repositório está **EM PROGRESSO** <br><br> **Status:** <img align="center" src="https://geps.dev/progress/13?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e" alt="StatusBar" /></p> |
 
 </div>
 <br>
