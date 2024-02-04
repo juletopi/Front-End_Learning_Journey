@@ -450,7 +450,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <div align="left">
   
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNsc2d2cHN3NGpuZGNsdHJkZjdiNGtqODB5aXhydmoycmdpcWkwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="CascadingProgrammingSymbols-gif" width="220px" height="182px">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNsc2d2cHN3NGpuZGNsdHJkZjdiNGtqODB5aXhydmoycmdpcWkwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="CascadingProgrammingSymbols-gif" width="223px" height="182px">
 
 As **IDEs**, ou *Ambientes de Desenvolvimento Integrado* (em português), são ferramentas essenciais para os desenvolvedores e programadores. Elas reúnem tudo o que você precisa para codificar, depurar e administrar projetos de maneira eficiente. Essas belezinhas facilitam a vida dos desenvolvedores. <br><br> Já se perguntou como os programadores fazem aquelas letras e símbolos estranhos todos coloridos que descem em forma de cascata? Pois é, aquilo muito provavelmente está sendo "rodado" por uma IDE.
 
@@ -523,6 +523,31 @@ O VSCode é super queridinho entre a galera do Front-End porque é fácil de usa
     </td>
   </tr>
 </table>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00BF63&height=2&section=header&%20render">
+</div>
+
+## HTML (HyperText Markup Language)
+
+### O que é "HTML", e para quê serve?
+
+<div align="left">
+  
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/4ef43246-e8bc-4a1d-9959-c3e4183180fd" alt="HTMLTheEsqueleton-pic" width="150px">
+
+O **HTML**, ou *Linguagem de Marcação de Hipertexto* (em português), é tipo o "esqueleto" das páginas da web.
+
+Todas as páginas web que você visita/visitou são montadas usando HTML para criar coisas como **títulos**, **parágrafos**, **imagens** e **links**. O HTML usa essas coisas chamadas de "tags" para envolver o conteúdo e dar significado a ele. É como dizer ao navegador o que cada parte da página está fazendo ali.
+
+Então, pensa no HTML como o esqueleto que dá forma à página, e essas tags são como as instruções para construir cada parte dela.
+
+> [!NOTA]  
+> Ah, e vale mencionar que, para deixar tudo bonitinho e interativo, você precisa combinar o HTML com o **CSS (Cascading Style Sheets)** para dar estilo e o **JavaScript** para tornar as coisas mais animadas. Juntos, HTML, CSS e JavaScript formam a base essencial para o que chamamos de Front-End.
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
