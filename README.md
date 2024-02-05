@@ -130,9 +130,21 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 ## 1. HTML, CSS, IDEs e Responsividade
 
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/c18ffcd9-a6d5-42f7-be9c-bd1867a4c13c" alt="TopicDeco-pic" width="150px">
+
+### a. IDEs
+- **Descrição:**
+  - Aprender o que são "IDEs" e como utilizá-las para programar.
+- **Quando Aprender:**
+  - Introduzir conceitos de IDEs ao começar a escrever código.
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00BF63&height=2&section=header&%20render">
+</div>
+
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/afca6fb2-8dde-4b39-b3e1-51e87203fa74" alt="TopicDeco-pic" width="150px">
 
-### a. HTML5 e Estrutura Semântica
+### b. HTML5 e Estrutura Semântica
 - **Descrição:**
   - Utilizar as tags do HTML5 de maneira semântica, atribuindo significado correto aos elementos da página para melhorar acessibilidade e SEO.
 - **Quando Aprender:**
@@ -144,7 +156,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/3eda3516-906f-4694-95f3-f62387360c40" alt="TopicDeco-pic" width="150px">
 
-### b. Estilização com CSS3
+### c. Estilização com CSS3
 - **Descrição:**
   - Utilizar os recursos do CSS3 para estilizar páginas web, como gradientes, sombras, transições e animações.
 - **Quando Aprender:**
@@ -152,18 +164,6 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <div align="center">
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=059BE4&height=2&section=header&%20render">
-</div>
-
-<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/c18ffcd9-a6d5-42f7-be9c-bd1867a4c13c" alt="TopicDeco-pic" width="150px">
-
-### c. IDEs
-- **Descrição:**
-  - Aprender o que são "IDEs" e como utilizá-las para programar.
-- **Quando Aprender:**
-  - Introduzir conceitos de IDEs ao começar a escrever código.
-
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00BF63&height=2&section=header&%20render">
 </div>
 
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e03d34f4-cf7b-4aac-a86a-a7d9b3d9e912" alt="TopicDeco-pic" width="150px">
