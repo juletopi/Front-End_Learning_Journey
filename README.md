@@ -554,6 +554,132 @@ Então, pensa no HTML como o esqueleto que dá forma à página, e essas tags s�
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
+## Estrutura Semântica
+
+### As tags de HTML
+
+Okay, lembra das "tags"? 
+
+> *O HTML usa essas coisas chamadas de "tags" para envolver o conteúdo e dar significado a ele. É como dizer ao navegador o que cada parte da página está fazendo ali.*
+
+Então, pra começar, vamos nos aprofundar nisso, as "tags".
+
+Numa estrutura em HTML, se utilizam as tags para organizar o código e dizer ao navegador o que cada parte da página está fazendo ali.
+
+Por exemplo, tem a `<header>` que é como o "Cabeçalho", onde você põe as coisas importantes da sua página. Depois, tem a `<nav>`, que é tipo a "Navegação", onde você coloca os links para as outras partes. Ah, e não podemos esquecer da `<footer>`, o "Rodapé", para os extras no final.
+
+Eis aqui uma lista de algumas das tags existentes para o HTML e o que elas fazem:
+
+| Tag               | Descrição                                                     |
+| ----------------- | ------------------------------------------------------------- |
+| `<html>`          | Define o início e o fim de um documento HTML.                  |
+| `<head>`          | Fornece informações sobre o documento HTML.                   |
+| `<title>`         | Define o título do documento HTML.                             |
+| `<base>`          | Especifica o URL base/target para todos os links na página.    |
+| `<link>`          | Define a relação entre o documento atual e recursos externos. |
+| `<meta>`          | Define metadados que fornecem informações sobre o documento.   |
+| `<style>`         | Define estilos CSS internos.                                   |
+| `<script>`        | Define scripts incorporados ou vincula recursos externos.      |
+| `<noscript>`      | Oferece conteúdo alternativo se o script não for suportado.    |
+| `<body>`          | Contém o conteúdo visível do documento HTML.                   |
+| `<article>`       | Define um conteúdo independente que faz sentido por si só.     |
+| `<section>`       | Define uma seção em um documento.                               |
+| `<nav>`           | Define uma seção de navegação.                                  |
+| `<aside>`         | Define conteúdo que é tangencial ao conteúdo da página.        |
+| `<h1> to <h6>`    | Define cabeçalhos de diferentes níveis.                        |
+| `<header>`        | Define um cabeçalho para um documento ou seção.                |
+| `<footer>`        | Define um rodapé para um documento ou seção.                   |
+| `<address>`       | Define informações de contato do autor/proprietário.          |
+| `<main>`          | Define o conteúdo principal em um documento.                   |
+| `<p>`             | Define um parágrafo.                                           |
+| `<hr>`            | Cria uma linha horizontal.                                     |
+| `<pre>`           | Define texto pré-formatado.                                    |
+| `<blockquote>`    | Define uma seção que é citada de outra fonte.                 |
+| `<ol>`            | Define uma lista ordenada.                                      |
+| `<ul>`            | Define uma lista não ordenada.                                 |
+| `<li>`            | Define um item de lista.                                       |
+| `<dl>`            | Define uma lista de descrição.                                 |
+| `<dt>`            | Define um termo/entrada em uma lista de descrição.             |
+| `<dd>`            | Define uma descrição em uma lista de descrição.                |
+| `<figure>`        | Define qualquer conteúdo que está referenciado no texto.      |
+| `<figcaption>`    | Define uma legenda para um elemento `<figure>`.                |
+| `<div>`           | Define uma divisão ou seção genérica.                          |
+| `<a>`             | Define um hyperlink.                                           |
+| `<em>`            | Define texto enfatizado.                                       |
+| `<strong>`        | Define texto importante em negrito.                            |
+| `<small>`         | Define texto menor.                                           |
+| `<s>`             | Define texto que não é mais preciso ou relevante.             |
+| `<cite>`          | Define o título de uma obra citada.                           |
+| `<q>`             | Define uma citação curta.                                      |
+| `<abbr>`          | Define uma abreviação ou acrônimo.                            |
+| `<address>`       | Define informações de contato do autor/proprietário.          |
+| `<bdo>`           | Define a direção do texto.                                     |
+| `<bdi>`           | Isola um texto que pode ser formatado de maneira diferente.    |
+| `<span>`          | Define um trecho de texto em linha.                            |
+| `<br>`            | Insere uma quebra de linha.                                    |
+| `<wbr>`           | Define uma possível quebra de linha.                           |
+| `<time>`          | Define uma data/hora específica.                               |
+| `<mark>`          | Define texto marcado ou realçado.                              |
+| `<progress>`      | Representa o progresso de uma tarefa.                          |
+| `<meter>`         | Representa um valor escalar dentro de um intervalo conhecido.  |
+| `<code>`          | Define um trecho de código.                                    |
+| `<var>`           | Define uma variável em programação.                            |
+| `<kbd>`           | Define a entrada de teclado.                                   |
+| `<samp>`          | Define saída de amostra de um programa de computador.         |
+| `<sub>`           | Define texto subscrito.                                       |
+| `<sup>`           | Define texto sobrescrito.                                     |
+| `<i>`             | Define texto em itálico.                                      |
+| `<b>`             | Define texto em negrito.                                      |
+| `<u>`             | Define texto sublinhado.                                      |
+| `<ruby>`          | Define uma anotação ruby para pronúncia ou tradução.          |
+| `<rt>`            | Define texto de ruby.                                         |
+| `<rp>`            | Define o que mostrar em navegadores que não suportam ruby.     |
+| `<br>`            | Insere uma quebra de linha.                                    |
+| `<a>`             | Define um hyperlink.                                           |
+| `<img>`           | Define uma imagem.                                             |
+| `<map>`           | Define uma imagem com áreas clicáveis.                         |
+| `<area>`          | Define uma área dentro de um mapa de imagem.                   |
+| `<audio>`         | Define conteúdo sonoro, como música ou efeitos sonoros.        |
+| `<source>`        | Define fontes de mídia para elementos `<audio>` e `<video>`.   |
+| `<video>`         | Define conteúdo de vídeo.                                      |
+| `<track>`         | Define faixas de texto para elementos `<audio>` e `<video>`.   |
+| `<table>`         | Define uma tabela.                                             |
+| `<caption>`       | Define o título da tabela.                                     |
+| `<colgroup>`      | Define um grupo de colunas em uma tabela.                      |
+| `<col>`           | Define propriedades específicas da coluna dentro de `<colgroup>`.|
+| `<thead>`         | Define o cabeçalho de uma tabela.                              |
+| `<tbody>`         | Define o corpo de uma tabela.                                  |
+| `<tfoot>`         | Define o rodapé de uma tabela.                                 |
+| `<tr>`            | Define uma linha em uma tabela.                                |
+| `<th>`            | Define um cabeçalho de célula em uma tabela.                   |
+| `<td>`            | Define uma célula em uma tabela.                               |
+| `<form>`          | Define um formulário HTML.                                     |
+| `<input>`         | Define um campo de entrada de dados.                           |
+| `<button>`        | Define um botão clicável.                                     |
+| `<select>`        | Define uma lista suspensa.                                     |
+| `<option>`        | Define uma opção em uma lista suspensa.                        |
+| `<label>`         | Define uma etiqueta para um elemento `<input>`.               |
+| `<fieldset>`      | Define um conjunto de campos de formulário.                    |
+| `<legend>`        | Define uma legenda para um elemento `<fieldset>`.              |
+| `<textarea>`      | Define uma área de texto editável.                             |
+| `<output>`        | Define o resultado de um cálculo ou a saída de um usuário.     |
+| `<datalist>`      | Define uma lista de opções pré-definidas para `<input>`        |
+| `<keygen>`        | Define um gerador de pares de chave (criptografia).            |
+| `<progress>`      | Representa o progresso de uma tarefa.                          |
+| `<meter>`         | Representa um valor escalar dentro de um intervalo conhecido.  |
+| `<details>`       | Define um widget de controle que revela ou oculta um elemento. |
+| `<summary>`       | Define um cabeçalho visível para um elemento `<details>`.      |
+| `<menu>`          | Define um menu de contexto ou uma lista de comandos.          |
+
+Eita, complicou! São muitas tags pra usar, será que vou precisar aprender TODAS??? 😰😰😰
+
+Nah, só algumas, não esquenta. Lembre-se, elas só são utilizadas quando necessárias. <br>
+A maioria você quase nunca vai usar. Por qunquanto você só vai precisar aprender as principais, aquelas que são usadas em toda estrutura HTML, aquelas que compõe uma "Estrutura Semântica" de HTML.
+
+### Estrutura Semântica? O que é isso?
+
+...
+
 <br>
 
 ----
