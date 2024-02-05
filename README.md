@@ -546,8 +546,9 @@ Todas as páginas web que você visita/visitou são montadas usando HTML para cr
 
 Então, pensa no HTML como o esqueleto que dá forma à página, e essas tags são como as instruções para construir cada parte dela.
 
-> [!NOTA]  
-> Ah, e vale mencionar que, para deixar tudo bonitinho e interativo, você precisa combinar o HTML com o **CSS (Cascading Style Sheets)** para dar estilo e o **JavaScript** para tornar as coisas mais animadas. Juntos, HTML, CSS e JavaScript formam a base essencial para o que chamamos de Front-End.
+> 📄❗️ **NOTA IMPORTANTE** 
+> 
+> Ah, e vale mencionar que por enquanto, somente usando o HTML não vai dar pra fazer uma página da web toda bonitinha, afinal com o HTML temos somente o esqueleto da página. Você precisa combinar o HTML com o **CSS (Cascading Style Sheets)** para dar estilo e o **JavaScript** para tornar as coisas mais animadas. Juntos, HTML, CSS e JavaScript formam a base essencial para o que chamamos de Front-End, tendeu?
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
