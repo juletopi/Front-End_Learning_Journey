@@ -678,7 +678,62 @@ A maioria você quase nunca vai usar. Por qunquanto você só vai precisar apren
 
 ### Estrutura Semântica? O que é isso?
 
-...
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/90640168-ba59-47a5-a148-fa0dc968559e" title="Fonte: https://relatablecode.com/semantic-html-explained-and-how-to-use-it" alt="HTMLSemanticStructure-pic"  width="360px" height="270px">
+
+Criar uma estrutura semântica em HTML é usar as tags certas para organizar o conteúdo de forma clara e significativa. Mesmo que você possa usar `<div>` para tudo (acredite, dá pra fazer uma página inteira usando só uma tag) e estilizar com CSS, usar tags como `<header>`, `<nav>`, `<section>`, etc., é melhor por alguns motivos:
+
+1. **Ajudam leitores de tela**: As pessoas com deficiência visual usam leitores de tela que entendem melhor a página quando as tags semânticas são usadas corretamente.
+
+2. **Melhoram o SEO**: Os motores de busca entendem melhor o conteúdo quando é estruturado com tags semânticas, o que pode melhorar o ranking nos resultados de pesquisa.
+
+3. **Facilitam a manutenção**: Uma estrutura semântica torna o código mais fácil de entender e manter, pois dá pistas claras sobre o propósito de cada parte da página.
+
+Por exemplo, ao invés de usar várias `<div>` para o cabeçalho, a navegação e o rodapé, você pode usar `<header>`, `<nav>`, e `<footer>`, o que deixa o código mais organizado e fácil de entender. Todos os bons programadores de front-end sabem como fazer uma estrurura semântica!
+
+Agora, como faço tudo isso?
+
+Pra começar, dentro do VSCode ao começar a digitar o doctype HTML `<!DOCTYPE html>`, o editor de código geralmente oferece uma funcionalidade chamada "emmet", que é uma abreviação para "emmet abbreviation". Isso permite que você digite um atalho, como !, e pressione a tecla Tab para expandir automaticamente em uma estrutura HTML básica, incluindo o doctype, as tags `<html>`, `<head>`, `<meta>`, `<title>` e `<body>`, economizando tempo na criação da estrutura inicial do documento HTML. Ela vai ficar mais ou menos assim:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+
+`<!DOCTYPE html>`: Esta declaração define o tipo de documento e informa ao navegador que o documento está escrito em HTML5, a versão mais recente da linguagem HTML.
+
+`<html>`: Esta tag envolve todo o conteúdo da página e define o início e o fim do documento HTML.
+
+`<head>`: Esta seção contém metadados sobre o documento, como o título da página, a codificação de caracteres e informações para mecanismos de busca.
+
+`<meta charset="UTF-8">`: Define a codificação de caracteres utilizada na página como UTF-8, que suporta uma ampla gama de caracteres.
+
+`<title>`: Define o título da página, que aparece na aba do navegador ou na barra de título da janela.
+
+`<body>`: Esta tag contém todo o conteúdo visível da página, como texto, imagens, vídeos e outros elementos.
+
+<table align="center">
+  <tr>
+    <td>
+      <p><strong><div align="center">Essa funcionalidade é bem útil para começar a trabalhar em um novo projeto HTML,<br> garantindo uma estrutura semântica básica com elementos essenciais já configurados. <br><br>Tente você fazer o mesmo!</strong></p>
+      </div>
+      <p><div align="center">
+        <a href="">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="ThumbsUp-gif" width="180px" title="Let's gooo!">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
