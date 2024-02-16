@@ -678,7 +678,7 @@ A maioria você quase nunca vai usar. Por qunquanto você só vai precisar apren
 
 ### Estrutura Semântica? O que é isso?
 
-<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/90640168-ba59-47a5-a148-fa0dc968559e" title="Fonte: https://relatablecode.com/semantic-html-explained-and-how-to-use-it" alt="HTMLSemanticStructure-pic"  width="360px" height="360px">
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/01e11947-7eaf-4a37-9c52-5c5af52315b3"  alt="NotSemanticVSSemantic-pic"  width="360px" height="400px">
 
 Criar uma estrutura semântica em HTML é usar as tags certas para organizar o conteúdo de forma clara e significativa. Mesmo que você possa usar `<div>` para tudo (acredite, dá pra fazer uma página inteira usando só uma tag) e estilizar com CSS, usar tags como `<header>`, `<nav>`, `<section>`, etc., é melhor por alguns motivos:
 
