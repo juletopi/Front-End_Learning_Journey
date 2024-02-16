@@ -517,7 +517,7 @@ O VSCode é super queridinho entre a galera do Front-End porque é fácil de usa
       </div>
       <p><div align="center">
         <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="ThumbsUp-gif" width="180px" title="Let's gooo!">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="ThumbsUp-gif" width="180px" title="Vamos começar!">
         </a>
       </div>
     </td>
@@ -678,7 +678,7 @@ A maioria você quase nunca vai usar. Por qunquanto você só vai precisar apren
 
 ### Estrutura Semântica? O que é isso?
 
-<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/90640168-ba59-47a5-a148-fa0dc968559e" title="Fonte: https://relatablecode.com/semantic-html-explained-and-how-to-use-it" alt="HTMLSemanticStructure-pic"  width="360px" height="270px">
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/90640168-ba59-47a5-a148-fa0dc968559e" title="Fonte: https://relatablecode.com/semantic-html-explained-and-how-to-use-it" alt="HTMLSemanticStructure-pic"  width="360px" height="360px">
 
 Criar uma estrutura semântica em HTML é usar as tags certas para organizar o conteúdo de forma clara e significativa. Mesmo que você possa usar `<div>` para tudo (acredite, dá pra fazer uma página inteira usando só uma tag) e estilizar com CSS, usar tags como `<header>`, `<nav>`, `<section>`, etc., é melhor por alguns motivos:
 
@@ -692,7 +692,9 @@ Por exemplo, ao invés de usar várias `<div>` para o cabeçalho, a navegação 
 
 Agora, como faço tudo isso?
 
-Pra começar, dentro do VSCode ao começar a digitar o doctype HTML `<!DOCTYPE html>`, o editor de código geralmente oferece uma funcionalidade chamada "emmet", que é uma abreviação para "emmet abbreviation". Isso permite que você digite um atalho, como !, e pressione a tecla Tab para expandir automaticamente em uma estrutura HTML básica, incluindo o doctype, as tags `<html>`, `<head>`, `<meta>`, `<title>` e `<body>`, economizando tempo na criação da estrutura inicial do documento HTML. Ela vai ficar mais ou menos assim:
+Pra começar, dentro do VSCode ao começar a digitar o doctype HTML `<!DOCTYPE html>`, o editor de código geralmente oferece uma funcionalidade chamada "emmet", que é uma abreviação para "emmet abbreviation". Isso permite que você digite um atalho, como !, e pressione a tecla Tab para expandir automaticamente em uma estrutura HTML básica, incluindo o doctype, as tags `<html>`, `<head>`, `<meta>`, `<title>` e `<body>`, economizando tempo na criação da estrutura inicial do documento HTML. 
+
+Ela vai ficar mais ou menos assim:
 
 ```html
 <!DOCTYPE html>
@@ -709,6 +711,8 @@ Pra começar, dentro do VSCode ao começar a digitar o doctype HTML `<!DOCTYPE h
 </html>
 ```
 
+Explicando as tags...
+
 `<!DOCTYPE html>`: Esta declaração define o tipo de documento e informa ao navegador que o documento está escrito em HTML5, a versão mais recente da linguagem HTML.
 
 `<html>`: Esta tag envolve todo o conteúdo da página e define o início e o fim do documento HTML.
@@ -721,6 +725,8 @@ Pra começar, dentro do VSCode ao começar a digitar o doctype HTML `<!DOCTYPE h
 
 `<body>`: Esta tag contém todo o conteúdo visível da página, como texto, imagens, vídeos e outros elementos.
 
+<br>
+
 <table align="center">
   <tr>
     <td>
@@ -728,7 +734,7 @@ Pra começar, dentro do VSCode ao começar a digitar o doctype HTML `<!DOCTYPE h
       </div>
       <p><div align="center">
         <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="ThumbsUp-gif" width="180px" title="Let's gooo!">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="-gif" width="180px" title="">
         </a>
       </div>
     </td>
