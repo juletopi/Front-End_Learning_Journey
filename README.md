@@ -674,11 +674,11 @@ Eis aqui uma lista de algumas das tags existentes para o HTML e o que elas fazem
 Eita, complicou! São muitas tags pra usar, será que vou precisar aprender TODAS??? 😰😰😰
 
 Nah, só algumas, não esquenta. Lembre-se, elas só são utilizadas quando necessárias. <br>
-A maioria você quase nunca vai usar. Por qunquanto você só vai precisar aprender as principais, aquelas que são usadas em toda estrutura HTML, aquelas que compõe uma "Estrutura Semântica" de HTML.
+A maioria você quase nunca vai usar. Por enquanto você só vai precisar aprender as principais, aquelas que são usadas em toda estrutura HTML, aquelas que compõe uma "Estrutura Semântica" de HTML.
 
 ### Estrutura Semântica? O que é isso?
 
-<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/01e11947-7eaf-4a37-9c52-5c5af52315b3"  alt="NotSemanticVSSemantic-pic"  width="360px" height="400px">
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/01e11947-7eaf-4a37-9c52-5c5af52315b3"  alt="NotSemanticVSSemantic-pic"  width="360px" height="430px">
 
 Criar uma estrutura semântica em HTML é usar as tags certas para organizar o conteúdo de forma clara e significativa. Mesmo que você possa usar `<div>` para tudo (acredite, dá pra fazer uma página inteira usando só uma tag) e estilizar com CSS, usar tags como `<header>`, `<nav>`, `<section>`, etc., é melhor por alguns motivos:
 
@@ -734,7 +734,7 @@ Explicando as tags...
       </div>
       <p><div align="center">
         <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="-gif" width="180px" title="">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB3YzhtYmtiYWk2OWlrM3c0dmtwODNzNm0wNGZ5MXZraWxxZTBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9EHZ8R3cCOfUvWw2dr/giphy.gif" alt="-gif" width="180px" title="">
         </a>
       </div>
     </td>
