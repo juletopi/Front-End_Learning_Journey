@@ -468,10 +468,6 @@ O VSCode é super queridinho entre a galera do Front-End porque é fácil de usa
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00BF63&height=2&section=header&%20render">
-</div>
-
 ## Instalando o VSCode
 
 ### Windows
@@ -558,9 +554,7 @@ Então, pensa no HTML como o esqueleto que dá forma à página, e essas tags s�
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-## Estrutura Semântica
-
-### As tags de HTML
+## As tags de HTML
 
 Okay, lembra das "tags"? 
 
@@ -684,11 +678,7 @@ A maioria você quase nunca vai usar. Por enquanto você só vai precisar aprend
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF6D00&height=2&section=header&%20render">
-</div>
-
-### Estrutura Semântica? O que é isso?
+## Estrutura Semântica? O que é isso?
 
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/01e11947-7eaf-4a37-9c52-5c5af52315b3"  alt="NotSemanticVSSemantic-pic"  width="360px" height="420px">
 
