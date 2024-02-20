@@ -562,7 +562,7 @@ Okay, lembra das "tags"?
 
 Então, pra começar, vamos nos aprofundar nisso, as "tags".
 
-Numa estrutura em HTML, se utilizam as tags para organizar o código e dizer ao navegador o que cada parte da página está fazendo ali.
+Numa estrutura em HTML, se utilizam tags de abertura `<html>` e fechamento `</html>` para organizar o código e dizer ao navegador o que cada parte da página está fazendo ali.
 
 Por exemplo, tem a `<header>` que é como o "Cabeçalho", onde você põe as coisas importantes da sua página. Depois, tem a `<nav>`, que é tipo a "Navegação", onde você coloca os links para as outras partes. Ah, e não podemos esquecer da `<footer>`, o "Rodapé", para os extras no final.
 
@@ -736,7 +736,7 @@ Explicando as tags...
       </div>
       <p><div align="center">
         <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB3YzhtYmtiYWk2OWlrM3c0dmtwODNzNm0wNGZ5MXZraWxxZTBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9EHZ8R3cCOfUvWw2dr/giphy.gif" alt="-gif" width="180px" title="">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB3YzhtYmtiYWk2OWlrM3c0dmtwODNzNm0wNGZ5MXZraWxxZTBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9EHZ8R3cCOfUvWw2dr/giphy.gif" alt="LetsStartCoding-gif" width="180px" title="Try it yourself!">
         </a>
       </div>
     </td>
@@ -747,11 +747,47 @@ Explicando as tags...
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-<br>
+## Começando com HTML
 
-----
+<div align="left">
 
-<br>
+Okay, agora você deve ter algo mais ou  menos assim:
+
+<img align="center" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/940ab038-d0e7-47a5-b424-805bc99e377a" alt="HTMLTheBeggining-pic" width="650px"><br>
+
+Agora vamos dar uma implementada com certas tags muito comumente utilizadas em páginas de HTML...
+
+<img align="center" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/0cfec9d3-9e75-4682-8d53-b2b48ab2daed" alt="HTMLImplementingTheCode-pic" width="650px"><br>
+
+Nessa estrutura, incluimos um `<header>` com um `<nav>` contendo uma lista de links, duas seções `<section>` com títulos `<h2>` e parágrafos `<p>`, e um `<footer>` com informações de direitos autorais.
+
+Ah, mas como faço pra visualizar a minha página em HTML? Tem como?
+
+Tem sim! Vou mostrar duas opções:
+
+A primeira opção é que dentro do VSCode você pode instalar "extensões", e uma delas serve pra facilitar a visualização de páginas HTML, o "Live Server". Para instalá-lo, siga os passos abaixo:
+
+1. Abra o VSCode e clique no ícone de extensões na barra lateral esquerda (ou pressione `Ctrl+Shift+X`).
+2. Na barra de pesquisa, digite "Live Server" e pressione Enter.
+3. Clique em "Install" na extensão "Live Server" oferecida pela "ritwickdey" para instalá-la.
+
+Depois de instalado, você pode visualizar sua página HTML com o Live Server seguindo estes passos:
+
+1. Abra seu arquivo HTML no VSCode.
+2. Clique com o botão direito do mouse no arquivo HTML.
+3. Selecione a opção "Open with Live Server".
+
+O Live Server abrirá automaticamente seu arquivo HTML em um navegador e atualizará a página sempre que você salvar o arquivo HTML no VSCode, permitindo que você veja as mudanças em tempo real.
+
+<img align="center" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/f26def5c-df9a-451c-8f21-d4e2843c54dd" alt="MyHTMLPage-pic" width="650px"><br>
+
+E a segunda opção é utilizar esta página aqui: [W3Schools Tryit Editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)
+
+Este é um editor de HTML que você pode usar pra depurar seu código em HTML de forma bem simples, só basta clicar em "Run" e prontinho.
+
+<img align="center" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/be005c50-664a-4ef2-9168-303248d5ee1f" alt="MyHTMLPageOnEditor-pic" width="650px"><br>
+
+</div>
 
 <!-- AUTHOR -->
 
