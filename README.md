@@ -52,12 +52,12 @@
 
 | 🔗 Periféricos | 🗺️ Tópicos (Roadmap) | 📚 Tópicos de Estudo |
 |-------------|-------------------|-------------------|
-| [O que é "Front-End"?](#mas-o-que-diaxo-é-front-end-) | [1. HTML, CSS, IDEs e Responsividade](#1-html-css-ides-e-responsividade) | --- |
-| [Roadmap de Front-End (Título)](#%EF%B8%8F-roadmap-de-front-end) | [2. JavaScript, Event Handling e AJAX](#2-javascript-event-handling-e-ajax) | --- |
-| [Roadmap de Front-End (Extras)](#extras) | [3. Frameworks CSS](#3-frameworks-css) | --- |
-| [Autor](#-autor) | [4. Pré-processadores CSS](#4-pré-processadores-css) | --- |
-|  | [5. Frameworks JavaScript](#5-frameworks-javascript) | --- |
-|  | [6. Versionamento de Código](#6-versionamento-de-código) | --- |
+| [O que é "Front-End"?](#mas-o-que-diaxo-é-front-end-) | [1. HTML, CSS, IDEs e Responsividade](#1-html-css-ides-e-responsividade) | [IDEs (Integrated Development Environment)](#ides-integrated-development-environment) |
+| [Roadmap de Front-End (Título)](#%EF%B8%8F-roadmap-de-front-end) | [2. JavaScript, Event Handling e AJAX](#2-javascript-event-handling-e-ajax) | [Instalando o VSCode](#instalando-o-vscode) |
+| [Roadmap de Front-End (Extras)](#extras) | [3. Frameworks CSS](#3-frameworks-css) | [HTML (HyperText Markup Language)](#html-hypertext-markup-language) |
+| [Autor](#-autor) | [4. Pré-processadores CSS](#4-pré-processadores-css) | [As tags de HTML](#as-tags-de-html) |
+|  | [5. Frameworks JavaScript](#5-frameworks-javascript) | [Estrutura Semântica? O que é isso?](#estrutura-semântica-o-que-é-isso) |
+|  | [6. Versionamento de Código](#6-versionamento-de-código) | [Começando com HTML](#começando-com-html) |
 |  | [7. Hospedagem de Web-páginas](#7-hospedagem-de-web-páginas) | --- |
 |  | [8. Task Runners e Module Bundlers](#8-task-runners-e-module-bundlers) | --- |
 |  | [9. Unit Testing (Testes Front-End)](#9-unit-testing-testes-front-end) | --- |
