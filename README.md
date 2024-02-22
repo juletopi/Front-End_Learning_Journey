@@ -759,7 +759,7 @@ Agora vamos dar uma implementada com certas tags muito comumente utilizadas em p
 
 <img align="center" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/0cfec9d3-9e75-4682-8d53-b2b48ab2daed" alt="HTMLImplementingTheCode-pic" width="650px"><br>
 
-Nessa estrutura, incluimos um `<header>` com um `<nav>` contendo uma lista de links, duas seções `<section>` com títulos `<h2>` e parágrafos `<p>`, e um `<footer>` com informações de direitos autorais.
+Nessa estrutura ([*Simple_HTML_Structure.html*](https://github.com/juletopi/Front-End_Learning_Journey/blob/main/Simple_HTML_Structure.html)), incluimos um `<header>` com um `<nav>` contendo uma lista de links, duas seções `<section>` com títulos `<h2>` e parágrafos `<p>`, e um `<footer>` com informações de direitos autorais.
 
 Ah, mas como faço pra visualizar a minha página em HTML? Tem como?
 
@@ -787,7 +787,20 @@ Este é um editor de HTML que você pode usar pra depurar seu código em HTML de
 
 <img align="center" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/be005c50-664a-4ef2-9168-303248d5ee1f" alt="MyHTMLPageOnEditor-pic" width="650px"><br>
 
+Entããão, é isso o que se tem do básico de HTML. Se quiser se aprofundar mais, aconselho a testar mais tags e seus parâmetros, tais como `<img src="">`, ou `<a href="">`.
+
+Também recomendo sites e fórums para melhor estudar, eis aqui uma lista:
+- ...
+- ...
+- ...
+- ...
+
+Dito isso, vamos avançar para o próximo passo, o CSS.
 </div>
+
+<br>
+
+----
 
 <!-- AUTHOR -->
 
