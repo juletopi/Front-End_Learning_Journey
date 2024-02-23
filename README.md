@@ -787,15 +787,14 @@ Este é um editor de HTML que você pode usar pra depurar seu código em HTML de
 
 <img align="center" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/be005c50-664a-4ef2-9168-303248d5ee1f" alt="MyHTMLPageOnEditor-pic" width="650px"><br>
 
-Entããão, é isso o que se tem do básico de HTML. Se quiser se aprofundar mais, aconselho a testar mais tags e seus parâmetros, tais como `<img src="">`, ou `<a href="">`.
+Entããão, é isso o que se tem do básico de HTML. Se quiser se aprofundar mais aconselho a testar mais tags e seus parâmetros, tais como `<img src="">`, ou `<a href="">`.
 
-Também recomendo sites e fórums para melhor estudar, eis aqui uma lista:
-- ...
-- ...
-- ...
-- ...
+Também recomendo sites e fórums para melhor estudar, eis aqui uma lista pra começar:
+- O repositório "[free-educa/free-livros](https://github.com/free-educa/free-livros)", com vários livros sobre Front-end começando por HTML.
+- O tópico "[Sites e cursos para aprender HTML](https://github.com/arthurspk/guiadevbrasil?tab=readme-ov-file#-sites-e-cursos-para-aprender-html)" do repositório "arthurspk/guiadevbrasil" com vários conceitos sobre o tema de Front-end e HTML.
+- A página "[HTML Tutorial](https://www.w3schools.com/html/default.asp)" do site W3Schools com praticamente tudo sobre HTML de ponta-a-ponta.
 
-Dito isso, vamos avançar para o próximo passo, o CSS.
+Dito isso, se você acha que já está pronto, vamos avançar para o próximo passo, o **CSS**.
 </div>
 
 <br>
