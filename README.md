@@ -825,11 +825,11 @@ Em resumo, o CSS permite que os desenvolvedores web personalizem a aparência de
 ## Estrutura de Diretório
 
 <div align="left">
-<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/fc6353b5-5a5a-4b04-978c-f764a04018b5" alt="ProjectDiretoryStructure-pic" width="360px">
+<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/fc6353b5-5a5a-4b04-978c-f764a04018b5" alt="ProjectDiretoryStructure-pic" width="365px">
   
-Agora é um ótimo momento de falar sobre **Estrutura de Diretório**. A estrutura de diretório de um projeto web é fundamental para manter os arquivos organizados e facilitar a manutenção e colaboração. Aqui está um exemplo de uma estrutura básica, veja a imagem de exemplo ao lado...
+Agora é um ótimo momento de falar sobre **Estrutura de Diretório**. Esta é uma parte fundamental para manter os arquivos organizados e facilitar a manutenção e colaboração. Aqui está um exemplo de uma estrutura básica, veja a imagem de exemplo ao lado...
 
-- **assets/src**: É o diretório raiz dos arquivos de origem do seu projeto. Ele contém subdiretórios para cada tipo de recurso. Você pode escolher dentre nomeá-lo como assets ou src.
+- **assets/src**: É o diretório raiz dos arquivos de origem do seu projeto. Você pode escolher dentre nomeá-lo como assets ou src.
   - **css**: Contém os arquivos CSS do projeto.
   - **js**: Contém os arquivos JavaScript do projeto.
   - **scss**: Contém os arquivos **SCSS**, que são arquivos CSS com capacidades avançadas, como *variáveis*, *aninhamento* e *mixins*.
@@ -837,7 +837,7 @@ Agora é um ótimo momento de falar sobre **Estrutura de Diretório**. A estrutu
   - **fonts**: Armazena arquivos de fontes personalizadas que podem ser usadas no projeto.
 - **vendor**: Este diretório é utilizado para armazenar bibliotecas de terceiros, como o **Bootstrap**, que podem ser utilizadas no projeto.
   - **bootstrap**: Contém os arquivos da biblioteca **Bootstrap**. Pode ser trocada dependendo de qual biblioteca você estiver utilizando.
-- **index.html**: É o arquivo principal do seu projeto HTML, onde você vai "vincular" os arquivos **CSS** e **JavaScript** e criar a estrutura básica da sua página web.
+- **index.html**: É o arquivo principal do seu projeto HTML, onde você vai "vincular" os arquivos **CSS** e **JavaScript** e criar a estrutura básica da sua página-web.
 
 Essa estrutura é eficaz porque organiza os arquivos de forma lógica e separa claramente os recursos do projeto (pasta do seu projeto) dos recursos de terceiros (vendor). Além disso, separar os arquivos de origem (assets/src) dos arquivos compilados ou minificados (como css e js) ajuda a manter o código-fonte organizado e facilita a manutenção do projeto.
 
