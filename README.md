@@ -815,7 +815,7 @@ Dito isso, se você acha que já está pronto, vamos avançar para o próximo pa
   
 O **CSS**, ou *Cascading Style Sheets* (em português, Folhas de Estilo em Cascata), é a linguagem utilizada para estilizar a apresentação de documentos HTML.
 
-Enquanto o **HTML** define a **estrutura e o conteúdo** de uma página web, o CSS é responsável por definir os **aspectos visuais** da página. Você pode pensar no HTML como o esqueleto de uma página web, fornecendo a estrutura básica e a organização do conteúdo. Enquanto isso, o CSS atua como a "pele" da página, determinando sua aparência com **cores, fontes, espaçamento e layout**.
+Enquanto o **HTML** define a **estrutura e o conteúdo** de uma página web, o CSS é responsável por definir os **aspectos visuais** da página. Você pode pensar no HTML como o esqueleto de uma página web, fornecendo a estrutura básica e a organização do conteúdo. Enquanto isso, o CSS atua como a "pele" e músculos da página, determinando sua aparência com **cores, fontes, espaçamento e layout**.
 
 A combinação de HTML e CSS permite criar páginas web visualmente atraentes e bem estruturadas, proporcionando uma experiência de navegação agradável e intuitiva.
 
