@@ -825,16 +825,14 @@ Em resumo, o CSS permite que os desenvolvedores web personalizem a aparência de
 ## Estrutura de Diretório
 
 <div align="left">
-<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/fc6353b5-5a5a-4b04-978c-f764a04018b5" alt="ProjectDiretoryStructure-pic" width="350px">
+<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/fc6353b5-5a5a-4b04-978c-f764a04018b5" alt="ProjectDiretoryStructure-pic" width="360px">
   
-Agora é um ótimo momento de falar sobre **Estrutura de Diretório**. Agora que vamos começar a mexer com CSS, precisamos organizar bem os arquivos que faremos.
+Agora é um ótimo momento de falar sobre **Estrutura de Diretório**. A estrutura de diretório de um projeto web é fundamental para manter os arquivos organizados e facilitar a manutenção e colaboração. Aqui está um exemplo de uma estrutura básica, veja a imagem de exemplo ao lado...
 
-A estrutura de diretório de um projeto web é fundamental para manter os arquivos organizados e facilitar a manutenção e colaboração. Aqui está um exemplo de uma estrutura básica de diretórios para um projeto CSS, veja a imagem de exemplo ao lado...
-
-- **assets/src**: É o diretório raiz dos arquivos de origem do seu projeto. Ele contém subdiretórios para cada tipo de recurso. Você pode escolher dentre nomeá-lo com assets ou src.
-  - **css**: Contém os arquivos CSS do projeto, incluindo o arquivo principal style.css.
+- **assets/src**: É o diretório raiz dos arquivos de origem do seu projeto. Ele contém subdiretórios para cada tipo de recurso. Você pode escolher dentre nomeá-lo como assets ou src.
+  - **css**: Contém os arquivos CSS do projeto.
   - **js**: Contém os arquivos JavaScript do projeto.
-  - **scss**: Contém os arquivos **SCSS**, que são arquivos CSS com capacidades avançadas, como *variáveis*, *aninhamento* e *mixins*. Estes arquivos serão compilados para CSS antes de serem utilizados no projeto.
+  - **scss**: Contém os arquivos **SCSS**, que são arquivos CSS com capacidades avançadas, como *variáveis*, *aninhamento* e *mixins*.
   - **images**: Armazena todas as imagens utilizadas no projeto.
   - **fonts**: Armazena arquivos de fontes personalizadas que podem ser usadas no projeto.
 - **vendor**: Este diretório é utilizado para armazenar bibliotecas de terceiros, como o **Bootstrap**, que podem ser utilizadas no projeto.
