@@ -529,7 +529,7 @@ O VSCode é super queridinho entre a galera do Front-End porque é fácil de usa
 </div>
 
 <div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00BF63&height=2&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00BF63&height=4&section=header&%20render">
 </div>
 
 ## HTML (HyperText Markup Language)
@@ -789,13 +789,59 @@ Este é um editor de HTML que você pode usar pra depurar seu código em HTML de
 
 Entããão, é isso o que se tem do básico de HTML. Se quiser se aprofundar mais aconselho a testar mais tags e seus parâmetros, tais como `<img src="">`, ou `<a href="">`.
 
-Também recomendo sites e fórums para melhor estudar, eis aqui uma lista pra começar:
+Também recomendo sites, fórums e outros repositórios para melhor estudar, eis aqui uma lista pra começar:
 - O repositório "[free-educa/free-livros](https://github.com/free-educa/free-livros)", com vários livros sobre Front-end começando por HTML.
-- O tópico "[Sites e cursos para aprender HTML](https://github.com/arthurspk/guiadevbrasil?tab=readme-ov-file#-sites-e-cursos-para-aprender-html)" do repositório "arthurspk/guiadevbrasil" com vários conceitos sobre o tema de Front-end e HTML.
+- O tópico "[Sites e cursos para aprender HTML](https://github.com/arthurspk/guiadevbrasil?tab=readme-ov-file#-sites-e-cursos-para-aprender-html)" do repositório "arthurspk/guiadevbrasil", que pode lhe servir como um norte para sua busca pela internet sobre vários conceitos de Front-end e HTML.
 - A página "[HTML Tutorial](https://www.w3schools.com/html/default.asp)" do site W3Schools com praticamente tudo sobre HTML de ponta-a-ponta.
+- O meu repositório do curso de ADS (Análise e Desenvolvimento de Sistemas) da disciplina de "[Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia)", com vários exemplos de código em HTML, CSS e JavaScript.
 
 Dito isso, se você acha que já está pronto, vamos avançar para o próximo passo, o **CSS**.
 </div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF6D00&height=4&section=header&%20render">
+</div>
+
+## CSS (Cascading Style Sheets)
+
+### O que é "CSS", e para quê serve?
+
+<div align="left">
+<img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/49e7045d-ba27-4f7b-80c9-4a5069a58c18" alt="CSSTheSkin-pic" width="150px">
+  
+O **CSS**, ou *Cascading Style Sheets* (em português, Folhas de Estilo em Cascata), é a linguagem utilizada para estilizar a apresentação de documentos HTML.
+
+Enquanto o **HTML** define a **estrutura e o conteúdo** de uma página web, o CSS é responsável por definir os **aspectos visuais** da página. Você pode pensar no HTML como o esqueleto de uma página web, fornecendo a estrutura básica e a organização do conteúdo. Enquanto isso, o CSS atua como a "pele" da página, determinando sua aparência com **cores, fontes, espaçamento e layout**.
+
+A combinação de HTML e CSS permite criar páginas web visualmente atraentes e bem estruturadas, proporcionando uma experiência de navegação agradável e intuitiva.
+
+Em resumo, o CSS permite que os desenvolvedores web personalizem a aparência de suas páginas, tornando-as mais atraentes e funcionais para os usuários.
+</div>
+
+## Estrutura de Diretório
+
+<div align="left">
+<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/fc6353b5-5a5a-4b04-978c-f764a04018b5" alt="CSSTheSkin-pic" width="300px">
+  
+Agora é um ótimo momento de falar sobre **Estrutura de Diretório**. Agora que vamos começar a mexer com CSS, precisamos organizar bem os arquivos que faremos.
+
+A estrutura de diretório de um projeto web é fundamental para manter os arquivos organizados e facilitar a manutenção e colaboração. Aqui está um exemplo de uma estrutura básica de diretórios para um projeto CSS, veja a imagem de exemplo ao lado...
+
+- src: É o diretório raiz dos arquivos de origem do seu projeto. Ele contém subdiretórios para cada tipo de recurso.
+  - css: Contém os arquivos CSS do projeto, incluindo o arquivo principal style.css.
+  - js: Contém os arquivos JavaScript do projeto.
+  - scss: Contém os arquivos SCSS, que são arquivos CSS com capacidades avançadas, como variáveis, aninhamento e mixins. Estes arquivos serão compilados para CSS antes de serem utilizados no projeto.
+  - images: Armazena todas as imagens utilizadas no projeto.
+  - fonts: Armazena arquivos de fontes personalizadas que podem ser usadas no projeto.
+- vendor: Este diretório é utilizado para armazenar bibliotecas de terceiros, como o Bootstrap, que podem ser utilizadas no projeto.
+  - bootstrap: Contém os arquivos da biblioteca Bootstrap, incluindo os arquivos CSS, JavaScript e as fontes.
+- index.html: É o arquivo principal do seu projeto HTML, onde você vai vincular os arquivos CSS e JavaScript e criar a estrutura básica da sua página web.
+
+Essa estrutura é eficaz porque organiza os arquivos de forma lógica e separa claramente os recursos do projeto (assets) dos recursos de terceiros (vendor). Além disso, separar os arquivos de origem (src) dos arquivos compilados ou minificados (como css e js) ajuda a manter o código-fonte organizado e facilita a manutenção do projeto.
 
 <br>
 
