@@ -835,8 +835,8 @@ Agora é um ótimo momento de falar sobre **Estrutura de Diretório**, uma parte
   - **scss**: Contém os arquivos **SCSS**, que são arquivos CSS com capacidades avançadas, como *variáveis*, *aninhamento* e *mixins*.
   - **images**: Armazena todas as imagens utilizadas no projeto.
   - **fonts**: Armazena arquivos de fontes personalizadas que podem ser usadas no projeto.
-- **vendor**: Este diretório é utilizado para armazenar bibliotecas de terceiros, como o **Bootstrap**, que podem ser utilizadas no projeto.
-  - **bootstrap**: Contém os arquivos da biblioteca **Bootstrap** neste caso. Pode ser trocada dependendo de qual biblioteca você estiver utilizando.
+- **vendor**: Este é o diretório que armazena bibliotecas de terceiros, como o **Bootstrap** por exemplo.
+  - **bootstrap**: Contém os arquivos da biblioteca **Bootstrap** neste caso, depende de qual biblioteca você estiver utilizando.
 - **index.html**: O seu arquivo HTML, onde você vai "vincular" os arquivos **CSS** e **JavaScript** e criar a estrutura básica da sua página-web.
 
 Essa estrutura é eficaz porque organiza os arquivos de forma lógica e separa claramente os recursos do projeto (pasta do seu projeto) dos recursos de terceiros (vendor). Além disso, separar os arquivos de origem (assets/src) dos arquivos compilados ou minificados (como css e js) ajuda a manter o código-fonte organizado e facilita a manutenção do projeto.
