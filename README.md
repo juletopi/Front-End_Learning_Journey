@@ -829,7 +829,7 @@ Em resumo, o CSS permite que os desenvolvedores web personalizem a aparência de
   
 Agora é um ótimo momento de falar sobre **Estrutura de Diretório**, uma parte fundamental para manter os arquivos organizados e facilitar a manutenção e colaboração. Aqui está um exemplo com uma imagem ao lado...
 
-- **assets/src**: É o diretório raiz dos arquivos de origem do seu projeto. Você pode escolher dentre nomeá-lo como assets ou src.
+- **assets/src**: É o diretório raiz dos arquivos de origem do seu projeto. Você pode escolher nomeá-lo como assets ou src.
   - **css**: Contém os arquivos CSS do projeto.
   - **js**: Contém os arquivos JavaScript do projeto.
   - **scss**: Contém os arquivos **SCSS**, que são arquivos CSS com capacidades avançadas, como *variáveis*, *aninhamento* e *mixins*.
