@@ -795,8 +795,23 @@ Também recomendo sites, fórums e outros repositórios para melhor estudar, eis
 - A página "[HTML Tutorial](https://www.w3schools.com/html/default.asp)" do site W3Schools com praticamente tudo sobre HTML de ponta-a-ponta.
 - O meu repositório do curso de ADS (Análise e Desenvolvimento de Sistemas) da disciplina de "[Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia)", com vários exemplos de código em HTML, CSS e JavaScript.
 
-Dito isso, se você acha que já está pronto, vamos avançar para o próximo passo, o **CSS**.
 </div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <p><strong><div align="center">Eeeee com isso finalizamos o HTML, parabéns.<br><br>Se você acha que já está pronto, agora vamos<br>avançar para o próximo passo, o CSS! 😁✨</strong></p>
+      </div>
+      <p><div align="center">
+        <a href="">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdtOGs4MmI5a2J5cTlnOHhsdG5lbDM1YzZwOWVtM3MweGl1cDB1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kwMYCO91dwsrI3pWN9/giphy.gif" alt="RotatingPorygon-gif" width="180px" title="Vamos começar!">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
@@ -839,7 +854,11 @@ Agora é um ótimo momento de falar sobre **Estrutura de Diretório**, uma parte
   - **bootstrap**: Contém os arquivos da biblioteca **Bootstrap** neste caso, depende de qual biblioteca você estiver utilizando.
 - **index.html**: O seu arquivo HTML, onde você vai "vincular" os arquivos **CSS** e **JavaScript** e criar a estrutura básica da sua página-web.
 
-Essa estrutura é eficaz porque organiza os arquivos de forma lógica e separa claramente os recursos do projeto (pasta do seu projeto) dos recursos de terceiros (vendor). Além disso, separar os arquivos de origem (assets/src) dos arquivos compilados ou minificados (como css e js) ajuda a manter o código-fonte organizado e facilita a manutenção do projeto.
+Essa estrutura é eficaz porque organiza os arquivos de forma lógica e separa claramente os recursos do projeto (pasta do seu projeto) dos recursos de terceiros (vendor). 
+
+Além disso, separar os arquivos de origem (assets/src) dos arquivos compilados ou minificados (como css e js) ajuda a manter o código-fonte organizado e facilita a manutenção do projeto.
+
+
 
 <br>
 
