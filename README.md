@@ -837,6 +837,10 @@ A combinação de HTML e CSS permite criar páginas web visualmente atraentes e 
 Em resumo, o CSS permite que os desenvolvedores web personalizem a aparência de suas páginas, tornando-as mais atraentes e funcionais para os usuários.
 </div>
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
 ## Estrutura de Diretório
 
 <div align="left">
@@ -858,8 +862,59 @@ Essa estrutura é eficaz porque organiza os arquivos de forma lógica e separa c
 
 Além disso, separar os arquivos de origem (assets/src) dos arquivos compilados ou minificados (como css e js) ajuda a manter o código-fonte organizado e facilita a manutenção do projeto.
 
+Veja um exemplo de como fica abaixo:
 
+<img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/ab348c1f-8312-46ea-913e-c7f21d48124d" alt="ProjectDiretoryStructureExample-pic" width="365px">
 
+Este é um exemplo de estrutura de diretório para um projeto simples, contendo arquivos HTML, CSS, JavaScript, imagens e fontes. Em breve, você estará criando algo semelhante, mas por enquanto, vamos começar com o básico seguindo nosso "Guia de CSS" de ponta a ponta. 
+
+Ao final do guia, teremos um conhecimento sólido sobre CSS. Vamos lá! 😁✊
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+## Guia de CSS
+
+Aqui está o guia que iremos seguir:
+
+1. **Linkando CSS com HTML:** Mostraremos como linkar um arquivo CSS externo com um arquivo HTML usando a tag `<link>` no `<head>` do documento HTML.
+
+2. **Seletores CSS:** Explicaremos os diferentes tipos de seletores CSS, como seletores de elemento, classe e ID, e como eles são usados para aplicar estilos a elementos específicos em uma página.
+
+3. **Propriedades CSS:** Listaremos e explicaremos as propriedades CSS mais comuns, como cor, fonte, margem, preenchimento e exibição, e como elas afetam a aparência dos elementos HTML.
+
+4. **Box Model:** Descreveremos o conceito do modelo de caixa CSS, que define como o conteúdo, preenchimento, borda e margem de um elemento são renderizados e como isso afeta o layout da página.
+
+5. **Layouts CSS:** Discutiremos diferentes técnicas de layout CSS, como o layout de grade e o layout flexível, e como eles são usados para criar designs responsivos e adaptáveis.
+
+6. **Transições e Animações CSS:** Explicaremos como usar transições e animações CSS para adicionar movimento e interatividade aos elementos da página, criando uma experiência de usuário mais envolvente.
+
+7. **Melhores Práticas CSS:** Compartilharemos algumas melhores práticas de codificação CSS, como manter o código limpo e organizado, usar classes e IDs semanticamente e otimizar o desempenho da página.
+
+8. **Media Queries:** Introduziremos o conceito de media queries, que permitem que você aplique estilos com base nas características do dispositivo, como largura da tela, permitindo a criação de designs responsivos.
+
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <p><strong><div align="center">E encerramos a introdução conceitual sobre CSS. <br><br>Agora prepare o VSCode e vamos pro código. 👩‍💻✨</strong></p>
+      </div>
+      <p><div align="center">
+        <a href="">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB3YzhtYmtiYWk2OWlrM3c0dmtwODNzNm0wNGZ5MXZraWxxZTBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9EHZ8R3cCOfUvWw2dr/giphy.gif" alt="LetsStartCoding-gif" width="180px" title="Vamos começar!">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 <br>
 
 ----
