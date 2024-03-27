@@ -58,9 +58,9 @@
 | [Autor](#-autor) | [4. Pré-processadores CSS](#4-pré-processadores-css) | [As tags de HTML](#as-tags-de-html) |
 |  | [5. Frameworks JavaScript](#5-frameworks-javascript) | [Estrutura Semântica? O que é isso?](#estrutura-semântica-o-que-é-isso) |
 |  | [6. Versionamento de Código](#6-versionamento-de-código) | [Começando com HTML](#começando-com-html) |
-|  | [7. Hospedagem de Web-páginas](#7-hospedagem-de-web-páginas) | --- |
-|  | [8. Task Runners e Module Bundlers](#8-task-runners-e-module-bundlers) | --- |
-|  | [9. Unit Testing (Testes Front-End)](#9-unit-testing-testes-front-end) | --- |
+|  | [7. Hospedagem de Web-páginas](#7-hospedagem-de-web-páginas) | [CSS (Cascading Style Sheets)](#css-cascading-style-sheets) |
+|  | [8. Task Runners e Module Bundlers](#8-task-runners-e-module-bundlers) | [Estrutura de Diretório](#estrutura-de-diretório) |
+|  | [9. Unit Testing (Testes Front-End)](#9-unit-testing-testes-front-end) | [Guia de CSS](#guia-de-css) |
 |  | [I. UI & UX Design](#i-ui--ux-design) | --- |
 |  | [II. Segurança Front-End](#ii-segurança-front-end) | --- |
 |  | [III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)](#iii-ferramentas-auxiliares-uso-de-ias-photoshop-figma-etc) | --- |
