@@ -915,6 +915,36 @@ Aqui está o guia que iremos seguir:
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
+
+## Linkando CSS com HTML
+
+<div align="left">
+Começaremos com o básico: Trazer o CSS pro seu HTML.
+
+Lembra do [*Simple_HTML_Structure.html*](https://github.com/juletopi/Front-End_Learning_Journey/blob/main/Simple_HTML_Structure.html)? Então, vamos nos utilizar dele e trazer o CSS para ele seguindo os seguintes passos, presta atenção:
+
+1. **Criar o Arquivo CSS:** \
+Antes de linkar o CSS com o HTML, precisamos de um arquivo CSS pronto para aplicar ao nosso documento HTML. Seguindo os conceitos da "Estrutura de Diretório", faremos o nosso arquivo CSS chamado "style.css" numa estrutura adequada.
+
+<img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/70b44fec-6f88-4fe6-aec8-4f314bd6d81e" alt="DiretoryStructure-pic" width="365px">
+
+2. **Adicionar o Link no HTML:** \
+No nosso arquivo HTML que vamos estilizar com CSS, vamos adicionar a seguinte linha dentro da seção `<head>` do HTML:
+```html
+<head>
+    <link rel="stylesheet" href="src/css/style.css">
+</head>
+```
+No final, teremos algo assim:
+
+<img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/573a2b4a-8895-465e-a60b-d1b05d561e7b" alt="HTMLLinkRelStylesheet-pic" width="650px">
+
+E com isso, estamos prontos para iniciarmos com o CSS agora.
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 <br>
 
 ----
