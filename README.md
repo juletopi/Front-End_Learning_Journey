@@ -942,7 +942,7 @@ No final, teremos algo assim:
 
 <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/573a2b4a-8895-465e-a60b-d1b05d561e7b" alt="HTMLLinkRelStylesheet-pic" width="650px">
 
-E com isso, estamos prontos para iniciarmos com o CSS agora.
+E com isso, estamos prontos para iniciarmos com o CSS agora. Vamos partir pro passo 2. **Seletores CSS**!
 </div>
 
 <div align="left">
@@ -983,13 +983,10 @@ Por exemplo, se você tiver um elemento `<p>` com a classe "description", você 
 ```
 **CSS:**
 ```css
-.description1 {
-    font-weight: bold;
     color: blue;
 }
 
 .description2 {
-    font-weight: bold;
     color: green;
 }
 ```
@@ -1021,7 +1018,51 @@ Os IDs são atributos únicos que podem ser atribuídos a elementos HTML. Por ex
     padding: 20px;
 }
 ```
-E com isso, o seletor `#main` é usado para estilizar o elemento `<header>` que possui o ID main. Isso faz com que o fundo do `<header>` seja cinza (#252525) e tenha um preenchimento (padding) de 20 pixels.
+E com isso, o seletor `#main` é usado para estilizar o elemento `<header>` que possui o ID main. Isso faz com que o fundo do `<header>` seja cinza (#252525).
+
+----
+
+4. **Seletores de Atributo:** \
+São usados para selecionar elementos com base em atributos específicos.
+
+Por exemplo, se você tiver elementos `<a>` com o atributo "target" definido como "_blank" (para abrir o link em uma nova aba), você pode estilizá-los da seguinte forma: <br><br>
+
+Vamos adicionar uma autoria com nosso nome no rodapé da página com o atributo `target="_blank"`...<br>
+**HTML:**
+```html
+<footer>
+    <p>&copy; 2024 Meu Site muito top. Todos os direitos reservados. | Feito com amor por <a href="https://github.com/juletopi" target="_blank">Juletopi</a>.</p>
+</footer>
+```
+**CSS:**
+```css
+a[target="_blank"] {
+    color: yellow;
+}
+```
+Isso fará com que todos os links com o atributo "target" igual a "_blank" tenham texto amarelo.
+
+----
+
+Enfim, resumindo, há vários tipos de seletores CSS e situações onde cada um se enquadra melhor:
+
+1. **Seletor de Elementos (`element`):**
+   - **Quando usar:** Este seletor é usado para selecionar todos os elementos de um tipo específico em um documento HTML. Por exemplo, `p` seleciona todos os parágrafos `<p>` na página.
+   - **Situações de uso:** É útil quando você deseja aplicar estilos a todos os elementos de um determinado tipo em sua página, como definir uma fonte padrão para todos os parágrafos.
+
+2. **Seletor de Classes (`.class`):**
+   - **Quando usar:** Este seletor é usado para selecionar elementos que possuem uma classe específica atribuída a eles. Por exemplo, `.destaque` seleciona todos os elementos com a classe `destaque`.
+   - **Situações de uso:** É útil quando você deseja aplicar estilos a um grupo específico de elementos que compartilham a mesma classe, como estilizar botões ou caixas de destaque em sua página.
+
+3. **Seletor de IDs (`#id`):**
+   - **Quando usar:** Este seletor é usado para selecionar um elemento específico com um ID único atribuído a ele. Por exemplo, `#menu` seleciona o elemento com o ID `menu`.
+   - **Situações de uso:** É útil quando você deseja estilizar um elemento único em sua página, como um cabeçalho ou uma barra de navegação.
+
+4. **Seletor de Atributos (`[atributo]`):**
+   - **Quando usar:** Este seletor é usado para selecionar elementos que possuem um atributo específico. Por exemplo, `[type="text"]` seleciona todos os elementos com o atributo `type` igual a `"text"`.
+   - **Situações de uso:** É útil quando você deseja aplicar estilos a elementos com atributos específicos, como estilizar todos os campos de entrada de texto em um formulário.
+
+E com isso finalizamos a parte dos Seletores CSS. Agora seguiremos para o próximo passo do guia, o passo 3. **Propriedades CSS**!
 </div>
 
 <div align="left">
