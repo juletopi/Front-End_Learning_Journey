@@ -919,6 +919,7 @@ Aqui está o guia que iremos seguir:
 ## 1. Linkando CSS com HTML
 
 <div align="left">
+
 Começaremos com o básico: Trazer o CSS pro seu HTML.
 
 Lembra do [*Simple_HTML_Structure.html*](https://github.com/juletopi/Front-End_Learning_Journey/blob/main/Simple_HTML_Structure.html)? Então, vamos nos utilizar dele e trazer o CSS para ele seguindo os seguintes passos, presta atenção:
@@ -927,6 +928,8 @@ Lembra do [*Simple_HTML_Structure.html*](https://github.com/juletopi/Front-End_L
 Antes de linkar o CSS com o HTML, precisamos de um arquivo CSS pronto para aplicar ao nosso documento HTML. Seguindo os conceitos da "Estrutura de Diretório", faremos o nosso arquivo CSS chamado "style.css" numa estrutura adequada.
 
 <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/70b44fec-6f88-4fe6-aec8-4f314bd6d81e" alt="DiretoryStructure-pic" width="365px">
+
+----
 
 2. **Adicionar o Link no HTML:** \
 No nosso arquivo HTML que vamos estilizar com CSS, vamos adicionar a seguinte linha dentro da seção `<head>` do HTML:
@@ -947,16 +950,78 @@ E com isso, estamos prontos para iniciarmos com o CSS agora.
 </div>
 
 ## 2. Seletores CSS
+
 <div align="left">
-Seletores são usados para selecionar elementos no HTML com base em seus nomes. 
   
+1. **Seletores de Elementos:** \
+São usados para selecionar elementos no HTML com base em seus nomes.
+
 Por exemplo, para selecionar todos os elementos `<h1>` em seu documento HTML e definir uma cor de texto vermelha, você pode usar o seguinte seletor:
-```html
+```css
 h1 {
     color: red;
 }
 ```
 Faça isso e veja o título da sua página ficar vermelho!
+
+----
+
+2. **Seletores de Classe:** \
+São usados para selecionar elementos com base em suas "classes". As classes são atributos que podem ser adicionados a elementos HTML para estilizá-los de forma específica.
+
+Por exemplo, se você tiver um elemento `<p>` com a classe "description", você pode estilizá-lo da seguinte forma: <br><br>
+**HTML:**
+```html
+<section>
+    <h2>Seção 1</h2>
+    <p class="description1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+</section>
+<section>
+    <h2>Seção 2</h2>
+    <p class="description2">Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.</p>
+</section>
+```
+**CSS:**
+```css
+.description1 {
+    font-weight: bold;
+    color: blue;
+}
+
+.description2 {
+    font-weight: bold;
+    color: green;
+}
+```
+E com isso, ao adicionarmos classes diferentes mesmo que sejam para um mesmo elemento, podemos estilizá-los separadamente!
+
+----
+
+3. **Seletores de ID:** \
+São usados para selecionar elementos com base em seus IDs.
+
+Os IDs são atributos únicos que podem ser atribuídos a elementos HTML. Por exemplo, no nosso elemento `<header>` com o ID "main", você pode estilizá-lo da seguinte forma: <br><br>
+**HTML:**
+```html
+<header id="main">
+    <h1>Bem-vindos(as) a minha página em HTML</h1>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+</header>
+```
+**CSS:**
+```css
+#main {
+    background-color: #252525;
+    padding: 20px;
+}
+```
+E com isso, o seletor `#main` é usado para estilizar o elemento `<header>` que possui o ID main. Isso faz com que o fundo do `<header>` seja cinza (#252525) e tenha um preenchimento (padding) de 20 pixels.
 </div>
 
 <div align="left">
