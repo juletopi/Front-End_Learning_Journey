@@ -916,7 +916,7 @@ Aqui está o guia que iremos seguir:
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-## Linkando CSS com HTML
+## 1. Linkando CSS com HTML
 
 <div align="left">
 Começaremos com o básico: Trazer o CSS pro seu HTML.
@@ -940,6 +940,23 @@ No final, teremos algo assim:
 <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/573a2b4a-8895-465e-a60b-d1b05d561e7b" alt="HTMLLinkRelStylesheet-pic" width="650px">
 
 E com isso, estamos prontos para iniciarmos com o CSS agora.
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+## 2. Seletores CSS
+<div align="left">
+Seletores são usados para selecionar elementos no HTML com base em seus nomes. 
+  
+Por exemplo, para selecionar todos os elementos `<h1>` em seu documento HTML e definir uma cor de texto vermelha, você pode usar o seguinte seletor:
+```html
+h1 {
+    color: red;
+}
+```
+Faça isso e veja o título da sua página ficar vermelho!
 </div>
 
 <div align="left">
