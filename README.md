@@ -983,6 +983,7 @@ Por exemplo, se você tiver um elemento `<p>` com a classe "description", você 
 ```
 **CSS:**
 ```css
+.description1 {
     color: blue;
 }
 
