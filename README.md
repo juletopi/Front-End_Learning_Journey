@@ -1068,6 +1068,83 @@ E com isso finalizamos a parte dos Seletores CSS. Agora seguiremos para o próxi
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
+
+## 3. Propriedades CSS
+
+<div align="left">
+  
+As "Propriedades CSS" são usadas para definir o estilo de um elemento HTML. 
+
+Existem um bocado delas, e cada uma delas controlando diversos aspectos visuais, como cor, fonte, margem, preenchimento e exibição. Aqui estão algumas das propriedades CSS mais comuns:
+
+| Tipo              | Descrição                                                                                                              |
+|-------------------|------------------------------------------------------------------------------------------------------------------------|
+| Cor               | `color`, `background-color`, `border-color`                                                                            |
+| Texto             | `font-family`, `font-size`, `font-weight`, `text-align`, `text-decoration`, `text-transform`, `line-height`            |
+| Layout            | `margin`, `padding`, `width`, `height`, `display`, `float`, `position`, `top`, `right`, `bottom`, `left`, `overflow`   |
+| Borda             | `border`, `border-radius`, `border-style`, `border-width`, `box-shadow`                                                |
+| Background        | `background-image`, `background-color`, `background-size`, `background-position`, `background-repeat`                  |
+| Espaçamento       | `margin`, `padding`                                                                                                    |
+| Dimensão          | `width`, `height`, `max-width`, `max-height`, `min-width`, `min-height`                                                |
+| Texto             | `color`, `font-family`, `font-size`, `font-weight`, `line-height`, `text-align`, `text-decoration`                     |
+| Lista             | `list-style-type`, `list-style-image`, `list-style-position`                                                           |
+| Outros            | `cursor`, `opacity`, `z-index`, `visibility`, `transition`, `animation`                                                |
+
+Ou se também preferir saber sobre elas mais especificamente:
+
+| Propriedade            | Descrição                                                                                         |
+|------------------------|---------------------------------------------------------------------------------------------------|
+| `font-style`           | Define o estilo da fonte (normal, itálico, obliquo)                                                |
+| `font-variant`         | Define se o texto deve ser exibido em letras maiúsculas ou minúsculas                               |
+| `font-size-adjust`     | Ajusta o tamanho da fonte para preservar a altura dos glifos                                       |
+| `font-stretch`         | Define a largura da fonte (expandida, condensada, normal)                                          |
+| `font`                 | Define todas as propriedades de fonte em uma declaração abreviada                                   |
+| `letter-spacing`       | Define o espaço entre caracteres                                                                  |
+| `word-spacing`         | Define o espaço entre palavras                                                                    |
+| `text-indent`          | Define o recuo da primeira linha de texto                                                         |
+| `text-align`           | Define o alinhamento horizontal do texto (left, right, center, justify)                           |
+| `text-transform`       | Define a transformação do texto (maiúsculas, minúsculas, capitalize)                              |
+| `line-height`          | Define a altura da linha                                                                          |
+| `vertical-align`       | Define o alinhamento vertical de um elemento em relação ao seu conteúdo inline                    |
+| `color`                | Define a cor do texto                                                                            |
+| `background-color`     | Define a cor de fundo de um elemento                                                             |
+| `background-image`     | Define a imagem de fundo de um elemento                                                          |
+| `background-repeat`    | Define como a imagem de fundo deve se repetir (repeat, repeat-x, repeat-y, no-repeat)            |
+| `background-position`  | Define a posição inicial de uma imagem de fundo                                                   |
+| `background-attachment`| Define se uma imagem de fundo é fixa ou rola com o restante da página                             |
+| `border`               | Define as propriedades da borda em uma declaração abreviada                                       |
+| `border-style`         | Define o estilo da borda (solid, dotted, dashed, double, groove, ridge, inset, outset, none)     |
+| `border-width`         | Define a largura da borda                                                                        |
+| `border-color`         | Define a cor da borda                                                                           |
+| `border-radius`        | Define o raio da borda do elemento (para criar bordas arredondadas)                              |
+| `box-shadow`           | Adiciona sombra a um elemento                                                                    |
+| `margin`               | Define as margens externas de um elemento                                                        |
+| `padding`              | Define o preenchimento interno de um elemento                                                    |
+| `display`              | Define o tipo de exibição de um elemento (block, inline, inline-block, none)                     |
+| `position`             | Define o método de posicionamento de um elemento (static, relative, absolute, fixed)             |
+| `top`, `right`, `bottom`, `left` | Define a posição de um elemento posicionado                                                      |
+| `float`                | Define se um elemento deve flutuar à esquerda, à direita ou não flutuar                          |
+| `clear`                | Define como um elemento deve se comportar em relação a elementos flutuantes                      |
+| `z-index`              | Define a pilha de ordem de um elemento (sobreposição de elementos)                               |
+| `overflow`             | Define o comportamento do conteúdo que transborda de um elemento (esconder, rolar, exibir)       |
+| `visibility`           | Define a visibilidade de um elemento (visível, oculto)                                           |
+| `cursor`               | Define o cursor do mouse quando ele passa sobre um elemento                                       |
+| `opacity`              | Define a opacidade de um elemento (valor entre 0 e 1, sendo 0 totalmente transparente e 1 opaco) |
+| `transition`           | Define a transição entre os estados de um elemento quando ocorrem mudanças em suas propriedades  |
+| `animation`            | Define uma animação para um elemento                                                             |
+
+Pois é, e essas são só algumas das várias propriedades CSS que existem, o leque de opções é suuuper extenso.
+
+Mas é a mesma coisa das tags de HTML, lembra?
+> *Nah, só algumas, não esquenta. Lembre-se, elas só são utilizadas quando necessárias.*
+
+Então, você só precisa ficar atento ao que precisa naquele momento. Se você quer que algum elemento da sua página web fique de uma certa maneira, provavelmente existe uma propriedade CSS perfeita para o que você precisa!
+
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 <br>
 
 ----
