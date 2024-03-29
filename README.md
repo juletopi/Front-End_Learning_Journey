@@ -41,7 +41,7 @@
   
 | <h3 align="center">⚠️ AVISO</h3> |
 |:---------------------------------|
-| <p><div align="center">Tanto o aprendizado quanto a documentação <br> deste repositório está **EM PROGRESSO** <br><br> **Status:** <img align="center" src="https://geps.dev/progress/13?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e" alt="StatusBar" /></p> |
+| <p><div align="center">Tanto o aprendizado quanto a documentação <br> deste repositório está **EM PROGRESSO** <br><br> **Status:** <img align="center" src="https://geps.dev/progress/35?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e" alt="StatusBarProgress" /></p> |
 
 </div>
 <br>
