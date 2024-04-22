@@ -3,6 +3,7 @@
 🔗 • https://github.com/piyushsuthar/github-readme-quotes
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
+🔗 • https://onlinetools.com/image/blur-image
 🔗 • https://shields.io
 🔗 • https://emoji.gg
 🔗 • https://getemoji.com
@@ -870,6 +871,8 @@ Este é um exemplo de estrutura de diretório para um projeto simples, contendo 
 
 Ao final do guia, teremos um conhecimento sólido sobre CSS. Vamos lá! 😁✊
 
+</div>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
@@ -1141,6 +1144,40 @@ Mas é a mesma coisa das tags de HTML, lembra?
 
 Então, você só precisa ficar atento ao que precisa naquele momento. Se você quer que algum elemento da sua página web fique de uma certa maneira, provavelmente existe uma propriedade CSS perfeita para o que você precisa!
 
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+## Modificando o nosso arquivo HTML com elementos CSS
+
+<div align="left">
+
+Então, de verdade agora, vamos modificar o nosso arquivo que criamos anteriormente, o "[Simple_HTML_Structure.html](https://github.com/juletopi/Front-End_Learning_Journey/blob/main/Simple_HTML_Structure.html)".
+
+Vamos usar da criatividade para modificar e/ou adicionar mais conteúdo a nossa página-web e estiliza-la com diferentes elementos CSS, confira o resultado abaixo:
+
+<div align="center">
+  <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e9ccdd48-a4b7-4de5-a9da-825fc81b1912" alt="HTML+CSSWebpageView-pic" width="650px">
+</div>
+<br>
+
+E então? Ficou bom né? Com CSS, já podemos transformar completamente a aparência de uma página e deixa-la praticamente pronta.
+
+Visualmente, ela já parece bem satisfatória, mas ainda há muito espaço para melhorias. Não se preocupe, vamos chegar lá. Por enquanto, vamos nos concentrar no momento e aprender como uma página em branco, com apenas alguns textos, se transformou nessa página com essa aparência...
+
+</div>
+
+<div align="left">
+  <img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/63731581-ad95-489d-a8ec-b10d7c184d13" alt="HTML+CSSWebpageDiretoryStructure-pic" width="365px">
+
+Primeiramente, vamos ver a nossa Estrutura de Diretório. Não podemos esquecer que uma estrutura de diretório bem organizada é o primeiro passo importante para se criar uma boa página-web.
+
+Na estrutura, podemos ver o arquivo "index.html" que anteriormente era o nosso arquivo "Simple_HTML_Structure.html".
+
+Também podemos ver o arquivo "style.css", que é onde o nosso código CSS está.
+
+E também podemos ver arquivos extras como fontes - com os arquivos "DisposableDroidBB-Bold.ttf", "DisposableDroidBB-Italic.ttf" e "DisposableDroidBB-Regular.ttf" - que utilizamos para mudar as fontes dos textos da nossa página-web, e imagens de exemplo - com os arquivos "iconeExemplo.ico", "imagemExemplo.png", "logoExemplo.png" e "pixelatedStreetBackgroundGif.gif" - para colocarmos na página-web.
+  
 </div>
 
 <div align="left">
