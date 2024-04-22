@@ -1163,20 +1163,30 @@ Vamos usar da criatividade para modificar e/ou adicionar mais conteúdo a nossa 
 
 E então? Ficou bom né? Com CSS, já podemos transformar completamente a aparência de uma página e deixá-la praticamente pronta.
 
+Com essa página estilizada temos vários elementos visuais:
+
+- Uma barra de navegação fixa no topo da página com a logo da página e os links de navegação "Home", "Sobre" e "Contato".
+- Uma seção "Home" com um título, subtítulo, parágrafo de texto e uma seta animada.
+- Uma seção "Sobre" com duas sub-seções com imagens, títulos, subtítulos, botões e parágrafos de texto.
+- Uma seção "Contato" com uma lista de links de botões clicáveis e contatos adicionais com ícones SVGs.
+- Um rodapé com copyright, ano e mensagem de autoria.
+- Fonte de texto e imagem de fundo da página no estilo "pixelado".
+- Seleção de texto e barra de rolagem estilizados nas cores principais da página.
+
 Visualmente, ela já parece bem satisfatória, mas ainda há muito espaço para melhorias. Não se preocupe, vamos chegar lá. Por enquanto, vamos nos concentrar no momento e aprender como uma página em branco, com apenas alguns textos, se transformou nessa página com essa aparência...
 
 </div>
 
 <div align="left">
-  <img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/63731581-ad95-489d-a8ec-b10d7c184d13" alt="HTML+CSSWebpageDiretoryStructure-pic" width="365px">
+  <img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/63731581-ad95-489d-a8ec-b10d7c184d13" alt="HTML+CSSWebpageDiretoryStructure-pic" width="385px">
 
 Primeiramente, vamos ver a nossa Estrutura de Diretório.
 
-Na estrutura, podemos ver o arquivo "index.html" que anteriormente era o nosso arquivo "Simple_HTML_Structure.html".
+- Na estrutura, podemos ver o arquivo "index.html" que anteriormente era o nosso arquivo "Simple_HTML_Structure.html".
 
-Também podemos ver o arquivo "style.css", que é onde o nosso código CSS está.
+- Também podemos ver o arquivo "style.css", que é onde o nosso código CSS está.
 
-E também podemos ver arquivos extras como fontes - com os arquivos "DisposableDroidBB-Bold.ttf", "DisposableDroidBB-Italic.ttf" e "DisposableDroidBB-Regular.ttf" - que mudam as fontes dos textos da página, e imagens de exemplo - com os arquivos "iconeExemplo.ico", "imagemExemplo.png", "logoExemplo.png" e "pixelatedStreetBackgroundGif.gif" - para colocarmos na página.
+- E também podemos ver arquivos extras como fontes ("DisposableDroidBB-Bold.ttf", "DisposableDroidBB-Italic.ttf" e "DisposableDroidBB-Regular.ttf") que mudam as fontes dos textos da página, e imagens de exemplo ("iconeExemplo.ico", "imagemExemplo.png", "logoExemplo.png" e "pixelatedStreetBackgroundGif.gif") para colocarmos na página.
   
 </div>
 
