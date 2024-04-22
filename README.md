@@ -930,7 +930,7 @@ Lembra do [*Simple_HTML_Structure.html*](https://github.com/juletopi/Front-End_L
 1. **Criar o Arquivo CSS:** \
 Antes de linkar o CSS com o HTML, precisamos de um arquivo CSS pronto para aplicar ao nosso documento HTML. Seguindo os conceitos da "Estrutura de Diretório", faremos o nosso arquivo CSS chamado "style.css" numa estrutura adequada.
 
-<img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/70b44fec-6f88-4fe6-aec8-4f314bd6d81e" alt="DiretoryStructure-pic" width="365px">
+<img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/fe679e31-bcc8-4b24-8ae0-dd4bcb5f8a34" alt="DiretoryStructure-pic" width="365px">
 
 ----
 
@@ -1161,7 +1161,7 @@ Vamos usar da criatividade para modificar e/ou adicionar mais conteúdo a nossa 
 </div>
 <br>
 
-E então? Ficou bom né? Com CSS, já podemos transformar completamente a aparência de uma página e deixa-la praticamente pronta.
+E então? Ficou bom né? Com CSS, já podemos transformar completamente a aparência de uma página e deixá-la praticamente pronta.
 
 Visualmente, ela já parece bem satisfatória, mas ainda há muito espaço para melhorias. Não se preocupe, vamos chegar lá. Por enquanto, vamos nos concentrar no momento e aprender como uma página em branco, com apenas alguns textos, se transformou nessa página com essa aparência...
 
@@ -1170,13 +1170,13 @@ Visualmente, ela já parece bem satisfatória, mas ainda há muito espaço para 
 <div align="left">
   <img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/63731581-ad95-489d-a8ec-b10d7c184d13" alt="HTML+CSSWebpageDiretoryStructure-pic" width="365px">
 
-Primeiramente, vamos ver a nossa Estrutura de Diretório. Não podemos esquecer que uma estrutura de diretório bem organizada é o primeiro passo importante para se criar uma boa página-web.
+Primeiramente, vamos ver a nossa Estrutura de Diretório.
 
 Na estrutura, podemos ver o arquivo "index.html" que anteriormente era o nosso arquivo "Simple_HTML_Structure.html".
 
 Também podemos ver o arquivo "style.css", que é onde o nosso código CSS está.
 
-E também podemos ver arquivos extras como fontes - com os arquivos "DisposableDroidBB-Bold.ttf", "DisposableDroidBB-Italic.ttf" e "DisposableDroidBB-Regular.ttf" - que utilizamos para mudar as fontes dos textos da nossa página-web, e imagens de exemplo - com os arquivos "iconeExemplo.ico", "imagemExemplo.png", "logoExemplo.png" e "pixelatedStreetBackgroundGif.gif" - para colocarmos na página-web.
+E também podemos ver arquivos extras como fontes - com os arquivos "DisposableDroidBB-Bold.ttf", "DisposableDroidBB-Italic.ttf" e "DisposableDroidBB-Regular.ttf" - que mudam as fontes dos textos da página, e imagens de exemplo - com os arquivos "iconeExemplo.ico", "imagemExemplo.png", "logoExemplo.png" e "pixelatedStreetBackgroundGif.gif" - para colocarmos na página.
   
 </div>
 
