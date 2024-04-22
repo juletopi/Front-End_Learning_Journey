@@ -1175,18 +1175,18 @@ Com essa página estilizada temos vários elementos visuais:
 
 Visualmente, ela já parece bem satisfatória, mas ainda há muito espaço para melhorias. Não se preocupe, vamos chegar lá. Por enquanto, vamos nos concentrar no momento e aprender como uma página em branco, com apenas alguns textos, se transformou nessa página com essa aparência...
 
+Primeiramente, vamos ver a nossa Estrutura de Diretório.
+
 </div>
 
 <div align="left">
-  <img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/63731581-ad95-489d-a8ec-b10d7c184d13" alt="HTML+CSSWebpageDiretoryStructure-pic" width="385px">
+  <img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/63731581-ad95-489d-a8ec-b10d7c184d13" alt="HTML+CSSWebpageDiretoryStructure-pic" width="375px">
 
-Primeiramente, vamos ver a nossa Estrutura de Diretório.
+Na estrutura, podemos ver o arquivo "index.html" que anteriormente era o nosso arquivo "Simple_HTML_Structure.html".
 
-- Na estrutura, podemos ver o arquivo "index.html" que anteriormente era o nosso arquivo "Simple_HTML_Structure.html".
+Também podemos ver o arquivo "style.css", que é onde o nosso código CSS está.
 
-- Também podemos ver o arquivo "style.css", que é onde o nosso código CSS está.
-
-- E também podemos ver arquivos extras como fontes ("DisposableDroidBB-Bold.ttf", "DisposableDroidBB-Italic.ttf" e "DisposableDroidBB-Regular.ttf") que mudam as fontes dos textos da página, e imagens de exemplo ("iconeExemplo.ico", "imagemExemplo.png", "logoExemplo.png" e "pixelatedStreetBackgroundGif.gif") para colocarmos na página.
+E também podemos ver arquivos extras como fontes ("DisposableDroidBB-Bold.ttf", "DisposableDroidBB-Italic.ttf" e "DisposableDroidBB-Regular.ttf") que mudam as fontes dos textos da página, e imagens de exemplo ("iconeExemplo.ico", "imagemExemplo.png", "logoExemplo.png" e "pixelatedStreetBackgroundGif.gif") para colocarmos na página.
   
 </div>
 
