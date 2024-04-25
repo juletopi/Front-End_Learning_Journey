@@ -1029,9 +1029,9 @@ E com isso, o seletor `#main` é usado para estilizar o elemento `<header>` que 
 4. **Seletores de Atributo:** \
 São usados para selecionar elementos com base em atributos específicos.
 
-Por exemplo, se você tiver elementos `<a>` com o atributo "target" definido como "_blank" (para abrir o link em uma nova aba), você pode estilizá-los da seguinte forma: <br><br>
+Por exemplo, se você tiver elementos `<a>` com o atributo "target" definido como "_blank" (para abrir o link em uma nova aba), você pode estilizá-los da seguinte forma:
 
-Vamos adicionar uma autoria com nosso nome no rodapé da página com o atributo `target="_blank"`...<br>
+Vamos adicionar uma autoria com nosso nome no rodapé da página com o atributo `target="_blank"`...<br><br>
 **HTML:**
 ```html
 <footer>
@@ -1165,17 +1165,17 @@ E então? Ficou bom né? Com CSS, já podemos transformar completamente a aparê
 
 Com essa página estilizada temos vários elementos visuais:
 
-- Uma barra de navegação fixa no topo da página com a logo da página e os links de navegação "Home", "Sobre" e "Contato".
-- Uma seção "Home" com um título, subtítulo, parágrafo de texto e uma seta animada.
-- Uma seção "Sobre" com duas sub-seções com imagens, títulos, subtítulos, botões e parágrafos de texto.
-- Uma seção "Contato" com uma lista de links de botões clicáveis e contatos adicionais com ícones SVGs.
+- Uma barra de navegação fixa no topo da página com a logo da página e os links de navegação **Home**, **Sobre** e **Contato**.
+- Uma seção **Home** com um título, subtítulo, parágrafo de texto e uma seta animada.
+- Uma seção **Sobre** com duas sub-seções com imagens, títulos, subtítulos, botões e parágrafos de texto.
+- Uma seção **Contato** com uma lista de links de botões clicáveis e contatos adicionais com ícones SVGs.
 - Um rodapé com copyright, ano e mensagem de autoria.
 - Fonte de texto e imagem de fundo da página no estilo "pixelado".
 - Seleção de texto e barra de rolagem estilizados nas cores principais da página.
 
 Visualmente, ela já parece bem satisfatória, mas ainda há muito espaço para melhorias. Não se preocupe, vamos chegar lá. Por enquanto, vamos nos concentrar no momento e aprender como uma página em branco, com apenas alguns textos, se transformou nessa página com essa aparência...
 
-Primeiramente, vamos ver a nossa Estrutura de Diretório.
+Primeiramente, vamos ver a nossa **Estrutura de Diretório**.
 
 </div>
 
