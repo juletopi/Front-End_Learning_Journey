@@ -72,6 +72,7 @@
 |  | [I. UI & UX Design](#i-ui--ux-design) | [Linkando CSS com HTML](#1-linkando-css-com-html) |
 |  | [II. Segurança Front-End](#ii-segurança-front-end) | [Seletores CSS](#2-seletores-css) |
 |  | [III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)](#iii-ferramentas-auxiliares-uso-de-ias-photoshop-figma-etc) | [Propriedades CSS](#3-propriedades-css) |
+|  |  | [Modificando o nosso arquivo HTML com elementos CSS](#modificando-o-nosso-arquivo-html-com-elementos-css) |
 
 </div>
 <br>
