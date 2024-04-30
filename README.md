@@ -1308,7 +1308,613 @@ Na estrutura, podemos ver o arquivo "index.html" que anteriormente era o nosso a
 Também podemos ver o arquivo "style.css", que é onde o nosso código CSS está.
 
 E também podemos ver arquivos extras como fontes ("DisposableDroidBB-Bold.ttf", "DisposableDroidBB-Italic.ttf" e "DisposableDroidBB-Regular.ttf") que mudam as fontes dos textos da página, e imagens de exemplo ("iconeExemplo.ico", "imagemExemplo.png", "logoExemplo.png" e "pixelatedStreetBackgroundGif.gif") para colocarmos na página.
-  
+
+Eis o código HTML e CSS por trás dessa página: <br><br>
+**HTML:**
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Muito Top</title>
+    <link rel="stylesheet" href="src/css/style.css">
+    <link rel="shortcut icon" href="src/images/iconeExemplo.ico" type="image/x-icon" />
+</head>
+<body>
+    <!-- Overlay acima da imagem de fundo da página -->
+    <div class="overlay"></div>
+
+    <!-- Barra de navegação -->
+    <nav class="navbar">
+        <div class="logo">
+            <img src="src/images/logoExemplo.png" alt="imagePageLogo">
+            <h2>MINHA PÁGINA<br>MUITO TOP</h2>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#main-title">Home</a></li>
+            <li><a href="#about-title">Sobre</a></li>
+            <li><a href="#contact-title">Contato</a></li>
+        </ul>
+    </nav>
+
+    <!-- Seção do título da página -->
+    <header class="title">
+        <h1 id="main-title">Bem-vindos(as)<br>a minha pagina<br>muito top</h1>
+        <hr>
+        <h2>A Pagina Mais Top</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla leo nec risus consectetur, sit amet ultrices felis consequat. Aliquam erat volutpat. Donec at metus eros. Aliquam in mauris leo. Cras maximus pulvinar mauris, id iaculis felis. Nullam feugiat diam vitae nisi varius, in eleifend elit fringilla. Mauris nec velit eu leo rhoncus commodo. Maecenas vitae elit nec quam placerat eleifend. Sed vehicula libero at purus sollicitudin, a interdum est venenatis. Donec ac lacinia magna.</p>
+
+        <!-- Seta animada abaixo do parágrafo na sessão do título -->
+        <div class="arrow"></div>
+    </header>
+
+    <!-- Seção 1 da página -->
+    <h2 id="about-title">Sobre</h2>
+    <hr class="hr1">
+    <section id="section-one" class="page-section">
+        <div class="section-content">
+            <img src="src/images/imagemExemplo.png" alt="imageSectionOne" class="section-image">
+            <div class="section-text">
+                <h2>Secao 1</h2>
+                <sub>Conteudo da secao 1</sub>
+                <!-- Botão na seção 1 -->
+                <div class="button-container">
+                    <button id="button1" class="transparent-button">Botao 1</button>
+                </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla leo nec risus consectetur, sit amet ultrices felis consequat. Aliquam erat volutpat. Donec at metus eros. Aliquam in mauris leo. Cras maximus pulvinar mauris, id iaculis felis. Nullam feugiat diam vitae nisi varius, in eleifend elit fringilla. Mauris nec velit eu leo rhoncus commodo.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção 2 da página -->
+    <section id="section-two" class="page-section">
+        <div class="section-content">
+            <img src="src/images/imagemExemplo.png" alt="imageSectionTwo" class="section-image">
+            <div class="section-text">
+                <h2>Secao 2</h2>
+                <sub>Conteudo da secao 2</sub>
+                <!-- Botão na seção 2 -->
+                <div class="button-container">
+                    <button id="button2" class="transparent-button">Botao 2</button>
+                </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla leo nec risus consectetur, sit amet ultrices felis consequat. Aliquam erat volutpat. Donec at metus eros. Aliquam in mauris leo. Cras maximus pulvinar mauris, id iaculis felis. Nullam feugiat diam vitae nisi varius, in eleifend elit fringilla. Mauris nec velit eu leo rhoncus commodo.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção "Contatos" -->
+    <h2 id="contact-title">Contato</h2>
+    <hr class="hr2">
+    <section class="contacts">
+        <p>Lista de Links:</p>
+        <div class="contact-link-container">
+            <button id="button2" class="contact-link-button">Link 1</button>
+            <button id="button3" class="contact-link-button">Link 2</button>
+            <button id="button4" class="contact-link-button">Link 3</button>
+        </div>
+        <p>Contatos Adicionais:</p>
+        <div class="social-icons-container">
+            <a href="https://www.facebook.com/" target="_blank" title="Facebook">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0,0,256,256"style="fill:#000000;"><g fill="#a59cc2" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.12,5.12)"><path d="M25,3c-12.15,0 -22,9.85 -22,22c0,11.03 8.125,20.137 18.712,21.728v-15.897h-5.443v-5.783h5.443v-3.848c0,-6.371 3.104,-9.168 8.399,-9.168c2.536,0 3.877,0.188 4.512,0.274v5.048h-3.612c-2.248,0 -3.033,2.131 -3.033,4.533v3.161h6.588l-0.894,5.783h-5.694v15.944c10.738,-1.457 19.022,-10.638 19.022,-21.775c0,-12.15 -9.85,-22 -22,-22z"></path></g></g></svg>
+            </a>
+            <a href="https://www.instagram.com/" target="_blank" title="Instagram">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0,0,256,256"style="fill:#000000;"><g fill="#a59cc2" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(4,4)"><path d="M21.58008,7c-8.039,0 -14.58008,6.54494 -14.58008,14.58594v20.83203c0,8.04 6.54494,14.58203 14.58594,14.58203h20.83203c8.04,0 14.58203,-6.54494 14.58203,-14.58594v-20.83398c0,-8.039 -6.54494,-14.58008 -14.58594,-14.58008zM47,15c1.104,0 2,0.896 2,2c0,1.104 -0.896,2 -2,2c-1.104,0 -2,-0.896 -2,-2c0,-1.104 0.896,-2 2,-2zM32,19c7.17,0 13,5.83 13,13c0,7.17 -5.831,13 -13,13c-7.17,0 -13,-5.831 -13,-13c0,-7.169 5.83,-13 13,-13zM32,23c-4.971,0 -9,4.029 -9,9c0,4.971 4.029,9 9,9c4.971,0 9,-4.029 9,-9c0,-4.971 -4.029,-9 -9,-9z"></path></g></g></svg>
+            </a>
+            <a href="https://www.linkedin.com/" target="_blank" title="LinkedIn">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="29" height="29" viewBox="0,0,256,256"style="fill:#000000;"><g fill="#a59cc2" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.12,5.12)"><path d="M41,4h-32c-2.76,0 -5,2.24 -5,5v32c0,2.76 2.24,5 5,5h32c2.76,0 5,-2.24 5,-5v-32c0,-2.76 -2.24,-5 -5,-5zM17,20v19h-6v-19zM11,14.47c0,-1.4 1.2,-2.47 3,-2.47c1.8,0 2.93,1.07 3,2.47c0,1.4 -1.12,2.53 -3,2.53c-1.8,0 -3,-1.13 -3,-2.53zM39,39h-6c0,0 0,-9.26 0,-10c0,-2 -1,-4 -3.5,-4.04h-0.08c-2.42,0 -3.42,2.06 -3.42,4.04c0,0.91 0,10 0,10h-6v-19h6v2.56c0,0 1.93,-2.56 5.81,-2.56c3.97,0 7.19,2.73 7.19,8.26z"></path></g></g></svg>
+            </a>
+            <a href="https://github.com/" target="_blank" title="GitHub">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0,0,256,256"style="fill:#000000;"><g fill="#a59cc2" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(4,4)"><path d="M32,6c-14.359,0 -26,11.641 -26,26c0,12.277 8.512,22.56 19.955,25.286c-0.592,-0.141 -1.179,-0.299 -1.755,-0.479v-5.957c0,0 -0.975,0.325 -2.275,0.325c-3.637,0 -5.148,-3.245 -5.525,-4.875c-0.229,-0.993 -0.827,-1.934 -1.469,-2.509c-0.767,-0.684 -1.126,-0.686 -1.131,-0.92c-0.01,-0.491 0.658,-0.471 0.975,-0.471c1.625,0 2.857,1.729 3.429,2.623c1.417,2.207 2.938,2.577 3.721,2.577c0.975,0 1.817,-0.146 2.397,-0.426c0.268,-1.888 1.108,-3.57 2.478,-4.774c-6.097,-1.219 -10.4,-4.716 -10.4,-10.4c0,-2.928 1.175,-5.619 3.133,-7.792c-0.2,-0.567 -0.533,-1.714 -0.533,-3.583c0,-1.235 0.086,-2.751 0.65,-4.225c0,0 3.708,0.026 7.205,3.338c1.614,-0.47 3.341,-0.738 5.145,-0.738c1.804,0 3.531,0.268 5.145,0.738c3.497,-3.312 7.205,-3.338 7.205,-3.338c0.567,1.474 0.65,2.99 0.65,4.225c0,2.015 -0.268,3.19 -0.432,3.697c1.898,2.153 3.032,4.802 3.032,7.678c0,5.684 -4.303,9.181 -10.4,10.4c1.628,1.43 2.6,3.513 2.6,5.85v8.557c-0.576,0.181 -1.162,0.338 -1.755,0.479c11.443,-2.726 19.955,-13.009 19.955,-25.286c0,-14.359 -11.641,-26 -26,-26zM33.813,57.93c-0.599,0.042 -1.203,0.07 -1.813,0.07c0.61,0 1.213,-0.029 1.813,-0.07zM37.786,57.346c-1.164,0.265 -2.357,0.451 -3.575,0.554c1.218,-0.103 2.411,-0.29 3.575,-0.554zM32,58c-0.61,0 -1.214,-0.028 -1.813,-0.07c0.6,0.041 1.203,0.07 1.813,0.07zM29.788,57.9c-1.217,-0.103 -2.411,-0.289 -3.574,-0.554c1.164,0.264 2.357,0.451 3.574,0.554z"></path></g></g></svg>
+            </a>
+            <a href="https://whatsapp.com/" target="_blank" title="Whatsapp">
+                <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="28" height="28" viewBox="0,0,256,256"style="fill:#000000;"><g fill="#a59cc2" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.12,5.12)"><path d="M25,2c-12.682,0 -23,10.318 -23,23c0,3.96 1.023,7.854 2.963,11.29l-2.926,10.44c-0.096,0.343 -0.003,0.711 0.245,0.966c0.191,0.197 0.451,0.304 0.718,0.304c0.08,0 0.161,-0.01 0.24,-0.029l10.896,-2.699c3.327,1.786 7.074,2.728 10.864,2.728c12.682,0 23,-10.318 23,-23c0,-12.682 -10.318,-23 -23,-23zM36.57,33.116c-0.492,1.362 -2.852,2.605 -3.986,2.772c-1.018,0.149 -2.306,0.213 -3.72,-0.231c-0.857,-0.27 -1.957,-0.628 -3.366,-1.229c-5.923,-2.526 -9.791,-8.415 -10.087,-8.804c-0.295,-0.389 -2.411,-3.161 -2.411,-6.03c0,-2.869 1.525,-4.28 2.067,-4.864c0.542,-0.584 1.181,-0.73 1.575,-0.73c0.394,0 0.787,0.005 1.132,0.021c0.363,0.018 0.85,-0.137 1.329,1.001c0.492,1.168 1.673,4.037 1.819,4.33c0.148,0.292 0.246,0.633 0.05,1.022c-0.196,0.389 -0.294,0.632 -0.59,0.973c-0.296,0.341 -0.62,0.76 -0.886,1.022c-0.296,0.291 -0.603,0.606 -0.259,1.19c0.344,0.584 1.529,2.493 3.285,4.039c2.255,1.986 4.158,2.602 4.748,2.894c0.59,0.292 0.935,0.243 1.279,-0.146c0.344,-0.39 1.476,-1.703 1.869,-2.286c0.393,-0.583 0.787,-0.487 1.329,-0.292c0.542,0.194 3.445,1.604 4.035,1.896c0.59,0.292 0.984,0.438 1.132,0.681c0.148,0.242 0.148,1.41 -0.344,2.771z"></path></g></g></svg>
+            </a>
+        </div>
+    </section>
+
+    <!-- Rodapé da página -->
+    <footer class="footer">
+        <p>&copy; 2024 Minha página muito top. Todos os direitos reservados. | Feito com amor por <a href="https://github.com/juletopi" target="_blank">Juletopi</a>.</p>
+    </footer>
+</body>
+</html>
+```
+**CSS:**
+```css
+/* Reset básico para todos os elementos */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Remove os estilos padrão das listas não ordenadas */
+ul {
+	list-style: none;
+}
+
+/* Remove a decoração padrão dos links */
+a {
+	text-decoration: none;
+}
+
+/* Adiciona um scroll suave */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Estilização básica do corpo do documento */
+body {
+    font-family: DisposableDroidBB-Regular;
+    color: #fff;
+    background-color: #2c2c2e;
+    background-image: url('../images/pixelatedStreetBackgroundGif.gif');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/* Estilização da sobreposição para efeitos visuais desejados na imagem de fundo */
+.overlay {
+    background-color: rgba(0, 0, 0, 0.815);
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+/* Estilização da barra de navegação */
+.navbar {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #1b1b1bfa;
+    box-shadow: 0 10px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* Estilização do logotipo na barra de navegação */
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+/* Estilização da imagem do logotipo na barra de navegação */
+.logo img {
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* Estilização do texto do logotipo na barra de navegação */
+.logo h2 {
+    font-family: Verdana;
+    margin-left: 20px;
+    font-size: 18px;
+    font-style: inherit;
+    line-height: 1.0;
+    letter-spacing: -2px;
+}
+
+/* Estilização geral dos links de navegação */
+.nav-links {
+    display: flex;
+    list-style-type: none;
+    font-size: 23px;
+}
+
+/* Estilização dos itens da lista de links de navegação */
+.nav-links li {
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Estilização específica dos links de navegação */
+.nav-links a {
+    color: #e0e0e0;
+    padding-inline: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* Estilização específica dos links de navegação ao passar o mouse */
+.nav-links a:hover {
+    background-color: #575757;
+    border-radius: 5px;
+    transition: 0.5s ease;
+    transform: scale(1.1);
+}
+
+/* Estilização específica dos links de navegação ao deixar o mouse */
+.nav-links a:not(:hover) {
+    border-radius: 5px;
+    transition: background-color 0.5s ease;
+}
+
+/* Estilização do título da seção do título principal da página */
+.title h1 {
+    font-family: "DisposableDroidBB-Bold";
+    font-size: 60px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.651);
+    padding-top: 150px;
+    padding-bottom: 60px;
+    text-align: center;
+    line-height: 0.7;
+    letter-spacing: -3px;
+}
+
+/* Estilização da linha horizontal abaixo do título principal da página */
+.title hr {
+    border: none;
+    border: 2px solid #fff;
+    width: 30%;
+    margin: 50px auto;
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
+
+/* Estilização do subtítulo da seção do título principal da página */
+.title h2 {
+    font-family: "DisposableDroidBB-Bold";
+    font-size: 36px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.651);
+    padding-bottom: 40px;
+    text-align: center;
+    line-height: 1.0;
+    letter-spacing: -1px;
+}
+
+/* Estilização do parágrafo da seção do título principal da página */
+.title p {
+    font-size: 23px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.651);
+    padding-bottom: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+/* Estilização da seta animada abaixo do parágrafo da seção do título da página */
+.arrow {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 15px solid #fff;
+    position: relative;
+    margin: 10px auto;
+    padding-bottom: 15px;
+    animation: arrowAnimation 1s infinite alternate;
+}
+
+/* Estilização do título "Sobre" */
+#about-title {
+    font-family: "DisposableDroidBB-Bold";
+    font-size: 55px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: -10px;
+    line-height: 0.7;
+    letter-spacing: -2px;
+}
+
+/* Estilização da linha horizontal abaixo do título "Sobre" */
+.hr1 {
+    border: none;
+    border: 2px solid #fff;
+    margin: 20px auto;
+    margin-bottom: 10px;
+    width: 20%;
+}
+
+/* Estilização geral das seções da página */
+.page-section {
+    color: #fff;
+    padding: 50px 0px;
+    padding-bottom: 0;
+    padding-top: 10px;
+}
+
+/* Estilização da imagem das seções da página */
+.section-image {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+/* Estilização do conteúdo das seções da página */
+.section-content {
+    background-color: #1b1b1bab;
+    padding: 0px auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* Estilização específica da imagem das seções da página */
+.section-content img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Estilização geral do texto das seções da página */
+.section-text {
+    flex: 1;
+    padding-right: 20px;
+}
+
+/* Estilização do título do texto nas seções da página */
+.section-text h2 {
+    font-family: "DisposableDroidBB-Bold";
+    font-size: 38px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+/* Estilização do subtitulo do texto nas seções da página */
+.section-text sub {
+    font-family: "DisposableDroidBB-Italic";
+    font-size: 18px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+    line-height: 1.0;
+}
+
+/* Estilização dos parágrafos do texto nas seções da página */
+.section-text p {
+    color: #e0e0e0;
+    font-size: 23px;
+    line-height: 1.5;
+    margin-left: 20px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+
+/* Estilização específica da Seção 2 */
+#section-two .section-content {
+    flex-direction: row-reverse;
+    text-align: right;
+}
+
+/* Estilização específica da imagem da Seção 2 */
+#section-two .section-image {
+    padding-right: 20px;
+    padding-left: 0;
+}
+
+/* Estilização do container do botão */
+.button-container {
+    display: flex;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+/* Estilização dos botões transparente*/
+.transparent-button {
+    font-family: DisposableDroidBB-Bold;
+    font-size: 23px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid #747474;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+/* Estilização do botão transparente ao passar o mouse */
+.transparent-button:hover {
+    background-color: #747474;
+    color: white;
+    border-color: #747474;
+}
+
+/* Estilização específica do botão da Seção 2 */
+#button2.transparent-button {
+    margin-left: auto;
+}
+
+/* Estilização do título "Contato" */
+#contact-title {
+    font-family: "DisposableDroidBB-Bold";
+    font-size: 55px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: -10px;
+    line-height: 0.7;
+    letter-spacing: -2px;
+}
+
+/* Estilização da linha horizontal abaixo do título "Contato" */
+.hr2 {
+    border: none;
+    border: 2px solid #fff;
+    margin: 20px auto;
+    margin-bottom: 10px;
+    width: 20%;
+}
+
+/* Estilização geral da seção de contatos */
+.contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estilização dos parágrafos da seção de contatos */
+.contacts p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+/* Estilização do container dos botões de contatos */
+.contact-link-container {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+/* Estilização dos botões de contatos */
+.contact-link-button {
+    font-family: DisposableDroidBB-Bold;
+    font-size: 23px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: transparent;
+    color: white;
+    border: 3px solid #747474;
+    border-radius: 5px;
+    padding: 20px 180px;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+/* Estilização dos botões de contatos ao passar o mouse */
+.contact-link-button:hover {
+    background-color: #747474;
+    color: white;
+    border-color: #747474;
+}
+
+/* Estilização do container dos ícones sociais */
+.social-icons-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    gap: 30px;
+}
+
+/* Estilização específica do link dos ícones sociais */
+.social-icons-container a {
+    display: inline-block;
+    width: 38px;
+    margin-top: 10px;
+}
+
+/* Estilização específica do SVG dos ícones sociais */
+.social-icons-container svg {
+    width: 100%;
+    height: 100%;
+}
+
+/* Estilização do preenchimento dos ícones sociais */
+.social-icons-container a svg path {
+    fill: #9e9e9e;
+}
+
+/* Estilização do preenchimento dos ícones sociais ao passar o mouse */
+.social-icons-container a:hover svg path {
+    fill: #5e5e5e;
+    transition: fill 0.3s ease;
+}
+
+/* Estilização do rodapé */
+.footer {
+    font-family: Verdana;
+    background-color: #141414;
+    color: #888888;
+    margin-top: 30px;
+}
+
+/* Estilização do texto no rodapé */
+.footer p {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 12px;
+}
+
+/* Estilização do link no rodapé */
+.footer a {
+    color: #cecece;
+}
+
+/* Estilização do links no rodapé ao passar o mouse */
+.footer a:hover {
+    color: #ffffff;
+    transition: color 0.3s ease;
+}
+
+/* Definição da fonte DisposableDroidBB-Regular */
+@font-face {
+    font-family: "DisposableDroidBB-Regular";
+    src: url("../fonts/DisposableDroidBB-Regular.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Regular.ttf") format("woff");
+}
+
+/* Definição da fonte DisposableDroidBB-Bold */
+@font-face {
+    font-family: "DisposableDroidBB-Bold";
+    src: url("../fonts/DisposableDroidBB-Bold.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Bold.ttf") format("woff");
+}
+
+/* Definição da fonte DisposableDroidBB-Italic */
+@font-face {
+    font-family: "DisposableDroidBB-Italic";
+    src: url("../fonts/DisposableDroidBB-Italic.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Italic.ttf") format("woff");
+}
+
+/* Animação da seta */
+@keyframes arrowAnimation {
+    from {
+        top: 0;
+    }
+    to {
+        top: 10px;
+    }
+}
+
+/* Estilos da barra de rolagem */
+::-webkit-scrollbar {
+    background-color: #2c2c2e;
+    width: 10px;
+	height: 8px;
+}
+
+/* Estilos do indicador da barra de rolagem */
+::-webkit-scrollbar-thumb {
+    background-color: #707070;
+    border-radius: 8px;
+}
+
+/* Estilos da seleção de texto */
+::selection {
+    background-color: #bdbdbd59;
+    color: #fff;
+}
+```
+E com essas modificações temos esta página-web estilizada. 
+
+Mas o que são todos estes elementos e como eles funcionam?
+Vamos explicá-los parte-a-parte.
+
 </div>
 
 <div align="left">
