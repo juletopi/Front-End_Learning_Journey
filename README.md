@@ -798,6 +798,119 @@ Este é um editor de HTML que você pode usar pra depurar seu código em HTML de
 
 Entããão, é isso o que se tem do básico de HTML. Se quiser se aprofundar mais aconselho a testar mais tags e seus parâmetros, tais como `<img src="">`, ou `<a href="">`.
 
+<div align="center">
+  Veja abaixo mais exemplos comuns:
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/81aaeda9-7fc0-4fce-8bc8-6ac6d9d38042" alt="CommonHTMLElements-pic" width="650px">
+</div>
+<br>
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Este é um título da página web</title>
+</head>
+<body>
+    <!-- Títulos -->
+    <h1>Este é um título de nível 1</h1>
+    <h2>Este é um título de nível 2</h2>
+    <h3>Este é um título de nível 3</h3>
+    <h4>Este é um título de nível 4</h4>
+    <h5>Este é um título de nível 5</h5>
+    <h6>Este é um título de nível 6</h6>
+
+    <!-- Parágrafos -->
+    <p>Este é um parágrafo de texto simples.</p>
+
+    <!-- Listas -->
+    <h2>Listas</h2>
+    <h3>Listas não ordenadas</h3>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+    <h3>Listas ordenadas</h3>
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
+
+    <!-- Links -->
+    <h2>Links</h2>
+    <p>Visite a <a href="https://www.exemplo.com">página inicial</a>.</p>
+
+    <!-- Imagens -->
+    <h2>Imagens</h2>
+    <img src="caminho/para/imagem.jpg" alt="Descrição da imagem" title="Mensagem que aparece ao manter o cursor do mouse emcima da imagem">
+
+    <!-- Formulários -->
+    <h2>Formulários</h2>
+    <form action="/submit" method="post">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome"><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+        <input type="submit" value="Enviar">
+    </form>
+
+    <!-- Tabelas -->
+    <h2>Tabelas</h2>
+    <table>
+        <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+        </tr>
+        <tr>
+            <td>João</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>Maria</td>
+            <td>25</td>
+        </tr>
+    </table>
+
+    <!-- Seções -->
+    <h2>Seções</h2>
+    <section>
+        <h3>Seção 1</h3>
+        <p>Conteúdo da seção 1...</p>
+    </section>
+    <section>
+        <h3>Seção 2</h3>
+        <p>Conteúdo da seção 2...</p>
+    </section>
+
+    <!-- Quebra de linha -->
+    <br>
+    
+    <!-- Linha horizontal -->
+    <hr>
+
+    <!-- Quebra de linha -->
+    <br>
+
+    <!-- Estilos de texto -->
+    <h2>Estilos de Texto</h2>
+    <p><i>Texto em itálico</i></p>
+    <p><b>Texto em negrito</b></p>
+    <p><u>Texto sublinhado</u></p>
+    <p><strong>Texto forte</strong></p>
+    <p><small>Texto pequeno</small></p>
+    <p><code>Código de programação</code></p>
+</body>
+</html>
+```
+
 Também recomendo sites, fórums e outros repositórios para melhor estudar, eis aqui uma lista pra começar:
 - O repositório "[free-educa/free-livros](https://github.com/free-educa/free-livros)", com vários livros sobre Front-end começando por HTML.
 - O tópico "[Sites e cursos para aprender HTML](https://github.com/arthurspk/guiadevbrasil?tab=readme-ov-file#-sites-e-cursos-para-aprender-html)" do repositório "arthurspk/guiadevbrasil", que pode lhe servir como um norte para sua busca pela internet sobre vários conceitos de Front-end e HTML.
