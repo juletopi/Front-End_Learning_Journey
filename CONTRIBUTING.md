@@ -14,10 +14,10 @@
 
 ## Encontrou um bug?
 
-Antes de continuar, certifique-se de que o bug que você encontrou ainda não foi relatado na sessão Issues deste repositório.
+Antes de continuar, certifique-se de que o bug que você encontrou ainda não foi relatado na sessão <a href="https://github.com/juletopi/Front-End_Learning_Journey/issues">Issues</a> deste repositório.
 
-- Se um bug já estiver sido mencionado nas issues e você deseja corrigi-lo, faça um fork do repositório e envie sua implementação com o bug corrigido em um pull request.
-- Se um bug NÃO estiver mencionado nas issues, abra uma nova issue. Certifique-se de incluir um título, uma descrição clara e um caso de teste demonstrando o comportamento esperado que não está ocorrendo. Caso você mesmo deseja corrigir este bug, faça um fork do repositório e envie sua implementação com o bug corrigido em um pull request.
+- Se um bug já estiver sido mencionado nas <a href="https://github.com/juletopi/Front-End_Learning_Journey/issues">issues</a> e você deseja corrigi-lo, faça um fork do repositório e envie sua implementação com o bug corrigido em um pull request.
+- Se um bug NÃO estiver mencionado nas <a href="https://github.com/juletopi/Front-End_Learning_Journey/issues">issues</a>, abra uma nova issue. Certifique-se de incluir um título, uma descrição clara e um caso de teste demonstrando o comportamento esperado que não está ocorrendo. Caso você mesmo deseja corrigir este bug, faça um fork do repositório e envie sua implementação com o bug corrigido em um pull request.
 > [!NOTE]\
 > *Evite abrir issues pedindo para ser ativamente "atribuído" a uma parte específica do código. Em vez disso, apenas envie sua implementação em um pull request e suas modificações serão avaliadas para aprovação.*
 
@@ -40,7 +40,7 @@ Caso tenha achado erros graves na documentação ou deseja traduzi-la para uma l
 
 ## Tem alguma pergunta que deseja fazer?
 
-- Faça qualquer pergunta sobre o repositório abrindo uma nova discussão na sessão de Discussions deste repositório.
+- Faça qualquer pergunta sobre o repositório abrindo uma nova discussão na sessão de <a href="https://github.com/juletopi/Front-End_Learning_Journey/discussions">Discussions</a> deste repositório.
 
 <br>
 
