@@ -32,6 +32,13 @@
 </div>
 
 <div align="center">
+<a href="https://github.com/juletopi/Front-End_Learning_Journey/blob/main/CONTRIBUTING.md">Como contribuir</a> &#xa0; • &#xa0;
+<a href="https://github.com/juletopi/Front-End_Learning_Journey/issues">Issues</a> &#xa0; • &#xa0;
+<a href="https://github.com/juletopi/Front-End_Learning_Journey/discussions">Discussions</a>
+</div>
+<br>
+
+<div align="center">
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dddddd&height=3&section=header&%20render">
 </div>
 <br>
