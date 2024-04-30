@@ -1275,7 +1275,7 @@ Então, você só precisa ficar atento ao que precisa naquele momento. Se você 
 
 Então, de verdade agora, vamos modificar o nosso arquivo que criamos anteriormente, o "[Simple_HTML_Structure.html](https://github.com/juletopi/Front-End_Learning_Journey/blob/main/Simple_HTML_Structure.html)".
 
-Vamos usar da criatividade para modificar e/ou adicionar mais conteúdo a nossa página-web e estiliza-la com diferentes elementos CSS, confira o resultado abaixo:
+Vamos usar da criatividade para modificar e/ou adicionar mais conteúdo a nossa página-web e estiliza-la com diferentes prorpiedades CSS, confira o resultado abaixo:
 
 <div align="center">
   <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e9ccdd48-a4b7-4de5-a9da-825fc81b1912" alt="HTML+CSSWebpageView-pic" width="650px">
@@ -1703,7 +1703,7 @@ body {
     padding-bottom: 15px;
 }
 
-/* Estilização dos botões transparente*/
+/* Estilização dos botões transparentes */
 .transparent-button {
     font-family: DisposableDroidBB-Bold;
     font-size: 23px;
@@ -1910,10 +1910,62 @@ body {
     color: #fff;
 }
 ```
-E com essas modificações temos esta página-web estilizada. 
+E é com essa estrutura HTML e esses elementos e propriedades CSS que conseguimos fazer essa página-web. Foram utilizados diversos elementos e propriedades específicas além daqueles que se encaixam no conceito de Propriedades CSS, como **Box Models**, **Layouts**, **Trasições e Animações**.
 
-Mas o que são todos estes elementos e como eles funcionam?
+Mas o que são todos estes elementos e como eles funcionam? \
 Vamos explicá-los parte-a-parte.
+
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+## 4. Box Model
+
+<div align="left">
+
+O **Box Model** no CSS é um conceito que define como os elementos HTML são renderizados em uma página. 
+
+Ele consiste em quatro partes principais: **conteúdo**, **preenchimento**, **borda** e **margem**. No nosso código CSS, podemos ver o box model em ação ao definir o tamanho, o espaçamento e a borda dos elementos.
+
+Alguns exemplos comuns:
+- A propriedade `padding` é usada para definir o espaçamento dentro do elemento.
+- A propriedade `border` é usada para definir a borda do elemento
+- A propriedade `margin` é usada para definir o espaçamento ao redor do elemento.
+
+Saber como usar cada box model é essencial para criar layouts precisos e consistentes!
+Existem muitas outras propriedades que se encaixam no conceito de box model, como `width`, `height`, `box-shadow`, `outline` e `overflow`, você pode aprender sobre eles por conta. 
+
+Vou mostrar um exemplo de Box Model com o código CSS do "botão transparente":
+```css
+/* Estilização dos botões transparentes */
+.transparent-button {
+    font-family: DisposableDroidBB-Bold;
+    font-size: 23px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid #747474;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+```
+Acima temos o nosso botão `.transparent-button` com as seguintes propriedades:
+
+1. **`padding`**: Define o espaçamento interno do botão, ou seja, a distância entre o conteúdo do botão e sua borda. No caso, `10px` de `padding` vertical (topo/baixo) e `20px` de `padding` horizontal (esquerda/direita).
+
+2. **`border`**: Define a borda do botão. Aqui, estamos usando uma borda sólida de `2px` com a cor `#747474` (cinza).
+
+3. **`border-radius`**: Define o raio dos cantos do botão, criando cantos arredondados. Aqui, estamos usando um raio de `5px`.
+
+4. **`margin`**: Define o espaçamento externo do botão, ou seja, a distância entre o botão e outros elementos ao redor. `20px` de `margin` à esquerda e `30px` de `margin` acima.
+
+Essas propriedades combinadas (`padding`, `border`, `margin`) formam a "caixa" de um elemento no Box Model, determinando seu tamanho e posição em relação aos outros elementos na página.
 
 </div>
 
