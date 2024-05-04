@@ -1972,6 +1972,81 @@ Essas propriedades combinadas (`padding`, `border`, `margin`) formam a "caixa" d
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
+
+## 4. Layouts CSS
+
+<div align="left">
+
+Os **Layouts CSS** são fundamentais para o design de páginas-web, pois determinam como os elementos são organizados e apresentados aos usuários. Existem várias técnicas de layout em CSS, sendo duas das mais populares o **Flexbox Layout (layout flexível)** e o **Grid Layout (layout de grade)**, que discutiremos a seguir.
+
+**Flexbox**:
+Flexbox é um modelo de layout unidimensional e uma maneira esperta de organizar coisas em uma página. Você tem um monte de caixas (ou elementos) e o Flexbox ajuda a decidir como elas devem se encaixar na página, como ficar juntas ou separadas, e até mesmo em que ordem aparecem. Ele trabalha ao longo de um eixo principal (horizontal ou vertical) e um eixo transversal, fazendo com que os itens cresçam e encolham para preencher o espaço disponível. O Flexbox também oferece controle flexível sobre a direção, ordem, alinhamento e dimensionamento dos elementos.
+
+**Principais elementos do Flexbox**:
+- **Contêiner Flexível (`display: flex`)**: Define um contêiner como um contexto flexível para seus itens filhos.
+- **Itens Flexíveis (`flex`)**: São os elementos filhos diretos do contêiner flexível e podem ser configurados para crescer, encolher e se alinhar de maneiras flexíveis.
+
+**Principais propriedades do Flexbox**:
+- **`display`**: Define o elemento como um contêiner flexível ou inline-flexível.
+- **`flex-direction`**: Define a direção dos eixos principal e transversal no contêiner flexível.
+- **`flex-wrap`**: Define se os itens flexíveis devem ser compactados em uma linha ou várias linhas.
+- **`justify-content`**: Alinha os itens flexíveis ao longo do eixo principal do contêiner flexível.
+- **`align-items`**: Alinha os itens flexíveis ao longo do eixo transversal do contêiner flexível.
+- **`align-self`**: Permite que um item flexível se alinhe de forma diferente dos outros itens no contêiner.
+- **`flex-grow`, `flex-shrink`, `flex-basis`**: Controlam como os itens flexíveis crescem, encolhem e são distribuídos no contêiner flexível.
+
+Vou mostrar um exemplo de Flexbox com o código CSS da "barra de navegação":
+```css
+/* Estilização da barra de navegação */
+.navbar {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #1b1b1bfa;
+    box-shadow: 0 10px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+```
+Acima temos a nossa barra de navegação `.navbar` com as seguintes propriedades:
+
+1. `display: flex;`: Essa propriedade transforma o elemento pai (`navbar`) em um contêiner flexível, permitindo que seus filhos se comportem como itens flexíveis dentro dele.
+
+2. `justify-content: space-between;`: Esta propriedade alinha os itens filhos ao longo do eixo principal (horizontal, neste caso) e distribui o espaço sobrando entre eles. No caso, os itens são alinhados de forma que o espaço seja distribuído entre eles, ficando um espaço vazio entre cada item.
+
+3. `align-items: center;`: Essa propriedade alinha os itens filhos ao longo do eixo transversal (vertical, neste caso) do contêiner flexível (`navbar`). Neste caso, os itens são centralizados verticalmente dentro do contêiner.
+
+Essas propriedades ajudam a criar uma barra de navegação horizontalmente centralizada e com os itens distribuídos igualmente ao longo do espaço disponível, o que é uma abordagem comum ao usar o Flexbox para layouts de navegação.
+
+----
+
+**Grid**:
+O Grid é um modelo de layout bidimensional, e é como uma grade que você usa para organizar as coisas em linhas e colunas de forma precisa. É ótimo quando você precisa alinhar elementos em uma página, como imagens, textos ou até mesmo formulários. É especialmente útil para layouts de página que exigem um alto grau de controle sobre a estrutura, como designs de grade, galerias de imagens e layouts de formulários.
+
+**Principais elementos do Grid**:
+- **Contêiner de Grade (`display: grid`)**: Define um contêiner como uma grade para seus itens filhos.
+- **Linhas e Colunas da Grade (`grid-template-rows`, `grid-template-columns`)**: Define o tamanho e o número de linhas e colunas na grade.
+- **Áreas da Grade (`grid-template-areas`)**: Define áreas nomeadas na grade para posicionar os itens de forma intuitiva.
+
+**Principais propriedades do Grid**:
+- **`display`**: Define o elemento como um contêiner de grade.
+- **`grid-template-rows`, `grid-template-columns`**: Define o tamanho das linhas e colunas na grade.
+- **`grid-template-areas`**: Define as áreas nomeadas na grade, permitindo posicionar os itens em áreas específicas.
+- **`grid-gap`, `row-gap`, `column-gap`**: Define o espaçamento entre as células da grade.
+- **`justify-items`, `align-items`**: Alinha os itens da grade ao longo do eixo da linha e da coluna, respectivamente.
+- **`justify-content`, `align-content`**: Alinha as linhas e colunas da grade dentro do contêiner da grade.
+
+Apesar de não termos um exemplo do Grid no nosso código CSS, ambos os modelos **Flexbox** e **Grid** são poderosos e complementares, e sua escolha depende das necessidades específicas do layout que você está tentando criar. 
+
+O Flexbox é mais adequado para layouts unidimensionais, como barras laterais ou menus, enquanto o Grid é mais adequado para layouts bidimensionais, como layouts de página complexos. Em muitos casos, uma combinação inteligente de ambos os modelos pode ser a melhor abordagem para criar layouts flexíveis e responsivos.
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 <br>
 
 ----
