@@ -1973,7 +1973,7 @@ Essas propriedades combinadas (`padding`, `border`, `margin`) formam a "caixa" d
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-## 4. Layouts CSS
+## 5. Layouts CSS
 
 <div align="left">
 
@@ -2042,6 +2042,100 @@ O Grid é um modelo de layout bidimensional, e é como uma grade que você usa p
 Apesar de não termos um exemplo do Grid no nosso código CSS, ambos os modelos **Flexbox** e **Grid** são poderosos e complementares, e sua escolha depende das necessidades específicas do layout que você está tentando criar. 
 
 O Flexbox é mais adequado para layouts unidimensionais, como barras laterais ou menus, enquanto o Grid é mais adequado para layouts bidimensionais, como layouts de página complexos. Em muitos casos, uma combinação inteligente de ambos os modelos pode ser a melhor abordagem para criar layouts flexíveis e responsivos.
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+## 6. Transições e Animações CSS
+
+<div align="left">
+
+As **Transições e Animações em CSS** são recursos que podemos usar para dar um detalhe mais dinâmico a elementos nas nossas páginas-web, adicionando movimento e interatividade e tornando a experiência do usuário mais envolvente e dinâmica.
+
+**Transições CSS**:
+As transições permitem suavizar as mudanças de propriedades CSS de um estado para outro. 
+
+Elas são definidas com a propriedade `transition` e especificam a duração, a função de temporização (timing function) e outras configurações para controlar como a transição acontece. As transições são ativadas quando há uma mudança de estado, como um hover por exemplo (`elemento:hover`), e são úteis para criar efeitos de transição suaves, como mudanças de cor ou de tamanho.
+
+**Principais atributos de transições CSS:**
+- **`transition-property`**: Especifica qual propriedade CSS deve ser animada.
+- **`transition-duration`**: Define a duração da transição.
+- **`transition-timing-function`**: Especifica a função de temporização para a transição, controlando como a transição progride ao longo do tempo.
+- **`transition-delay`**: Define um atraso antes que a transição comece.
+
+Vou mostrar um exemplo de Transição CSS com o código CSS do hover dos "links da barra de navegação":
+```css
+/* Estilização específica dos links de navegação ao passar o mouse */
+.nav-links a:hover {
+    background-color: #575757;
+    border-radius: 5px;
+    transition: 0.5s ease;
+    transform: scale(1.1);
+}
+```
+Acima temos a aplicação de uma transição suave (`transition`) nos links da barra de navegação quando o mouse passa sobre eles (`:hover`). Aqui está o que cada parte do código faz:
+
+1. `background-color`: Define a cor de fundo dos links quando o mouse passa sobre eles.
+2. `border-radius`: Define o raio dos cantos dos links.
+3. `transition`: Especifica a propriedade a ser animada (`background-color` neste caso), a duração da transição (`0.5s`) e a função de temporização de aceleração (`ease`).
+4. `transform`: Aplica uma transformação de escala (`scale`) nos links quando o mouse passa sobre eles, aumentando-os em 10%.
+
+Com essa configuração, quando o mouse passar sobre os links da barra de navegação, a cor de fundo mudará suavemente para `#575757`, os cantos dos links serão arredondados (`border-radius`), e os links aumentarão ligeiramente de tamanho (`transform: scale(1.1)`) em meio segundo (`transition: 0.5s ease`). Isso cria um efeito visual agradável e responsivo para melhorar a interatividade da barra de navegação.
+
+----
+
+**Animações CSS**:
+As animações permitem criar sequências de movimentos ou mudanças de estilo ao longo do tempo. 
+
+Elas são definidas com a regra `@keyframes`, que especifica os estágios da animação e os estilos a serem aplicados em cada estágio. As animações são controladas por propriedades como `animation-name`, `animation-duration`, `animation-timing-function`, `animation-delay` e `animation-iteration-count`, permitindo criar efeitos complexos e personalizados.
+
+**Principais atributos de animações CSS:**
+- **`@keyframes`**: Define os estágios da animação e os estilos a serem aplicados em cada estágio.
+- **`animation-name`**: Especifica o nome dos keyframes a serem usados para a animação.
+- **`animation-duration`**: Define a duração da animação.
+- **`animation-timing-function`**: Especifica a função de temporização para a animação.
+- **`animation-delay`**: Define um atraso antes que a animação comece.
+- **`animation-iteration-count`**: Especifica o número de vezes que a animação deve ser repetida.
+- **`animation-direction`**: Define se a animação deve ser reproduzida para frente, para trás ou em ambos os sentidos após cada iteração.
+- **`animation-fill-mode`**: Define como os estilos aplicados fora da animação são aplicados antes e depois que a animação é executada.
+- **`animation-play-state`**: Define se a animação está em execução ou pausada.
+
+Vou mostrar um exemplo de Animação CSS com o código CSS de uma "seta animada":
+```css
+/* Estilização da seta animada abaixo do parágrafo da seção do título da página */
+.arrow {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 15px solid #fff;
+    position: relative;
+    margin: 10px auto;
+    padding-bottom: 15px;
+    animation: arrowAnimation 1s infinite alternate;
+}
+
+/* Animação da seta */
+@keyframes arrowAnimation {
+    from {
+        top: 0;
+    }
+    to {
+        top: 10px;
+    }
+}
+```
+Acima temos a aplicação de uma animação de uma seta animada. Aqui está o que cada parte do código faz:
+
+1. `.arrow`: Define as propriedades visuais da seta, como largura (`width`), altura (`height`), e os valores dos bordos (`border-left`, `border-right`, `border-top`), além de sua cor (`#fff` para branco). A seta é posicionada relativamente (`position: relative`) para permitir a animação e é animada usando a animação `arrowAnimation`.
+
+2. `@keyframes arrowAnimation`: Define uma animação chamada `arrowAnimation` que altera a propriedade `top` da seta. A partir da posição inicial (`from`), a seta começa com `top: 0`, e na posição final (`to`), ela move para `top: 10px`. A animação é configurada para durar 1 segundo (`1s`), se repetir infinitamente (`infinite`), e alternar entre os estados inicial e final (`alternate`).
+
+Com essa configuração, a seta abaixo do parágrafo da seção da página terá um efeito de animação onde ela se moverá para cima e para baixo (`top`) em um loop suave, adicionando um elemento visual dinâmico à página.
+
+Transições e animações CSS podem sar aquele "tchans" especial para uma página web. As transições são frequentemente utilizadas em resposta a ações do usuário, como um hover, suavizando mudanças de estilo e criando uma experiência mais agradável. Por outro lado, as animações são usadas para animar elementos da página muitas vezes sem a necessidade de interação do usuário. Combinando transições e animações, é possível criar interfaces web mais dinâmicas e envolventes, melhorando muito a experiência do usuário.
 </div>
 
 <div align="left">
