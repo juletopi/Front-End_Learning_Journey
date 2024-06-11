@@ -1425,19 +1425,19 @@ Eis o código HTML e CSS por trás dessa página: <br><br>
 ```css
 /* Reset básico para todos os elementos */
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 /* Remove os estilos padrão das listas não ordenadas */
 ul {
-	list-style: none;
+    list-style: none;
 }
 
 /* Remove a decoração padrão dos links */
 a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 /* Adiciona um scroll suave */
@@ -2135,7 +2135,7 @@ Acima temos a aplicação de uma animação de uma seta animada. Aqui está o qu
 
 Com essa configuração, a seta abaixo do parágrafo da seção da página terá um efeito de animação onde ela se moverá para cima e para baixo (`top`) em um loop suave, adicionando um elemento visual dinâmico à página.
 
-Transições e animações CSS podem sar aquele "tchans" especial para uma página web. As transições são frequentemente utilizadas em resposta a ações do usuário, como um hover, suavizando mudanças de estilo e criando uma experiência mais agradável. Por outro lado, as animações são usadas para animar elementos da página muitas vezes sem a necessidade de interação do usuário. Combinando transições e animações, é possível criar interfaces web mais dinâmicas e envolventes, melhorando muito a experiência do usuário.
+Transições e animações CSS podem dar aquele "tchans" especial para uma página web. As transições são frequentemente utilizadas em resposta a ações do usuário, como um hover, suavizando mudanças de estilo e criando uma experiência mais agradável. Por outro lado, as animações são usadas para animar elementos da página muitas vezes sem a necessidade de interação do usuário. Combinando transições e animações, é possível criar interfaces web mais dinâmicas e envolventes, melhorando muito a experiência do usuário.
 </div>
 
 <div align="left">
