@@ -2154,14 +2154,102 @@ Combinando transições e animações, é possível criar interfaces web mais di
 
 No entanto, existem as chamadas **Melhores Práticas CSS**, que podem ajudar a manter seu código organizado, fácil de entender e mais eficiente. Isso é algo muito importante no seu caminho para se tornar um bom programador Front-end.
 
-Vamos dar uma olhada nessas melhores práticas de CSS para melhorar o nosso código que fizemos.
+Vamos dar uma olhada em uma das melhores práticas de CSS que podemos fazer para melhorar o nosso código que fizemos, a **Separação de Arquivos**.
 
-### Separação de Arquivos
+#### Separação de Arquivos
 
 Algo que pode acontecer, principalmente em projetos maiores e mais extensos, é que seu código CSS pode ficar enorme e isso é péssimo para você se organizar e se achar pelo seu código. Uma ótima maneira de organiza-lo é dividindo o seu código em diferentes arquivos baseando-se em funções semelhantes que partes do seu código façam.
 
-<img src="" alt="-pic" width="650px">
+<img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/bd6cf744-70f1-4fc0-a956-3887e5fb139d" alt="-pic" width="650px">
 
+Criamos mais 4 arquivos CSS além do nosso `style.css`: `reset.css`, `fonts.css`, `animation.css` e `pseudoElements.css`. Cada um com um agrupamento diferente do nosso código CSS. Eis como os organizamos: <br>
+**reset.css**:
+```css
+/* Reset básico para todos os elementos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Remove os estilos padrão das listas não ordenadas */
+ul {
+    list-style: none;
+}
+
+/* Remove a decoração padrão dos links */
+a {
+    text-decoration: none;
+}
+
+/* Adiciona um scroll suave */
+html {
+    scroll-behavior: smooth;
+}
+```
+**fonts.css**:
+```css
+/* Definição da fonte DisposableDroidBB-Regular */
+@font-face {
+    font-family: "DisposableDroidBB-Regular";
+    src: url("../fonts/DisposableDroidBB-Regular.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Regular.ttf") format("woff");
+}
+
+/* Definição da fonte DisposableDroidBB-Bold */
+@font-face {
+    font-family: "DisposableDroidBB-Bold";
+    src: url("../fonts/DisposableDroidBB-Bold.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Bold.ttf") format("woff");
+}
+
+/* Definição da fonte DisposableDroidBB-Italic */
+@font-face {
+    font-family: "DisposableDroidBB-Italic";
+    src: url("../fonts/DisposableDroidBB-Italic.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Italic.ttf") format("woff");
+}
+```
+**animation.css**:
+```css
+/* Animação da seta */
+@keyframes arrowAnimation {
+    from {
+        top: 0;
+    }
+    to {
+        top: 10px;
+    }
+}
+```
+**pseudoElements.css**:
+```css
+/* Estilos da barra de rolagem */
+::-webkit-scrollbar {
+    background-color: #2c2c2e;
+    width: 10px;
+	height: 8px;
+}
+
+/* Estilos do indicador da barra de rolagem */
+::-webkit-scrollbar-thumb {
+    background-color: #707070;
+    border-radius: 8px;
+}
+
+/* Estilos da seleção de texto */
+::selection {
+    background-color: #bdbdbd59;
+    color: #fff;
+}
+```
+Como podemos ver nos códigos acima, cada arquivo CSS que criamos está agrupado com uma parte do nosso código CSS que foi retirado do nosso arquivo CSS principal, o `style.css`.
+
+----
+
+Com isso, temos um código CSS mais organizado e mais fácil de nos localizarmos. Mas essa é apenas uma das melhores práticas.
+
+O nosso código CSS já possui várias melhores práticas que podemos identificar...
 </div>
 
 <div align="left">
