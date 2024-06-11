@@ -2135,7 +2135,33 @@ Acima temos a aplicação de uma animação de uma seta animada. Aqui está o qu
 
 Com essa configuração, a seta abaixo do parágrafo da seção da página terá um efeito de animação onde ela se moverá para cima e para baixo (`top`) em um loop suave, adicionando um elemento visual dinâmico à página.
 
-Transições e animações CSS podem dar aquele "tchans" especial para uma página web. As transições são frequentemente utilizadas em resposta a ações do usuário, como um hover, suavizando mudanças de estilo e criando uma experiência mais agradável. Por outro lado, as animações são usadas para animar elementos da página muitas vezes sem a necessidade de interação do usuário. Combinando transições e animações, é possível criar interfaces web mais dinâmicas e envolventes, melhorando muito a experiência do usuário.
+Transições e animações CSS podem dar aquele "tchans" especial para uma página web. 
+
+As transições são frequentemente utilizadas em resposta a ações do usuário, como um hover, suavizando mudanças de estilo e criando uma experiência mais agradável. Por outro lado, as animações são usadas para animar elementos da página muitas vezes sem a necessidade de interação do usuário. 
+
+Combinando transições e animações, é possível criar interfaces web mais dinâmicas e envolventes, melhorando muito a experiência do usuário.
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+## 7. Melhores Práticas CSS
+
+<div align="left">
+
+É bem fácil você acabar focando apenas em fazer a página parecer bonita aos olhos do usuário, não importa como. Porém, muitas vezes essa mentalidade acaba com que seu código e seus arquivos por trás dos panos, fiquem desorganizados e praticamente inviável de se trabalhar, principalmente caso outros programadores precisam trabalhar junto a você.
+
+No entanto, existem as chamadas **Melhores Práticas CSS**, que podem ajudar a manter seu código organizado, fácil de entender e mais eficiente. Isso é algo muito importante no seu caminho para se tornar um bom programador Front-end.
+
+Vamos dar uma olhada nessas melhores práticas de CSS para melhorar o nosso código que fizemos.
+
+### Separação de Arquivos
+
+Algo que pode acontecer, principalmente em projetos maiores e mais extensos, é que seu código CSS pode ficar enorme e isso é péssimo para você se organizar e se achar pelo seu código. Uma ótima maneira de organiza-lo é dividindo o seu código em diferentes arquivos baseando-se em funções semelhantes que partes do seu código façam.
+
+<img src="" alt="-pic" width="650px">
+
 </div>
 
 <div align="left">
