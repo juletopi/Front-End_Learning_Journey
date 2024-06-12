@@ -2150,19 +2150,19 @@ Combinando transições e animações, é possível criar interfaces web mais di
 
 <div align="left">
 
-É bem fácil você acabar focando apenas em fazer a página parecer bonita aos olhos do usuário, não importa como. Porém, muitas vezes essa mentalidade acaba com que seu código e seus arquivos por trás dos panos, fiquem desorganizados e praticamente inviável de se trabalhar, principalmente caso outros programadores precisam trabalhar junto a você.
+É fácil acabar focando apenas em fazer a página parecer bonita aos olhos do usuário, sem se importar com o código por trás. Porém, essa mentalidade pode deixar seu código e seus arquivos desorganizados e praticamente inviáveis de se trabalhar, especialmente se outros programadores precisarem colaborar com você.
 
-No entanto, existem as chamadas **Melhores Práticas CSS**, que podem ajudar a manter seu código organizado, fácil de entender e mais eficiente. Isso é algo muito importante no seu caminho para se tornar um bom programador Front-end.
+Para evitar isso, existem as chamadas **Melhores Práticas CSS**, que ajudam a manter seu código organizado, fácil de entender e mais eficiente. Essas práticas são essenciais para quem deseja se tornar um bom programador Front-end.
 
-Vamos dar uma olhada em uma das melhores práticas de CSS que podemos fazer para melhorar o nosso código que fizemos, a **Separação de Arquivos**.
+Vamos explorar uma das melhores práticas de CSS que podem melhorar nosso código: a **Separação de Arquivos**.
 
-#### Separação de Arquivos
+### Separação de Arquivos
 
 Algo que pode acontecer, principalmente em projetos maiores e mais extensos, é que seu código CSS pode ficar enorme e isso é péssimo para você se organizar e se achar pelo seu código. Uma ótima maneira de organiza-lo é dividindo o seu código em diferentes arquivos baseando-se em funções semelhantes que partes do seu código façam.
 
-<img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/bd6cf744-70f1-4fc0-a956-3887e5fb139d" alt="-pic" width="650px">
+<img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/bd6cf744-70f1-4fc0-a956-3887e5fb139d" alt="CSSBestPractices-pic" width="650px">
 
-Criamos mais 4 arquivos CSS além do nosso `style.css`: `reset.css`, `fonts.css`, `animation.css` e `pseudoElements.css`. Cada um com um agrupamento diferente do nosso código CSS. Eis como os organizamos: <br>
+Criamos mais 4 arquivos CSS além do nosso `style.css`: `reset.css`, `fonts.css`, `animation.css` e `pseudoElements.css`. Cada um com um agrupamento diferente do nosso código CSS. Eis como os organizamos: <br><br>
 **reset.css**:
 ```css
 /* Reset básico para todos os elementos */
@@ -2250,6 +2250,116 @@ Como podemos ver nos códigos acima, cada arquivo CSS que criamos está agrupado
 Com isso, temos um código CSS mais organizado e mais fácil de nos localizarmos. Mas essa é apenas uma das melhores práticas.
 
 O nosso código CSS já possui várias melhores práticas que podemos identificar...
+
+Vamos analisar algumas melhores práticas CSS que já estão sendo usadas no nosso código:
+
+1. **Reset básico**:
+   ```css
+   * {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+   }
+   ```
+   O reset básico garante que todos os elementos tenham um estilo consistente em diferentes navegadores.
+
+2. **Remoção dos estilos padrão**:
+   ```css
+   ul {
+       list-style: none;
+   }
+   a {
+       text-decoration: none;
+   }
+   ```
+   Remover estilos padrão de listas e links ajuda a ter mais controle sobre a aparência desses elementos.
+
+3. **Scroll suave**:
+   ```css
+   html {
+       scroll-behavior: smooth;
+   }
+   ```
+   Adiciona um efeito suave ao rolar a página, melhorando a experiência do usuário.
+
+4. **Uso de variáveis e fontes personalizadas**:
+   ```css
+   @font-face {
+       font-family: "DisposableDroidBB-Regular";
+       src: url("../fonts/DisposableDroidBB-Regular.ttf") format("woff2"),
+            url("../fonts/DisposableDroidBB-Regular.ttf") format("woff");
+   }
+   ```
+   Utilizar fontes personalizadas adiciona identidade visual à página.
+
+5. **Uso de flexbox**:
+   ```css
+   .navbar {
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+   }
+   .nav-links {
+       display: flex;
+   }
+   .contacts {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+   }
+   ```
+   Flexbox é usado para criar layouts flexíveis e responsivos de maneira eficiente.
+
+6. **Transições suaves**:
+   ```css
+   .nav-links a:hover {
+       transition: 0.5s ease;
+   }
+   .footer a:hover {
+       transition: color 0.3s ease;
+   }
+   ```
+   As transições suaves melhoram a interação do usuário com elementos interativos.
+
+7. **Uso de `:hover` para efeitos visuais**:
+   ```css
+   .nav-links a:hover {
+       background-color: #575757;
+       transform: scale(1.1);
+   }
+   .transparent-button:hover {
+       background-color: #747474;
+   }
+   ```
+8. **Uso de comentários**:
+   ```css
+   /* Estilização básica do corpo do documento */
+   /* Estilização da sobreposição para efeitos visuais desejados na imagem de fundo */
+   ```
+   Utilizar comentários para descrever blocos de código CSS ajuda na compreensão e manutenção do código, especialmente quando trabalhado por uma equipe.
+
+9. **Organização lógica do código**:
+   O código está bem organizado, com estilos semelhantes agrupados, o que facilita a navegação e a manutenção.
+   ```css
+   /* Estilização da barra de navegação */
+   .navbar { ... }
+
+   /* Estilização do logotipo na barra de navegação */
+   .logo { ... }
+
+   /* Estilização geral dos links de navegação */
+   .nav-links { ... }
+
+   /* Estilização do título da seção do título principal da página */
+   .title h1 { ... }
+   ```
+Ao adotar as **Melhores Práticas CSS**, você não só melhora a qualidade do seu código, mas também facilita a manutenção e colaboração em equipe. Práticas como a **Separação de Arquivos**, **Comentário Adequado do Código**, **Uso de Nomes Semânticos e Consistentes**, e a **Organização Lógica das Regras CSS** são fundamentais para garantir um trabalho mais eficiente e produtivo.
+
+Lembre-se, código limpo e organizado não é apenas uma questão de estética, mas de funcionalidade e profissionalismo. Ao seguir essas práticas, você está no caminho certo para se tornar um desenvolvedor Front-end de sucesso, capaz de criar projetos robustos e escaláveis.
+
+Então, da próxima vez que estiver escrevendo CSS, pense além da aparência final da página. Considere também a estrutura e a clareza do seu código. Isso fará toda a diferença na qualidade do seu trabalho e na experiência de quem colaborar com você. 
+
+Continue aprendendo e aplicando essas práticas para sempre evoluir como desenvolvedor Front-end!
 </div>
 
 <div align="left">
