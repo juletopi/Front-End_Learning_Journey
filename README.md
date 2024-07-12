@@ -73,6 +73,10 @@
 |  | [II. Segurança Front-End](#ii-segurança-front-end) | [Seletores CSS](#2-seletores-css) |
 |  | [III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)](#iii-ferramentas-auxiliares-uso-de-ias-photoshop-figma-etc) | [Propriedades CSS](#3-propriedades-css) |
 |  |  | [Modificando o nosso arquivo HTML com elementos CSS](#modificando-o-nosso-arquivo-html-com-elementos-css) |
+|  |  | [Box Model](#4-box-model) |
+|  |  | [Layouts CSS](#5-layouts-css) |
+|  |  | [Transições e Animações CSS](#6-transições-e-animações-css) |
+|  |  | [Melhores Práticas CSS](#7-melhores-práticas-css) |
 
 </div>
 <br>
