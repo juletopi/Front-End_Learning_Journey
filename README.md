@@ -1215,7 +1215,6 @@ Existem um bocado delas, e cada uma delas controlando diversos aspectos visuais,
 | Background        | `background-image`, `background-color`, `background-size`, `background-position`, `background-repeat`                  |
 | Espaçamento       | `margin`, `padding`                                                                                                    |
 | Dimensão          | `width`, `height`, `max-width`, `max-height`, `min-width`, `min-height`                                                |
-| Texto             | `color`, `font-family`, `font-size`, `font-weight`, `line-height`, `text-align`, `text-decoration`                     |
 | Lista             | `list-style-type`, `list-style-image`, `list-style-position`                                                           |
 | Outros            | `cursor`, `opacity`, `z-index`, `visibility`, `transition`, `animation`                                                |
 
@@ -1286,7 +1285,7 @@ Vamos usar da criatividade para modificar e/ou adicionar mais conteúdo a nossa 
 </div>
 <br>
 
-E então? Ficou bom né? Com CSS, já podemos transformar completamente a aparência de uma página e deixá-la praticamente pronta.
+E então? Ficou bom né? Com CSS, já podemos transformar completamente a aparência de uma página e deixá-la praticamente pronta. Temos agora o nosso "[HTML+CSS_Structure](https://github.com/juletopi/Front-End_Learning_Journey/tree/main/HTML%2BCSS_Structure)".
 
 Com essa página estilizada temos vários elementos visuais:
 
