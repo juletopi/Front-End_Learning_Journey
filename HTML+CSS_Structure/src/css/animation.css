@@ -1,0 +1,9 @@
+/* Animação da seta */
+@keyframes arrowAnimation {
+    from {
+        top: 0;
+    }
+    to {
+        top: 10px;
+    }
+}

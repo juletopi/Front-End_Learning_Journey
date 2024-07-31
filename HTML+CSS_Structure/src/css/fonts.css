@@ -1,0 +1,20 @@
+/* Definição da fonte DisposableDroidBB-Regular */
+@font-face {
+    font-family: "DisposableDroidBB-Regular";
+    src: url("../fonts/DisposableDroidBB-Regular.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Regular.ttf") format("woff");
+}
+
+/* Definição da fonte DisposableDroidBB-Bold */
+@font-face {
+    font-family: "DisposableDroidBB-Bold";
+    src: url("../fonts/DisposableDroidBB-Bold.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Bold.ttf") format("woff");
+}
+
+/* Definição da fonte DisposableDroidBB-Italic */
+@font-face {
+    font-family: "DisposableDroidBB-Italic";
+    src: url("../fonts/DisposableDroidBB-Italic.ttf") format("woff2"),
+         url("../fonts/DisposableDroidBB-Italic.ttf") format("woff");
+}
