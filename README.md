@@ -435,8 +435,8 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
         Então, mãos à obra e vamos avançar nos estudos! 😁👊</strong></p>
       </div>
       <p><div align="center">
-        <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aXk4YjI0cXk0bGIxZXZpcjZjdHQyZWduOWliM2h3ZWY5Mzh6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lq9gRvrMK0v1tSnwAk/giphy.gif" alt="LetsGo-gif" width="180px" title="Let's gooo!">
+        <a href="https://giphy.com/stickers/sparkle-sojusona-kitju-lq9gRvrMK0v1tSnwAk">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aXk4YjI0cXk0bGIxZXZpcjZjdHQyZWduOWliM2h3ZWY5Mzh6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lq9gRvrMK0v1tSnwAk/giphy.gif" alt="SojusonaSparkle-gif" width="180px">
         </a>
       </div>
     </td>
@@ -533,8 +533,8 @@ O VSCode é super queridinho entre a galera do Front-End porque é fácil de usa
       <p><strong><div align="center">Eeee é isso aí, você tem o VSCode instalado!<br><br> Agora você tá pronto para começar a se aventurar no mundo do Front-End! 🚀✨</strong></p>
       </div>
       <p><div align="center">
-        <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="ThumbsUp-gif" width="180px" title="Vamos começar!">
+        <a href="https://giphy.com/stickers/simpsons-ok-3o7529NY5tIrfPBwzu">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhsNWoyazFleWM0eDI3eWUybDY4OXF1aHp5cGMweXoxOW50eXNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7529NY5tIrfPBwzu/giphy.gif" alt="PrinciapalSkinnerThumbsUp-gif" width="180px">
         </a>
       </div>
     </td>
@@ -754,8 +754,8 @@ Explicando as tags...
       <p><strong><div align="center">Essa funcionalidade é bem útil para começar a trabalhar em um novo projeto HTML,<br> garantindo uma estrutura semântica básica com elementos essenciais já configurados. <br><br>Tente você fazer o mesmo!</strong></p>
       </div>
       <p><div align="center">
-        <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB3YzhtYmtiYWk2OWlrM3c0dmtwODNzNm0wNGZ5MXZraWxxZTBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9EHZ8R3cCOfUvWw2dr/giphy.gif" alt="LetsStartCoding-gif" width="180px" title="Try it yourself!">
+        <a href="https://giphy.com/stickers/crocodile-chubby-hoang-9EHZ8R3cCOfUvWw2dr">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB3YzhtYmtiYWk2OWlrM3c0dmtwODNzNm0wNGZ5MXZraWxxZTBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9EHZ8R3cCOfUvWw2dr/giphy.gif" alt="ChubbyCrocodileHoangWorking-gif" width="180px">
         </a>
       </div>
     </td>
@@ -937,8 +937,8 @@ Também recomendo sites, fórums e outros repositórios para melhor estudar, eis
       <p><strong><div align="center">Eeeee com isso finalizamos o HTML, parabéns.<br><br>Se você acha que já está pronto, agora vamos<br>avançar para o próximo passo, o CSS! 😁✨</strong></p>
       </div>
       <p><div align="center">
-        <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdtOGs4MmI5a2J5cTlnOHhsdG5lbDM1YzZwOWVtM3MweGl1cDB1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kwMYCO91dwsrI3pWN9/giphy.gif" alt="RotatingPorygon-gif" width="180px" title="Vamos começar!">
+        <a href="https://giphy.com/stickers/pixel-pokemon-brysonmcbee-kwMYCO91dwsrI3pWN9">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdtOGs4MmI5a2J5cTlnOHhsdG5lbDM1YzZwOWVtM3MweGl1cDB1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kwMYCO91dwsrI3pWN9/giphy.gif" alt="RotatingPorygon-gif" width="180px">
         </a>
       </div>
     </td>
@@ -1040,8 +1040,8 @@ Aqui está o guia que iremos seguir:
       <p><strong><div align="center">E encerramos a introdução conceitual sobre CSS. <br><br>Agora prepare o VSCode e vamos pro código. 👩‍💻✨</strong></p>
       </div>
       <p><div align="center">
-        <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB3YzhtYmtiYWk2OWlrM3c0dmtwODNzNm0wNGZ5MXZraWxxZTBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9EHZ8R3cCOfUvWw2dr/giphy.gif" alt="LetsStartCoding-gif" width="180px" title="Vamos começar!">
+        <a href="https://giphy.com/stickers/crocodile-chubby-hoang-9EHZ8R3cCOfUvWw2dr">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB3YzhtYmtiYWk2OWlrM3c0dmtwODNzNm0wNGZ5MXZraWxxZTBvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9EHZ8R3cCOfUvWw2dr/giphy.gif" alt="ChubbyCrocodileHoangWorking-gif" width="180px">
         </a>
       </div>
     </td>
@@ -2664,8 +2664,8 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
 	2. JavaScript, Event Handling e AJAX <br><br></strong></p>
       </div>
       <p><div align="center">
-        <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aXk4YjI0cXk0bGIxZXZpcjZjdHQyZWduOWliM2h3ZWY5Mzh6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lq9gRvrMK0v1tSnwAk/giphy.gif" alt="LetsGo-gif" width="180px" title="Let's gooo!">
+        <a href="https://giphy.com/stickers/transparent-ZkdKKXY3phl0STVbSF">
+          <img src="https://media.giphy.com/media/ZkdKKXY3phl0STVbSF/giphy.gif" alt="MikochiGanbatte-gif" width="200px">
         </a>
 	<p><strong><div align="center">Boa sorte programador. <br>
 	  E continue forte nos estudos! 😁👊</strong></p>
