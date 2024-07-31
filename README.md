@@ -181,7 +181,7 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e03d34f4-cf7b-4aac-a86a-a7d9b3d9e912" alt="TopicDeco-pic" width="150px">
 
-### d. Responsividade e Design Mobile-First
+### d. Responsividade e Design Mobile
 - **Descrição:**
   - Desenvolver layouts que se ajustem a diferentes tamanhos de tela, priorizando o design para dispositivos móveis.
 - **Quando Aprender:**
@@ -455,6 +455,12 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
 
 <!-- 1. HTML, CSS & IDEs -->
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&duration=1&pause=99999&color=e16d17&center=true&vCenter=true&repeat=false&width=620&height=60&lines=1.+HTML+CSS+e+IDEs" alt="TopicOneTypingSVG" title="Tópico nº1: HTML, CSS & IDEs"/>
+  </a>
+</div>
+
 ## IDEs (Integrated Development Environment)
 
 ### O que é uma "IDE", e para quê serve?
@@ -539,9 +545,11 @@ O VSCode é super queridinho entre a galera do Front-End porque é fácil de usa
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=00BF63&height=4&section=header&%20render">
-</div>
+<br>
+
+----
+
+<br>
 
 ## HTML (HyperText Markup Language)
 
@@ -941,9 +949,11 @@ Também recomendo sites, fórums e outros repositórios para melhor estudar, eis
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
-<div align="center">
-  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=FF6D00&height=4&section=header&%20render">
-</div>
+<br>
+
+----
+
+<br>
 
 ## CSS (Cascading Style Sheets)
 
@@ -2645,7 +2655,7 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
     <td>
       <p><strong><div align="center">É isso aí! Com isso, finalizamos o CSS por aqui. <br>
         E também finalizamos o primeiro tópico do nosso roadmap: <br><br>
-	1. HTML, CSS, IDEs e Responsividade. <br><br>
+	1. HTML, CSS, IDEs e Responsividade <br><br>
         AEEEEEEEEEEEEEEEEEEEEEEE!!! 🥳🙌🎈🎉🎉 <br><br> 
 	Vejamos o quanto progredimos: <br><br>
         Status: <img align="center" src="https://geps.dev/progress/10?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e" alt="StatusBarProgress" /><br><br>
@@ -2658,7 +2668,7 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
           <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aXk4YjI0cXk0bGIxZXZpcjZjdHQyZWduOWliM2h3ZWY5Mzh6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lq9gRvrMK0v1tSnwAk/giphy.gif" alt="LetsGo-gif" width="180px" title="Let's gooo!">
         </a>
 	<p><strong><div align="center">Boa sorte programador. <br>
-	  E continue forte nos estudos!</strong></p>
+	  E continue forte nos estudos! 😁👊</strong></p>
 	</div>
       </div>
     </td>
