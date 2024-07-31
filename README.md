@@ -58,28 +58,53 @@
 
 <h2 align="center">Sumário 🧾</h2>
 
-| 🔗 Periféricos | 🗺️ Tópicos (Roadmap) | 📚 Tópicos de Estudo |
-|-------------|-------------------|-------------------|
-| [O que é "Front-End"?](#mas-o-que-diaxo-é-front-end-) | [1. HTML, CSS, IDEs e Responsividade](#1-html-css-ides-e-responsividade) | [IDEs (Integrated Development Environment)](#ides-integrated-development-environment) |
-| [Roadmap de Front-End (Título)](#%EF%B8%8F-roadmap-de-front-end) | [2. JavaScript, Event Handling e AJAX](#2-javascript-event-handling-e-ajax) | [Instalando o VSCode](#instalando-o-vscode) |
-| [Roadmap de Front-End (Extras)](#extras) | [3. Frameworks CSS](#3-frameworks-css) | [HTML (HyperText Markup Language)](#html-hypertext-markup-language) |
-| [Autor](#-autor) | [4. Pré-processadores CSS](#4-pré-processadores-css) | [As tags de HTML](#as-tags-de-html) |
-|  | [5. Frameworks JavaScript](#5-frameworks-javascript) | [Estrutura Semântica](#estrutura-semântica-o-que-é-isso) |
-|  | [6. Versionamento de Código](#6-versionamento-de-código) | [Começando com HTML](#começando-com-html) |
-|  | [7. Hospedagem de Web-páginas](#7-hospedagem-de-web-páginas) | [CSS (Cascading Style Sheets)](#css-cascading-style-sheets) |
-|  | [8. Task Runners e Module Bundlers](#8-task-runners-e-module-bundlers) | [Estrutura de Diretório](#estrutura-de-diretório) |
-|  | [9. Unit Testing (Testes Front-End)](#9-unit-testing-testes-front-end) | [Guia de CSS](#guia-de-css) |
-|  | [I. UI & UX Design](#i-ui--ux-design) | [Linkando CSS com HTML](#1-linkando-css-com-html) |
-|  | [II. Segurança Front-End](#ii-segurança-front-end) | [Seletores CSS](#2-seletores-css) |
-|  | [III. Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)](#iii-ferramentas-auxiliares-uso-de-ias-photoshop-figma-etc) | [Propriedades CSS](#3-propriedades-css) |
-|  |  | [Modificando o nosso arquivo HTML com elementos CSS](#modificando-o-nosso-arquivo-html-com-elementos-css) |
-|  |  | [Box Model](#4-box-model) |
-|  |  | [Layouts CSS](#5-layouts-css) |
-|  |  | [Transições e Animações CSS](#6-transições-e-animações-css) |
-|  |  | [Melhores Práticas CSS](#7-melhores-práticas-css) |
-|  |  | [Media Queries](#8-media-queries) |
+### 🔗 Periféricos
+- [✨ O que é "Front-End"?](#mas-o-que-diaxo-é-front-end-)
+- [🛤️ Roadmap de Front-End (Título)](#%EF%B8%8F-roadmap-de-front-end)
+- [📌 Roadmap de Front-End (Extras)](#extras)
+- [👤 Autor](#-autor)
 
-</div>
+---
+
+### 🗺️ Tópicos (Roadmap)
+1. [📄 HTML, CSS, IDEs e Responsividade](#1-html-css-ides-e-responsividade)
+2. [📝 JavaScript, Event Handling e AJAX](#2-javascript-event-handling-e-ajax)
+3. [📦 Frameworks CSS](#3-frameworks-css)
+4. [🛠️ Pré-processadores CSS](#4-pré-processadores-css)
+5. [⚙️ Frameworks JavaScript](#5-frameworks-javascript)
+6. [🔄 Versionamento de Código](#6-versionamento-de-código)
+7. [🌐 Hospedagem de Web-páginas](#7-hospedagem-de-web-páginas)
+8. [⚡ Task Runners e Module Bundlers](#8-task-runners-e-module-bundlers)
+9. [🔍 Unit Testing (Testes Front-End)](#9-unit-testing-testes-front-end)
+10. [🎨 UI & UX Design](#i-ui--ux-design)
+11. [🔐 Segurança Front-End](#ii-segurança-front-end)
+12. [🧰 Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)](#iii-ferramentas-auxiliares-uso-de-ias-photoshop-figma-etc)
+
+---
+
+### 📚 Tópicos de Estudo
+#### 1. HTML, CSS, IDEs e Responsividade
+- [🖥️ IDEs (Integrated Development Environment)](#ides-integrated-development-environment)
+  - [💻 Instalando o VSCode](#instalando-o-vscode)
+- [🌐 HTML (HyperText Markup Language)](#html-hypertext-markup-language)
+  - [🔖 As tags de HTML](#as-tags-de-html)
+  - [🔍 Estrutura Semântica](#estrutura-semântica-o-que-é-isso)
+  - [📝 Começando com HTML](#começando-com-html)
+- [🎨 CSS (Cascading Style Sheets)](#css-cascading-style-sheets)
+  - [📂 Estrutura de Diretório](#estrutura-de-diretório)
+  - [📘 Guia de CSS](#guia-de-css)
+  - [🔗 Linkando CSS com HTML](#1-linkando-css-com-html)
+  - [🎯 Seletores CSS](#2-seletores-css)
+  - [⚙️ Propriedades CSS](#3-propriedades-css)
+  - [🔧 Modificando o nosso arquivo HTML com elementos CSS](#modificando-o-nosso-arquivo-html-com-elementos-css)
+  - [🗃️ Box Model](#4-box-model)
+  - [📐 Layouts CSS](#5-layouts-css)
+  - [💫 Transições e Animações CSS](#6-transições-e-animações-css)
+  - [🌟 Melhores Práticas CSS](#7-melhores-práticas-css)
+  - [📱 Media Queries](#8-media-queries)
+#### 2. JavaScript, Event Handling e AJAX
+- [...]()
+
 <br>
 
 <!-- WHAT IS FRONT-END -->
