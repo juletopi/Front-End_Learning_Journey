@@ -2673,6 +2673,7 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
 > <a href=""><img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e9ccdd48-a4b7-4de5-a9da-825fc81b1912" alt="WebPageDesktopView" title="Visualização da página no modo Desktop" style="width: 80%;"></a>
 > ### Modo de tela para Smartphones 📱
 > <a href=""><img src="https://github.com/user-attachments/assets/c41b9080-fbe3-4994-bdf2-53e0233c2204" alt="WebPageMobileView" title="Visualização da página responsiva no modo Smartphone" style="width: 40%;"></a>
+</div>
 
 <br>
 
@@ -2704,6 +2705,27 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
+
+<br>
+
+----
+
+<br>
+
+<!-- 2. JavaScript, Event Handling e AJAX -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&duration=1&pause=99999&color=ffdd54&center=true&vCenter=true&repeat=false&width=650&height=60&lines=2.+JavaScript,+%20Event%20Handling+e+AJAX" alt="TopicTwoTypingSVG" title="Tópico nº2: JavaScript, Event Handling & AJAX"/>
+  </a>
+</div>
+
+<div align="left">
+
+## ...
+...
+</div>
+
 <br>
 
 ----
