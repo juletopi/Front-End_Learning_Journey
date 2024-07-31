@@ -424,8 +424,6 @@ No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos 
   <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=15A17F&height=2&section=header&%20render">
 </div>
 
-<!-- ROAD MAP - ENDING MESSAGE -->
-
 <br>
 
 <table align="center">
@@ -2640,6 +2638,33 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
 > ### Modo de tela para Smartphones 📱
 > <a href=""><img src="https://github.com/user-attachments/assets/c41b9080-fbe3-4994-bdf2-53e0233c2204" alt="WebPageMobileView" title="Visualização da página responsiva no modo Smartphone" style="width: 40%;"></a>
 
+<br>
+
+<table align="center">
+  <tr>
+    <td>
+      <p><strong><div align="center">É isso aí! Com isso, finalizamos o CSS por aqui. <br>
+        E também finalizamos o primeiro tópico do nosso roadmap: <br><br>
+	1. HTML, CSS, IDEs e Responsividade. <br><br>
+        AEEEEEEEEEEEEEEEEEEEEEEE!!! 🥳🙌🎈🎉🎉 <br><br> 
+	Vejamos o quanto progredimos: <br><br>
+        Status: <img align="center" src="https://geps.dev/progress/10?dangerColor=ed4242&warningColor=ef934a&successColor=82cf5e" alt="StatusBarProgress" /><br><br>
+        Enfim, pode não parecer muito, mas demos o grande primeiro passo no caminho <br>de nos tornarmos desenvolvedores front-end e ainda temos muita coisa a aprender.<br><br>
+        Então continuemos em frente, e agora vamos iniciar o nosso segundo tópico do nosso roadmap: <br><br>
+	2. JavaScript, Event Handling e AJAX <br><br></strong></p>
+      </div>
+      <p><div align="center">
+        <a href="">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aXk4YjI0cXk0bGIxZXZpcjZjdHQyZWduOWliM2h3ZWY5Mzh6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lq9gRvrMK0v1tSnwAk/giphy.gif" alt="LetsGo-gif" width="180px" title="Let's gooo!">
+        </a>
+	<p><strong><div align="center">Boa sorte programador. <br>
+	  E continue forte nos estudos!</strong></p>
+	</div>
+      </div>
+    </td>
+  </tr>
+</table>
+	      
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
