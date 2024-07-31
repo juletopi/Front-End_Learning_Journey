@@ -2368,6 +2368,281 @@ Continue aprendendo e aplicando essas práticas para sempre evoluir como desenvo
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
+
+## 8. Media Queries
+
+<div align="left">
+
+Para finalizarmos o nossos estudos sobre CSS, precisamos saber mais sobre o **design responsivo**. O design responsivo é a técnica de criar páginas-web que se adaptam a diferentes tamanhos de tela e dispositivos, garantindo que o conteúdo seja exibido de maneira otimizada, independentemente do dispositivo que o usuário esteja utilizando. 
+	
+Nós já utilizamos de alguns conceitos como **Box Models** e **Layouts Flexíveis** durante a construção da nossa página-web, porém só isso ainda não é o suficiente. A principal ideia é que a interface do usuário deve "responder" ao ambiente em que está sendo visualizada, ajustando automaticamente o layout e os elementos da página.
+
+Para isso, nós usamos as **Media Queries**, que são uma das ferramentas mais poderosas no arsenal do design responsivo. 
+Elas permitem que você aplique estilos diferentes a diferentes dispositivos ou condições de visualização. 
+
+Vamos ver como isso funciona na prática:
+
+<img src="https://github.com/user-attachments/assets/c5b55725-eb99-4872-8b6a-4cc9b5a46744" alt="MediaQueriesExample-pic" width="650px">
+
+Seguimos com o procedimento padrão de adicionar um novo arquivo CSS, chamado `responsive.css` e do qual contém os nossos Media Queries, e linkar ele no HTML.
+
+### Mas como funcionam as Media Queries?
+
+Media Queries utilizam regras condicionais que determinam quando certos estilos CSS devem ser aplicados. Elas são compostas de um tipo de mídia e uma ou mais expressões que verificam as condições da mídia.
+
+#### Sintaxe Básica:
+
+```css
+@media media-type and (condition) {
+  /* Estilos CSS aqui */
+}
+```
+
+#### Tipos de Mídia:
+
+- `all`: Aplica a todos os dispositivos.
+- `print`: Aplica durante a impressão.
+- `screen`: Aplica a telas (monitores, tablets, smartphones).
+
+#### Condições Comuns:
+
+- `min-width` e `max-width`: Largura mínima e máxima.
+- `min-height` e `max-height`: Altura mínima e máxima.
+- `orientation`: Orientação do dispositivo (`portrait` ou `landscape`).
+
+----
+
+### Os tipos de tamanhos mais comuns para Media Queries
+
+Existem vários tipos de tamanhos padrões para as Media Queries, mas as 3 mais comuns são:
+
+- **Telas pequenas**: geralmente, telas com menos de 768 pixels de largura são consideradas pequenas. Isso inclui smartphones em modo retrato e alguns tablets em modo paisagem.
+```css
+/* TELAS PEQUENAS */
+@media only screen and (max-width: 767px) {
+  /* Estilos CSS aqui */
+}
+```
+- **Telas médias**: geralmente, telas com largura entre 768 e 992 pixels são consideradas médias. Isso inclui tablets em modo paisagem e algumas telas de desktop com resoluções mais baixas.
+```css
+/* TELAS MÉDIAS */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /* Estilos CSS aqui */
+}
+```
+- **Telas grandes**: geralmente, telas com largura acima de 1024 pixels são consideradas grandes. Isso inclui telas de desktop com resoluções médias e altas, bem como laptops com telas maiores.
+```css
+/* TELAS GRANDES */
+@media only screen and (min-width: 1024px) {
+  /* Estilos CSS aqui */
+}
+```
+
+----
+
+Dito isso, vamos dar responsividade a nossa página-web usando os Media Queries com condições para telas pequenas e médias:
+```css
+/* Tablets */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .navbar {
+        display: none;
+    }
+
+    .title h1 {
+        font-size: 52px;
+        padding-top: 80px;
+    }
+
+    .title h2 {
+        font-size: 32px;
+    }
+
+    .title hr {
+        width: 50%;
+    }
+
+    .title p {
+        font-size: 22px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-bottom: 25px;
+    }
+
+    #about-title {
+        font-size: 44px;
+        margin-top: 45px;
+    }
+
+    .hr1 {
+        width: 25%;
+    }
+
+    #contact-title {
+        font-size: 44px;
+    }
+
+    .hr2 {
+        width: 25%;
+    }
+
+    .contacts p {
+        font-size: 27px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .contact-link-button {
+        padding-left: 140px;
+        padding-right: 140px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .social-icons-container {
+        gap: 20px;
+        margin-top: -5px;
+    }
+
+    .social-icons-container svg {
+        max-width: 30px;
+    }
+
+    .footer p {
+        font-size: 9px;
+    }
+}
+
+/* Smartphones */
+@media screen and (max-width: 767px) {
+    .navbar {
+        display: none;
+    }
+
+    .title h1 {
+        font-size: 50px;
+        padding-top: 80px;
+    }
+
+    .title h2 {
+        font-size: 30px;
+    }
+
+    .title hr {
+        width: 70%;
+    }
+
+    .title p {
+        font-size: 20px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-bottom: 25px;
+    }
+
+    #about-title {
+        font-size: 40px;
+        margin-top: 45px;
+    }
+
+    .hr1 {
+        width: 35%;
+    }
+
+    .section-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .section-content img {
+        border-radius: 0px;
+        max-width: 50%;
+    }
+
+    .section-text {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .section-text h2 {
+        font-size: 32px;
+        margin-left: 0px;
+    }
+    
+    .section-text sub {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+
+    .section-text p {
+        font-size: 20px;
+        padding-left: 20px;
+        padding-right: 40px;
+    }
+
+    .section-image {
+        padding-top: 30px;
+        padding-bottom: 0px;
+        margin-left: -20px;
+    }
+
+    #section-two .section-content {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    #section-two .section-image {
+        margin-left: 10px;
+    }
+
+    .transparent-button {
+        margin: 30px auto 0 auto;
+    }
+
+    #contact-title {
+        font-size: 40px;
+    }
+
+    .hr2 {
+        width: 40%;
+    }
+
+    .contacts p {
+        font-size: 25px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .contact-link-button {
+        padding-left: 140px;
+        padding-right: 140px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .social-icons-container {
+        gap: 15px;
+        margin-top: -5px;
+    }
+
+    .social-icons-container svg {
+        max-width: 28px;
+    }
+
+    .footer p {
+        font-size: 9px;
+    }
+}
+```
+
+Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
+
+> ### Modo de tela para dispositivos Desktop 💻
+> <a href=""><img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e9ccdd48-a4b7-4de5-a9da-825fc81b1912" alt="WebPageDesktopView" title="Visualização da página no modo Desktop" style="width: 80%;"></a>
+> ### Modo de tela para Smartphones 📱
+> <a href=""><img src="https://github.com/user-attachments/assets/c41b9080-fbe3-4994-bdf2-53e0233c2204" alt="WebPageMobileView" title="Visualização da página responsiva no modo Smartphone" style="width: 40%;"></a>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 <br>
 
 ----
