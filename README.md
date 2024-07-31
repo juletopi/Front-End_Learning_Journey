@@ -77,6 +77,7 @@
 |  |  | [Layouts CSS](#5-layouts-css) |
 |  |  | [Transições e Animações CSS](#6-transições-e-animações-css) |
 |  |  | [Melhores Práticas CSS](#7-melhores-práticas-css) |
+|  |  | [Media Queries](#8-media-queries) |
 
 </div>
 <br>
