@@ -77,7 +77,7 @@
 7. [🌐 Hospedagem de Web-páginas](#7-hospedagem-de-web-páginas)
 8. [⚡ Task Runners e Module Bundlers](#8-task-runners-e-module-bundlers)
 9. [🔍 Unit Testing (Testes Front-End)](#9-unit-testing-testes-front-end)
-#### Extras
+#### Tópicos Extras
 1. [🎨 UI & UX Design](#i-ui--ux-design)
 2. [🔐 Segurança Front-End](#ii-segurança-front-end)
 3. [🧰 Ferramentas Auxiliares (Uso de IAs, Photoshop, Figma, etc.)](#iii-ferramentas-auxiliares-uso-de-ias-photoshop-figma-etc)
