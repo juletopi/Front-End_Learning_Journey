@@ -2722,11 +2722,57 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
   </a>
 </div>
 
+
+## JavaScript (JS)
+
+### O que é "JavaScript" e para quê serve?
+
 <div align="left">
 
-## ...
-...
-</div>
+<img align="right" src="https://github.com/user-attachments/assets/7770e614-89a0-4470-94f7-633573d82b9c" alt="JavaScriptTheArticulations-pic" width="150px">
+
+O **JavaScript**, também conhecido como **JS**, é uma linguagem de programação que permite tornar as páginas da web interativas. Se o HTML é o esqueleto de uma página-web, e o CSS são os músculos e a pele, o JavaScript são as articulações que fazem tudo se mexer.
+
+Com JavaScript, você pode criar **animações**, **validar formulários**, **manipular dados** em tempo real, e muito mais. É o que transforma uma página estática em uma experiência muito mais dinâmica e interativa.
+
+> 📝❗️ **NOTA IMPORTANTE**
+>
+> Ah, e JavaScript não deve ser confundido com Java. São coisas bem diferentes! Enquanto JavaScript é usado principalmente para interatividade na web, Java é uma linguagem de programação de uso geral.
+> A semelhança no nome entre Java e JavaScript é mais uma coincidência histórica do que semelhança técnica. Quando JavaScript foi desenvolvida, havia um grande interesse em torno de Java na época. Para aproveitar essa popularidade, os criadores de JavaScript decidiram incluir “Java” no nome como uma jogada de marketing, bem sacana né?
+
+Agora, para entender melhor como JavaScript funciona com HTML, precisamos falar sobre algo chamado de **DOM (Document Object Model)**.
+
+### DOM (Document Object Model)
+
+<div align="left">
+
+O **DOM**, ou **Modelo de Objeto de Documento** (em português), é uma interface que permite ao JavaScript interagir com o HTML e o CSS da sua página web. Pense no DOM como uma representação estruturada da sua página HTML, onde cada elemento é um "nó" em uma árvore de objetos.
+
+Com o DOM, você pode usar JavaScript para:
+- **Selecionar** elementos da página
+- **Modificar** o conteúdo e os estilos dos elementos
+- **Adicionar ou remover** elementos
+- **Escutar e responder** a eventos do usuário (como cliques e teclas pressionadas)
+
+Vamos começar com um exemplo básico de como usar JavaScript para manipular o DOM. Primeiro, aprenderemos a **selecionar** elementos da página.
+
+#### Selecionando Elementos com JavaScript
+
+Você pode usar métodos como `document.getElementById()`, `document.querySelector()`, e `document.querySelectorAll()` para selecionar elementos específicos da sua página. Aqui está um exemplo básico:
+
+```javascript
+// Selecionar um elemento pelo ID
+let mainTitle = document.getElementById("main-title");
+console.log(mainTitle);
+
+// Selecionar todos os links de navegação
+let navLinks = document.querySelectorAll(".nav-links a");
+navLinks.forEach(link => console.log(link));
+```
+
+Neste exemplo, selecionamos um elemento pelo seu ID (`main-title`) e todos os links de navegação usando uma classe (`nav-links`).
+
+
 
 <br>
 
