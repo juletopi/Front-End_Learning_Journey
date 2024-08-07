@@ -105,7 +105,9 @@
   - [🌟 Melhores Práticas CSS](#7-melhores-práticas-css)
   - [📱 Media Queries](#8-media-queries)
 #### 2. JavaScript, Event Handling e AJAX
-- [...]()
+- [📜 JavaScript (JS)](#javascript-js)
+  - [📄 DOM (Document Object Model)](#dom-document-object-model)
+  - [🔣 Lógica de Programação com JavaScript](#lógica-de-programação-com-javascript)
 
 <br>
 
