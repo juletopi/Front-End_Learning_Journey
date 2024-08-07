@@ -2722,7 +2722,6 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
   </a>
 </div>
 
-
 ## JavaScript (JS)
 
 ### O que é "JavaScript" e para quê serve?
@@ -2731,9 +2730,9 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
 
 <img align="right" src="https://github.com/user-attachments/assets/7770e614-89a0-4470-94f7-633573d82b9c" alt="JavaScriptTheArticulations-pic" width="150px">
 
-O **JavaScript**, também conhecido como **JS**, é uma linguagem de programação que permite tornar as páginas da web interativas. Se o HTML é o esqueleto de uma página-web, e o CSS são os músculos e a pele, o JavaScript são as articulações que fazem tudo se mexer.
+O **JavaScript**, também conhecido como **JS**, é uma linguagem de programação que permite tornar as páginas da web interativas. Se o **HTML** é o esqueleto de uma página-web, e o **CSS** são os músculos e a pele, o **JavaScript** são as articulações que fazem tudo se mexer.
 
-Com JavaScript, você pode criar **animações**, **validar formulários**, **manipular dados** em tempo real, e muito mais. É o que transforma uma página estática em uma experiência muito mais dinâmica e interativa.
+Com JavaScript, você pode criar **animações**, **validar formulários**, **manipular dados** em tempo real, e muito mais. É o que transforma uma página estática em uma experiência muito mais dinâmica e interativa. É o passo final do básico do Front-end!
 
 > 📝❗️ **NOTA IMPORTANTE**
 >
@@ -2742,7 +2741,13 @@ Com JavaScript, você pode criar **animações**, **validar formulários**, **ma
 
 Agora, para entender melhor como JavaScript funciona com HTML, precisamos falar sobre algo chamado de **DOM (Document Object Model)**.
 
-### DOM (Document Object Model)
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+## DOM (Document Object Model)
 
 <div align="left">
 
@@ -2770,13 +2775,110 @@ let navLinks = document.querySelectorAll(".nav-links a");
 navLinks.forEach(link => console.log(link));
 ```
 
-Neste exemplo, selecionamos um elemento pelo seu ID (`main-title`) e todos os links de navegação usando uma classe (`nav-links`).
+Neste exemplo acima, selecionamos um elemento pelo seu ID (`main-title`) e todos os links de navegação usando uma classe (`nav-links`).
 
+Mas agora você pode estar se perguntando: mas o que exatamente são esses "let", "document", "log", "forEach", "=>" e "="? Pois então, com JavaScript, estaremos trabalhando verdadeiramente com linguagens de programação, ao contrário do HTML e CSS que são linguagens de marcação. Então vamos explorar esses conceitos fundamentais da **Lógica de Programação com JavaScript**.
 
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
+
+## Lógica de Programação com JavaScript
+
+### O que são "let", "document", "log", "forEach", "=" e "=>"?
+
+<div align="left">
+
+Você viu no exemplo anterior que usamos JavaScript para selecionar elementos do DOM e imprimir informações no console. Mas o que exatamente são esses termos como "let", "document", "log", "forEach", "=" e "=>"? Vamos explorar a lógica de programação por trás desses elementos.
+
+Quando trabalhamos com JavaScript, estamos lidando com uma linguagem de programação, diferente do HTML e CSS, que são linguagens de marcação. Isso significa que com JavaScript, trabalhamos com conceitos fundamentais de programação como **variáveis**, **operadores lógicos**, **funções** e **métodos**. Vamos entender cada um desses conceitos:
+
+### Conceitos Fundamentais de JavaScript
+
+#### Variáveis (`let`, `const`, `var`)
+
+Variáveis são usadas para armazenar dados que podem ser manipulados e usados em nosso código. Aqui estão os tipos de variáveis que usamos em JavaScript:
+
+| Palavra-chave | Descrição |
+|---------------|-----------|
+| `let`         | Declara uma variável que pode ter seu valor alterado. |
+| `const`       | Declara uma variável cujo valor não pode ser alterado após a atribuição inicial. |
+| `var`         | Declara uma variável com escopo de função (forma mais antiga e menos recomendada). |
+
+#### Operadores Lógicos e de Atribuição (`=`, `==`, `===`, `&&`, `||`)
+
+Operadores são usados para realizar operações em variáveis e valores:
+
+| Operador | Descrição | Exemplo |
+|----------|-----------|---------|
+| `=`      | Atribui um valor a uma variável. | `let x = 10;` |
+| `==`     | Compara dois valores para igualdade (não estrita). | `x == '10'` (true) |
+| `===`    | Compara dois valores para igualdade estrita (tipo e valor). | `x === 10` (true) |
+| `&&`     | Operador lógico AND. | `true && false` (false) |
+| `||`     | Operador lógico OR. | `true || false` (true) |
+
+#### Funções e Métodos (`function`, `=>`, `log`, `forEach`)
+
+Funções e métodos permitem que organizemos nosso código em blocos reutilizáveis e executemos operações específicas:
+
+| Palavra-chave/Operador | Descrição | Exemplo |
+|------------------------|-----------|---------|
+| `function`             | Declara uma função tradicional. | `function myFunction() {}` |
+| `=>`                   | Declara uma arrow function. | `const myFunction = () => {}` |
+| `log`                  | Método do objeto console para imprimir mensagens no console. | `console.log('Hello');` |
+| `forEach`              | Método de arrays para iterar sobre cada item do array. | `array.forEach(item => {})` |
+
+### Exemplo de Código: Manipulação do DOM
+
+Agora vamos novamente revisar o exemplo anterior para ver esses conceitos em ação:
+
+```javascript
+// Selecionar um elemento pelo ID
+let mainTitle = document.getElementById("main-title");
+console.log(mainTitle);
+
+// Selecionar todos os links de navegação
+let navLinks = document.querySelectorAll(".nav-links a");
+navLinks.forEach(link => console.log(link));
+```
+
+#### Explicação do Código
+
+- `let mainTitle = document.getElementById("main-title");`
+  - **`let`**: Declara a variável `mainTitle`.
+  - **`document`**: Objeto global que representa o documento HTML.
+  - **`getElementById("main-title")`**: Método para selecionar um elemento pelo ID.
+
+- `console.log(mainTitle);`
+  - **`console.log`**: Método para imprimir informações no console.
+
+- `let navLinks = document.querySelectorAll(".nav-links a");`
+  - **`querySelectorAll(".nav-links a")`**: Método para selecionar todos os elementos que correspondem ao seletor CSS.
+
+- `navLinks.forEach(link => console.log(link));`
+  - **`forEach(link => {})`**: Itera sobre cada link no array `navLinks`.
+  - **`link => console.log(link)`**: Arrow function que imprime cada link no console.
+
+### Tabela de Conceitos de Lógica de Programação em JavaScript
+
+| Conceito         | Descrição |
+|------------------|-----------|
+| Variáveis        | Armazenam dados que podem ser usados e manipulados no código. Ex: `let x = 10;` |
+| Operadores Lógicos e de Atribuição | Realizam operações em variáveis e valores. Ex: `x == 10` |
+| Funções          | Blocos de código reutilizáveis que executam uma tarefa específica. Ex: `function myFunction() {}` |
+| Métodos          | Funções associadas a objetos, como `console.log` e `array.forEach`. |
+
+Então para entender como usar JavaScript e manipular o DOM para criar páginas-web mais interessantes e interativas, precisamos pegar o jeito com alguns conceitos básicos do JavaScript. Dominar essas coisas vai nos ajudar a escrever códigos mais eficientes e fáceis de manter. Conforme a gente for avançando, vamos ver como usar esses fundamentos em Event Handling e AJAX, para deixar nossas páginas ainda mais dinâmicas e responsivas usando o JavaScript.
+
+</div>
+
+<div align="left">
+  <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
+</div>
 
 <br>
-
-----
 
 <!-- AUTHOR -->
 
