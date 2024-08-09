@@ -113,8 +113,6 @@
 
 <!-- WHAT IS FRONT-END -->
 
-<div align="left">
-
 ## Mas o que diaxo é "Front-End"? 🤔
 
 <div align="left">
@@ -145,13 +143,13 @@ E quando a trilha fica mais intensa, vamos explorar coisas avançadas, como test
 
 No fim da jornada teremos um grande arsenal de conhecimento e estaremos prontos para encarar qualquer desafio nesse mundo selvagem da programação Front-End 🚀✨
 
+</div>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
 <!-- ROAD MAP -->
-
-<div align="left">
   
 ## 🗺️ Roadmap de Front-End:
 
@@ -509,6 +507,7 @@ Dentre as IDEs populares, destaca-se o **Visual Studio Code** (VSCode).
 
 O VSCode é super queridinho entre a galera do Front-End porque é fácil de usar, tem muitos extras legais (graças aos plugins) e se conecta bem com outras ferramentas que você pode gostar. Vamos começar com o VSCode porque é eficiente, robusto e a galera sempre tá inventando coisas novas pra deixar ele ainda melhor. <br><br>Vai ser nosso parceirão nessa jornada de aprender sobre Front-End! 😎✨
 
+</div>
 <br>
 
 <div align="left">
@@ -595,8 +594,9 @@ Todas as páginas web que você visita/visitou são montadas usando HTML para cr
 
 Então, pensa no HTML como o esqueleto que dá forma à página, e essas tags são como as instruções para construir cada parte dela.
 
-> 📄❗️ **NOTA IMPORTANTE** 
-> 
+</div>
+
+> [!NOTE]\
 > Ah, e vale mencionar que por enquanto, somente usando o HTML não vai dar pra fazer uma página da web toda bonitinha, afinal com o HTML temos somente o esqueleto da página. Você precisa combinar o HTML com o **CSS (Cascading Style Sheets)** para dar estilo e o **JavaScript** para tornar as coisas mais animadas. Juntos, HTML, CSS e JavaScript formam a base essencial para o que chamamos de Front-End, tendeu?
 
 <div align="left">
@@ -604,6 +604,8 @@ Então, pensa no HTML como o esqueleto que dá forma à página, e essas tags s�
 </div>
 
 ## As tags de HTML
+
+<div align="left">
 
 Okay, lembra das "tags"? 
 
@@ -723,11 +725,15 @@ Eita, complicou! São muitas tags pra usar, será que vou precisar aprender TODA
 Nah, só algumas, não esquenta. Lembre-se, elas só são utilizadas quando necessárias. <br>
 A maioria você quase nunca vai usar. Por enquanto você só vai precisar aprender as principais, aquelas que são usadas em toda estrutura HTML, aquelas que compõe uma "Estrutura Semântica" de HTML.
 
+</div>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
 
 ## Estrutura Semântica? O que é isso?
+
+<div align="left">
 
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/01e11947-7eaf-4a37-9c52-5c5af52315b3"  alt="NotSemanticVSSemantic-pic"  width="360px" height="420px">
 
@@ -776,6 +782,7 @@ Explicando as tags...
 
 `<body>`: Esta tag contém todo o conteúdo visível da página, como texto, imagens, vídeos e outros elementos.
 
+</div>
 <br>
 
 <table align="center">
@@ -958,7 +965,6 @@ Também recomendo sites, fórums e outros repositórios para melhor estudar, eis
 - O meu repositório do curso de ADS (Análise e Desenvolvimento de Sistemas) da disciplina de "[Tópicos Especiais em Tecnologia](https://github.com/juletopi/Topicos_Especiais_em_Tecnologia)", com vários exemplos de código em HTML, CSS e JavaScript.
 
 </div>
-
 <br>
 
 <table align="center">
@@ -990,6 +996,7 @@ Também recomendo sites, fórums e outros repositórios para melhor estudar, eis
 ### O que é "CSS", e para quê serve?
 
 <div align="left">
+
 <img align="right" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/49e7045d-ba27-4f7b-80c9-4a5069a58c18" alt="CSSTheSkin-pic" width="150px">
   
 O **CSS**, ou *Cascading Style Sheets* (em português, Folhas de Estilo em Cascata), é a linguagem utilizada para estilizar a apresentação de documentos HTML.
@@ -999,6 +1006,7 @@ Enquanto o **HTML** define a **estrutura e o conteúdo** de uma página web, o C
 A combinação de HTML e CSS permite criar páginas web visualmente atraentes e bem estruturadas, proporcionando uma experiência de navegação agradável e intuitiva.
 
 Em resumo, o CSS permite que os desenvolvedores web personalizem a aparência de suas páginas, tornando-as mais atraentes e funcionais para os usuários.
+
 </div>
 
 <div align="left">
@@ -1008,6 +1016,7 @@ Em resumo, o CSS permite que os desenvolvedores web personalizem a aparência de
 ## Estrutura de Diretório
 
 <div align="left">
+
 <img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/fc6353b5-5a5a-4b04-978c-f764a04018b5" alt="ProjectDiretoryStructure-pic" width="365px">
   
 Agora é um ótimo momento de falar sobre **Estrutura de Diretório**, uma parte fundamental para manter os arquivos organizados e facilitar a manutenção e colaboração. Aqui está um exemplo com uma imagem ao lado...
@@ -1042,6 +1051,8 @@ Ao final do guia, teremos um conhecimento sólido sobre CSS. Vamos lá! 😁✊
 
 ## Guia de CSS
 
+<div align="left">
+
 Aqui está o guia que iremos seguir:
 
 1. **Linkando CSS com HTML:** Mostraremos como linkar um arquivo CSS externo com um arquivo HTML usando a tag `<link>` no `<head>` do documento HTML.
@@ -1061,7 +1072,6 @@ Aqui está o guia que iremos seguir:
 8. **Media Queries:** Introduziremos o conceito de media queries, que permitem que você aplique estilos com base nas características do dispositivo, como largura da tela, permitindo a criação de designs responsivos.
 
 </div>
-
 <br>
 
 <table align="center">
@@ -1109,6 +1119,7 @@ No final, teremos algo assim:
 <img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/573a2b4a-8895-465e-a60b-d1b05d561e7b" alt="HTMLLinkRelStylesheet-pic" width="650px">
 
 E com isso, estamos prontos para iniciarmos com o CSS agora. Vamos partir pro passo 2. **Seletores CSS**!
+
 </div>
 
 <div align="left">
@@ -1230,6 +1241,7 @@ Enfim, resumindo, há vários tipos de seletores CSS e situações onde cada um 
    - **Situações de uso:** É útil quando você deseja aplicar estilos a elementos com atributos específicos, como estilizar todos os campos de entrada de texto em um formulário.
 
 E com isso finalizamos a parte dos Seletores CSS. Agora seguiremos para o próximo passo do guia, o passo 3. **Propriedades CSS**!
+
 </div>
 
 <div align="left">
@@ -1306,6 +1318,8 @@ Mas é a mesma coisa das tags de HTML, lembra?
 
 Então, você só precisa ficar atento ao que precisa naquele momento. Se você quer que algum elemento da sua página web fique de uma certa maneira, provavelmente existe uma propriedade CSS perfeita para o que você precisa!
 
+</div>
+
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
 </div>
@@ -1342,7 +1356,8 @@ Primeiramente, vamos ver a nossa **Estrutura de Diretório**.
 </div>
 
 <div align="left">
-  <img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/63731581-ad95-489d-a8ec-b10d7c184d13" alt="HTML+CSSWebpageDiretoryStructure-pic" width="375px">
+
+<img align="left" src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/63731581-ad95-489d-a8ec-b10d7c184d13" alt="HTML+CSSWebpageDiretoryStructure-pic" width="375px">
 
 Na estrutura, podemos ver o arquivo "index.html" que anteriormente era o nosso arquivo "Simple_HTML_Structure.html".
 
@@ -2083,6 +2098,7 @@ O Grid é um modelo de layout bidimensional, e é como uma grade que você usa p
 Apesar de não termos um exemplo do Grid no nosso código CSS, ambos os modelos **Flexbox** e **Grid** são poderosos e complementares, e sua escolha depende das necessidades específicas do layout que você está tentando criar. 
 
 O Flexbox é mais adequado para layouts unidimensionais, como barras laterais ou menus, enquanto o Grid é mais adequado para layouts bidimensionais, como layouts de página complexos. Em muitos casos, uma combinação inteligente de ambos os modelos pode ser a melhor abordagem para criar layouts flexíveis e responsivos.
+
 </div>
 
 <div align="left">
@@ -2181,6 +2197,7 @@ Transições e animações CSS podem dar aquele "tchans" especial para uma pági
 As transições são frequentemente utilizadas em resposta a ações do usuário, como um hover, suavizando mudanças de estilo e criando uma experiência mais agradável. Por outro lado, as animações são usadas para animar elementos da página muitas vezes sem a necessidade de interação do usuário. 
 
 Combinando transições e animações, é possível criar interfaces web mais dinâmicas e envolventes, melhorando muito a experiência do usuário.
+
 </div>
 
 <div align="left">
@@ -2401,6 +2418,7 @@ Lembre-se, código limpo e organizado não é apenas uma questão de estética, 
 Então, da próxima vez que estiver escrevendo CSS, pense além da aparência final da página. Considere também a estrutura e a clareza do seu código. Isso fará toda a diferença na qualidade do seu trabalho e na experiência de quem colaborar com você. 
 
 Continue aprendendo e aplicando essas práticas para sempre evoluir como desenvolvedor Front-end!
+
 </div>
 
 <div align="left">
@@ -2677,6 +2695,7 @@ Agora vamos comparar e ver como ficou a nossa página-web em telas menores:
 > <a href=""><img src="https://github.com/juletopi/Front-End_Learning_Journey/assets/76459155/e9ccdd48-a4b7-4de5-a9da-825fc81b1912" alt="WebPageDesktopView" title="Visualização da página no modo Desktop" style="width: 80%;"></a>
 > ### Modo de tela para Smartphones 📱
 > <a href=""><img src="https://github.com/user-attachments/assets/c41b9080-fbe3-4994-bdf2-53e0233c2204" alt="WebPageMobileView" title="Visualização da página responsiva no modo Smartphone" style="width: 40%;"></a>
+
 </div>
 
 <br>
@@ -2736,14 +2755,13 @@ O **JavaScript**, também conhecido como **JS**, é uma linguagem de programaç�
 
 Com JavaScript, você pode criar **animações**, **validar formulários**, **manipular dados** em tempo real, e muito mais. É o que transforma uma página estática em uma experiência muito mais dinâmica e interativa. É o passo final do básico do Front-end!
 
-> 📝❗️ **NOTA IMPORTANTE**
->
+</div>
+
+> [!NOTE]\
 > Ah, e JavaScript não deve ser confundido com Java. São coisas bem diferentes! Enquanto JavaScript é usado principalmente para interatividade na web, Java é uma linguagem de programação de uso geral.
 > A semelhança no nome entre Java e JavaScript é mais uma coincidência histórica do que semelhança técnica. Quando JavaScript foi desenvolvida, havia um grande interesse em torno de Java na época. Para aproveitar essa popularidade, os criadores de JavaScript decidiram incluir “Java” no nome como uma jogada de marketing, bem sacana né?
 
 Agora, para entender melhor como JavaScript funciona com HTML, precisamos falar sobre algo chamado de **DOM (Document Object Model)**.
-
-</div>
 
 <div align="left">
   <h6><a href="#front-end-coding-journey-"> Voltar para o início ↺</a></h6>
