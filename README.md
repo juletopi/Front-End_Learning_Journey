@@ -2947,11 +2947,5 @@ Então para entender como usar JavaScript e manipular o DOM para criar páginas-
 ----
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sue+Ellen+Francisco&size=40&duration=1&pause=99999&color=dddddd&center=true&vCenter=true&repeat=false&width=620&height=60&lines=Obrigado+por+visitar%2C+e+até+a+próxima!" alt="TypingGoodbye-SVG" title="Boas venturas e volte sempre que precisar! ;)"/>
-  </a>
-</div>
-
-<div align="center">
-  Feito com 🤍 por <a href="https://github.com/juletopi"> Juletopi</a>.
+  Feito com 🤍 e ☕ por <a href="https://github.com/juletopi"> Juletopi</a>.
 </div>
