@@ -28,7 +28,7 @@ Caso tenha achado erros de digitação/formatação ou deseja melhorar a documen
 
 1. **Fork e Clone**
    - Faça um fork do [repositório](https://github.com/juletopi/Front-End_Learning_Journey)
-   - Clone seu fork: `git clone https://github.com/SEU-USUARIO/PontuaDev_Project.git`
+   - Clone seu fork: `git clone https://github.com/SEU-USUARIO/Front-End_Learning_Journey.git`
 
 2. **Faça as alterações necessárias**
    - Crie uma branch: `git checkout -b doc-SEU-NOME`, por exemplo, `doc-gabriela`.
