@@ -16,31 +16,56 @@
 
 Antes de continuar, certifique-se de que o bug que você encontrou ainda não foi relatado na sessão <a href="https://github.com/juletopi/Front-End_Learning_Journey/issues">Issues</a> deste repositório.
 
-- Se um bug já estiver sido mencionado nas <a href="https://github.com/juletopi/Front-End_Learning_Journey/issues">issues</a> e você deseja corrigi-lo, faça um fork do repositório e envie sua implementação com o bug corrigido em um pull request.
-- Se um bug NÃO estiver mencionado nas <a href="https://github.com/juletopi/Front-End_Learning_Journey/issues">issues</a>, abra uma nova issue. Certifique-se de incluir um título, uma descrição clara e um caso de teste demonstrando o comportamento esperado que não está ocorrendo. Caso você mesmo deseja corrigir este bug, faça um fork do repositório e envie sua implementação com o bug corrigido em um pull request.
-> [!NOTE]\
-> *Evite abrir issues pedindo para ser ativamente "atribuído" a uma parte específica do código. Em vez disso, apenas envie sua implementação em um pull request e suas modificações serão avaliadas para aprovação.*
+- Se um bug NÃO estiver mencionado nas <a href="https://github.com/juletopi/Front-End_Learning_Journey/issues">Issues</a>, abra uma nova. Certifique-se de incluir um título, uma descrição clara do comportamento esperado que não está ocorrendo.
+> [!TIP]\
+> Evite abrir issues pedindo para ser ativamente "atribuído" a uma parte específica do código. Apenas relate o bug.
+
+<br>
 
 ## Deseja contribuir com a documentação?
 
-Caso tenha achado erros graves na documentação ou deseja traduzi-la para uma língua diferente, eis o que fazer abaixo.
+Caso tenha achado erros de digitação/formatação ou deseja melhorar a documentação:
 
-- Faça um fork do repositório e faça as alterações necessárias na documentação.
-- Crie um pull request.
-- Ele será revisado para aprovação.
-- Se aprovado, as alterações solicitadas serão mescladas ao repositório.
-> [!NOTE]\
-> *Em caso de tradução, nomeie o arquivo da seguinte maneira: `README-[sigla da língua (tudo em maiúsculo)].md`* <br>
-> *Por exemplo: `README-ENG.md`, `README-ESP.md`, `README-PT.md`*
+1. **Fork e Clone**
+   - Faça um fork do [repositório](https://github.com/juletopi/Front-End_Learning_Journey)
+   - Clone seu fork: `git clone https://github.com/SEU-USUARIO/PontuaDev_Project.git`
 
-## Deseja que uma nova funcionalidade seja adicionada?
+2. **Faça as alterações necessárias**
+   - Crie uma branch: `git checkout -b doc-SEU-NOME`, por exemplo, `doc-gabriela`.
+   - Concentre-se em melhorar a clareza, corrigir erros ou adicionar informações úteis
 
-- Abra uma nova issue.
-- Certifique-se de incluir um título, uma descrição clara e um caso de teste demonstrando a nova funcionalidade que deseja adicionar ao repositório.
+3. **Envie suas alterações**
+   - Commit e push: `git commit -m "Docs corrigido links externos" && git push origin doc-SEU-NOME`
+   - Abra um Pull Request da sua branch com a branch `master` do repositório original
+   - Aguarde a revisão para aprovação das suas mudanças.
+
+<br>
+
+## Deseja traduzir a documentação?
+
+Para adicionar uma nova tradução ao projeto:
+
+1. **Fork e Clone**
+   - Faça um fork do [repositório](https://github.com/juletopi/Front-End_Learning_Journey)
+   - Clone seu fork: `git clone https://github.com/SEU-USUARIO/Front-End_Learning_Journey.git`
+
+2. **Crie os arquivos de tradução**
+   - Crie uma branch: `git checkout -b traducao-SEU-NOME`, por exemplo, `traducao-thiago`.
+   - Adicione seus arquivos na pasta `docs/translations/` seguindo estas diretrizes:
+     - Use o padrão `README.[código do idioma].md` (ex: `README.en.md`)
+     - Use o código de idioma de duas letras conforme ISO 639-1
+     - Mantenha a mesma estrutura e formatação do README original
+
+3. **Envie sua tradução**
+   - Commit e push: `git commit -m "Trans adicionada tradução para [IDIOMA]" && git push origin traducao-SEU-NOME`
+   - Abra um Pull Request da sua branch com a branch `master` do repositório original
+   - Aguarde a revisão para aprovação das suas mudanças.
+
+<br>
 
 ## Tem alguma pergunta que deseja fazer?
 
-- Faça qualquer pergunta sobre o repositório abrindo uma nova discussão na sessão de <a href="https://github.com/juletopi/Front-End_Learning_Journey/discussions">Discussions</a> deste repositório.
+- Faça qualquer pergunta sobre o repositório abrindo uma nova<br>discussão na sessão de [Discussions](https://github.com/juletopi/Front-End_Learning_Journey/discussions) deste repositório.
 
 <br>
 
@@ -51,15 +76,20 @@ Caso tenha achado erros graves na documentação ou deseja traduzi-la para uma l
 <table align="center">
   <tr>
     <td>
-      <p><strong><div align="center">E isso é tudo! <br><br>
-        Sinta-se livre para contribuir ou discutir sobre este repositório. <br>
-        Obrigado pela sua atenção!</strong></p>
-      </div>
-      <p><div align="center">
+      <p align="center">
+        <strong>
+            <div align="center">
+              E isso é tudo! <br><br>
+              Sinta-se livre para contribuir ou discutir sobre este repositório. <br>
+              Obrigado pela sua atenção!
+            </div>
+        </strong>
+      </p>
+      <p align="center">
         <a href="">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW95Y2JqdXY5emlwanZ0ajlxYjdsZW9zMXNlYWt1bXRyNWtzcWY3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FJxz3zSthG5vQxG1ZY/giphy.gif" alt="LetsGo-gif" width="200px" title="Tchau tchau!">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW95Y2JqdXY5emlwanZ0ajlxYjdsZW9zMXNlYWt1bXRyNWtzcWY3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FJxz3zSthG5vQxG1ZY/giphy.gif" alt="Byebye-gif" width="200px" title="Tchau tchau!">
         </a>
-      </div>
+      </p>
     </td>
   </tr>
 </table>
